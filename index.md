@@ -4,10 +4,18 @@ layout: default
 
 # AIAA ISTC Website on Github Pages<br/>
 
-Coming soon!
+## 2019 Intelligent Systems Workshop -- University of Cincinnati, July 29-30
+The 6th annual Intelligent Systems Workshop will be held at the University of Cincinnati, in Cincinnati, OH on July 29-30, 2019. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
+
+For more information, see: [https://istcws2019.org/](https://istcws2019.org/)
 
 * * *
 * * *
+
+## <i>News: 2019 January 08, 4:40pm EST (by Cat McGhan)</i>
+Presentations from the 2018 IS Workshop are online and available at [this location](https://drive.google.com/drive/folders/138iWtCOfJi4zUTtg_1If8hshjnTZXC9G?usp=sharing).
+
+The 2019 IS Workshop page is also online! View it at: [https://istcws2019.org/](https://istcws2019.org/)
 
 ## <i>News: 2018 September 13, 1:39am EST (by Cat McGhan)</i>
 Links to the presentations from the 2018 IS Workshop will be made available at this website domain later today. Stay tuned!

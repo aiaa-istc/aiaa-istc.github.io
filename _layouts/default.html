@@ -19,11 +19,14 @@
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
+          <h1>AIAA Intelligent Systems Technical Committee</h1>
+          <h2>AIAA ISTC Website on Github Pages</h2>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <!--<h2>{{ site.description | default: site.github.project_tagline }}</h2>-->
         {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+          <!--<a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>-->
+          <a href="{{ '/' | absolute_url }}" class="button"><img src="{{ '/images/ISTC_logo_small.gif' | relative_url }}" alt="ISTC logo"></a>
         {% endif %}
         {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
@@ -34,10 +37,56 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
+          <p>The AIAA Intelligent Systems Technical Committee (ISTC) is concerned with the application of Intelligent System (IS) technologies and methods to aerospace systems, the verification and validation of these systems, and the education of the AIAA membership in the use of IS technologies in aerospace and other technical disciplines.</p>
+          <hr>
           {{ content }}
         </section>
 
         <aside id="sidebar">
+            <p><b>Chair Information:</b><br>
+            Chair<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;David Casbeer<br>
+            Email<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:david.casbeer@live.com">david.casbeer@live.com</a><br>
+            Affiliation: Air Force Research Laboratory
+            </p>
+            <p><b>ISTC Officers:</b><br>
+            Chair: <a href="mailto:nhan.t.nguyen@nasa.gov">Nhan Nguyen</a><br>
+            Secretary: <a href="mailto:nick.ernest@psibernetix.com">Nick Ernest</a><br>
+            <img src="{{ '/images/ISTC_logo_small.gif' | relative_url }}" alt="ISTC logo"><br>
+            Join our Facebook Group! <a href="https://www.facebook.com/groups/1720654964877344/">https://www.facebook.com/groups/1720654964877344/</a>
+            </p>
+            <p><b>Site Content:</b><br>
+            <a href="{{ '/' | absolute_url }}">ISTC Home</a><br>
+            <a href="{{ '/what_is_an_intelligent_system.html' | absolute_url }}">What is an IS?</a><br>
+            <a href="https://drive.google.com/file/d/1MBOWCYNaHiDSr0ALWLyOcq0hDWzn8NSE/view?usp=sharing" alt text="Roadmap for Intelligent Systems in Aerospace/AIAA_Roadmap_for_Intelligent_Systems-v1.0_14Jun2016.pdf">IS Roadmap</a><br>
+            &nbsp;&nbsp;<a href="https://www.aiaa.org/ISTC-Opinion-Paper-Dec2017/"><small>2017 Position Paper</small></small></a><br>
+            <!--&nbsp;&nbsp;a href="https://drive.google.com/file/d/1U-YcX30sbm_nlf76OdrrA1FjU1o_bgsy/view?usp=sharing"><small>2017 Position Paper</small></a><br>-->
+            <a href="">IS Workshops</a><br>
+            &nbsp;&nbsp;<a href="https://istcws2019.org/"><small>2019 IS Workshop</small></a><br>
+            &nbsp;&nbsp;<a href="https://aerospace.org/events/intelligent-systems-workshop"><small>2018 IS Workshop</small></a><br>
+            &nbsp;&nbsp;<a href="{{ '/back_online_soon.html' | absolute_url }}"><small>2017 IS Workshop</small></a><br>
+            &nbsp;&nbsp;<a href="{{ '/back_online_soon.html' | absolute_url }}"><small>2016 IS Workshop</small></a><br>
+            &nbsp;&nbsp;<a href="{{ '/2015_IS_Workshop.html' | absolute_url }}"><small>2015 IS Workshop</small></a><br>
+            &nbsp;&nbsp;<a href="{{ '/2014_IS_Workshop.html' | absolute_url }}"><small>2014 IS Workshop</small></a><br>
+            <a href="{{ '/back_online_soon.html' | absolute_url }}">IS Award</a><br>
+            <a href="{{ '/back_online_soon.html' | absolute_url }}">Public Outreach</a><br>
+            <a href="{{ '/back_online_soon.html' | absolute_url }}">Sub-Committees</a><br>
+            <a href="{{ '/back_online_soon.html' | absolute_url }}">Newsletter</a><br>
+            <a href="{{ '/back_online_soon.html' | absolute_url }}">Committee Membership</a><br>
+            <a href="{{ '/back_online_soon.html' | absolute_url }}">Announcements</a><br>
+            <a href="{{ '/back_online_soon.html' | absolute_url }}">Discussion Board</a><br>
+            <a href="{{ '/back_online_soon.html' | absolute_url }}">Survey</a><br>
+            &nbsp;&nbsp;<a href="{{ '/back_online_soon.html' | absolute_url }}"><small>January 2013 ISTC Meeting</small></a><br>
+            <a href="{{ '/back_online_soon.html' | absolute_url }}">Calendar</a><br>
+            <a href="{{ '/back_online_soon.html' | absolute_url }}">Shared Documents</a>
+            </p>
+            <p><b>ISTC Gallery:</b><br>
+            <img src="{{ '/images/thumbnails/engine_jpg.jpg' | relative_url }}" alt="engine"> <a href="{{ '/images/engine.jpg' | relative_url }}">engine</a> -- 9/9/2010 12:00PM<br>
+            <img src="{{ '/images/thumbnails/TC field trip to JPL_JPG.jpg' | relative_url }}" alt="TC field trip to JPL"> <a href="{{ '/images/TC field trip to JPL.jpg' | relative_url }}">TC field trip to JPL</a> -- 7/15/2008 12:00AM<br>
+            <img src="{{ '/images/thumbnails/Steve Chien receiving 2011 AIAA Intelligent Systems Award_jpg.jpg' | relative_url }}" alt="Steve Chien receiving 2011 AIAA Intelligent Systems Award"> <a href="{{ '/images/Steve Chien receiving 2011 AIAA Intelligent Systems Award.jpg' | relative_url }}">Steven Chien receiving 2011 AIAA Intelligent Systems Award</a> -- 3/3/2011 12:00AM<br>
+            
+            </p>
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>

@@ -5,7 +5,7 @@ layout: default
 <h2 align="center">2018 AIAA Intelligent Systems Workshop</h2>
 <h3 align="center">Dates: August 7-8, 2018</h3>
 <h3 align="center">(with an optional tour of a nearby site in the works for Aug 9... :)</h3>
-<h3 align="center">Location: <a href="http://www.aerospace.org/about-us/locations/">Aerospace Corporate HQ</h3>
+<h3 align="center">Location: <a href="http://www.aerospace.org/about-us/locations/">Aerospace Corporate HQ</a></h3>
 <h3 align="center">El Segundo, CA</h3>
 <h3 align="center">(<a href="http://www.aerospace.org/about-us/locations/el-segundo-ca/">driving directions to the site</a>, with pdf map of the conference building and parking coming soon!)</h3>
 

@@ -9,7 +9,9 @@ layout: default
 <a href="https://istcws2019.org/">AIAA Intelligent Systems Workshop, July 29-30, 2019</a><br>
 University of Cincinnati, Cincinnati, OH
 
-The 6th annual Intelligent Systems Workshop will be held at the University of Cincinnati, in Cincinnati, OH on July 29-30, 2019. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
+The 6th annual Intelligent Systems Workshop will be held at the University of Cincinnati, in Cincinnati, OH on July 29-30, 2019.
+
+Registration is open! See: <a href="https://istcws2019.org/registration/"></a>
 
 For more information, see: <a href="https://istcws2019.org/">https://istcws2019.org/</a>
 

@@ -46,8 +46,8 @@ Every member of the ISTC has the following ongoing responsibilities:
 * Promote the TC’s activities to their coworkers and colleagues who might have an interest and be on the lookout for opportunities to promote IS technology and applications.
 * Report any concerns regarding their participation in the TC or a subcommittee to the TC and/or subcommittee chair.
 
-| Full Name         | Institution       | Membership       | Position        | Biography |
-|:------------------|:------------------|:-----------------|:----------------|:----------|
+| <b>Full Name</b>         | <b>Institution</b>       | <b>Membership</b>       | <b>Position</b>        | <b>Biography</b> |
+|:-------------------------|:-------------------------|:------------------------|:-----------------------|:-----------------|
 | (coming-soon!)    |   |   |   |   |
 |            |   |   |   |   |
 |            |   |   |   |   |

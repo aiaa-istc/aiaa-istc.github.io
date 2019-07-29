@@ -20,7 +20,7 @@ Aerospace Corporate HQ, El Segundo, CA
 
 Registration is closed. <!-- a href="http://www.cvent.com/d/2gqm6s" Online registration is now open! There is a $100 registration fee that covers on-site meals and snacks for the event. -->
 
-The fifth AIAA Intelligent Systems Workshop was held at Aerospace Corporate HQ on August 7-8, 2018, with an optional tour on Aug 9.</p>
+The fifth AIAA Intelligent Systems Workshop was held at Aerospace Corporate HQ on August 7-8, 2018, with an optional tour on Aug 9.
 
 More information is available <a href="/2018_IS_Workshop.html">here</a>.
 
@@ -51,20 +51,3 @@ More information is available <a href="/2014_IS_Workshop.html">here</a>.
 * * *
 
 <!-- --end-of-page-- -->
-
-
-
-
-
-
-
-
-
-<a href="IS_Workshops.html">IS Workshops</a><br>
-            &nbsp;&nbsp;<a href="https://istcws2019.org/"><small>2019 IS Workshop</small></a><br>
-            &nbsp;&nbsp;<a href="/2018_IS_Workshop.html"><small>2018 IS Workshop</small></a><br>
-            &nbsp;&nbsp;<a href="{{ '/2017_IS_Workshop.html' | absolute_url }}"><small>2017 IS Workshop</small></a><br>
-            &nbsp;&nbsp;<a href="{{ '/back_online_soon.html' | absolute_url }}"><small>2016 IS Workshop</small></a><br>
-            &nbsp;&nbsp;<a href="{{ '/2015_IS_Workshop.html' | absolute_url }}"><small>2015 IS Workshop</small></a><br>
-            &nbsp;&nbsp;<a href="{{ '/2014_IS_Workshop.html' | absolute_url }}"><small>2014 IS Workshop</small></a><br>
-

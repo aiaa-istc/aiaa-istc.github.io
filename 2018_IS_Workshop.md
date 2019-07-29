@@ -22,13 +22,11 @@ Specifically, this meeting will gather together private sector, government, and 
 The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems. The workshop covers topics of interest to professionals interested in intelligent systems development for terrestrial, air, and space domains. It also provides networking opportunities with both domestic and international attendees. University students are welcome!
 
 Themes for this year's workshop sessions include:
-<ul>
-  <li>Intelligent Systems Currently Supporting Customers</li>
-  <li>Intelligent Systems Nearing Operations</li>
-  <li>Where Intelligent Systems Development is Going and Why</li>
-  <li>How Intelligent Systems Contribute to Autonomy</li>
-  <li>How Autonomy Relates to AIAA ISTC's Intelligent Systems Vision</li>
-</ul>
+* Intelligent Systems Currently Supporting Customers
+* Intelligent Systems Nearing Operations
+* Where Intelligent Systems Development is Going and Why
+* How Intelligent Systems Contribute to Autonomy
+* How Autonomy Relates to AIAA ISTC's Intelligent Systems Vision
 
 Please note that a modest registration fee ($100 for general attendees, $50 for students) will be assessed to cover on-site meals and snacks during the conference. The conference registration website contains further details and instructions.
 

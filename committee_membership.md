@@ -60,7 +60,7 @@ Every member of the ISTC has the following ongoing responsibilities:
 | Casbeer, David | Air Force Research Laboratory | Member | TC Chair, Membership Subcommittee Chair, Conference Planning, Procedures |
 | Chakrabarty, Anjan | NASA Ames / SGT | Associate Member | New TC Member |
 | Choi, Han-Lim | Korea Advanced Institute of Science & Technology | International Member | New TC Member |
-| Chua, Zarrin | Aurora Flight Sciences | Member |  |
+| Chua, Zarrin | Aurora Flight Sciences | Member | Workshop |
 | Cohen, Kelly | University of Cincinnati | Emeritus Member |  |
 | Cook, Steve | Northrop Grumman Aerospace Systems, Office of Independent Airworthiness | Member | Public Policy |
 | Cummings, Mary | Duke University | Emeritus Member |  |

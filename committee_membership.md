@@ -46,18 +46,18 @@ Every member of the ISTC has the following ongoing responsibilities:
 * Promote the TC’s activities to their coworkers and colleagues who might have an interest and be on the lookout for opportunities to promote IS technology and applications.
 * Report any concerns regarding their participation in the TC or a subcommittee to the TC and/or subcommittee chair.
 
-| <b>Full Name</b>         | <b>Institution</b>       | <b>Membership</b>       | <b>Position</b>        | <b>Biography</b> |
-|:-------------------------|:-------------------------|:------------------------|:-----------------------|:-----------------|
+| <b>Full Name</b>         | <b>Institution</b>       | <b>Membership</b>       | <b>Position</b>        |
+|:-------------------------|:-------------------------|:------------------------|:-----------------------|
 | Adhikari, Sam | Sysoft Corporation | Member | Conference Planning, Procedures |
 | Adolf, Florian | German Aerospace Center DLR | International Member | Conference Planning, Publications, Workshop |
-| Ahmed, Nisar | University of Colorado Boulder | Member | Conference Planning, Publications
+| Ahmed, Nisar | University of Colorado Boulder | Member | Conference Planning, Publications |
 | Allen, Danette | NASA Langley | Member | Workshop |
 | Atkins, Ella | University of Michigan | Alumni Member | Workshop Subcommittee Chair, Conference Planning, PDE&O, Publications |
 | Ayoubi, Mohammad | Santa Clara University | Member | Workshop, Awards |
 | Balas, Mark | Embry-Riddle Aeronautical University, FL | Emeritus Member | Awards, Conference Planning |
 | Belcastro, Christine | NASA Langley | Member | Public Policy, Roadmap, Workshop |
 | Bradley, Justin | University of Nebraska | Member | New TC Member |
-| Casbeer, David | Air Force Research Laboratory | Member | TC Chair, Membership Subcommittee Chair, Conference Planning, Procedures | |
+| Casbeer, David | Air Force Research Laboratory | Member | TC Chair, Membership Subcommittee Chair, Conference Planning, Procedures |
 | Chakrabarty, Anjan | NASA Ames / SGT | Associate Member | New TC Member |
 | Choi, Han-Lim | Korea Advanced Institute of Science & Technology | International Member | New TC Member |
 | Chua, Zarrin | Aurora Flight Sciences | Member |  |

@@ -48,11 +48,61 @@ Every member of the ISTC has the following ongoing responsibilities:
 
 | <b>Full Name</b>         | <b>Institution</b>       | <b>Membership</b>       | <b>Position</b>        | <b>Biography</b> |
 |:-------------------------|:-------------------------|:------------------------|:-----------------------|:-----------------|
-| (coming-soon!)    |   |   |   |   |
-|            |   |   |   |   |
-|            |   |   |   |   |
-|            |   |   |   |   |
-
+| Adhikari, Sam | Sysoft Corporation | Member | Conference Planning, Procedures |
+| Adolf, Florian | German Aerospace Center DLR | International Member | Conference Planning, Publications, Workshop |
+| Ahmed, Nisar | University of Colorado Boulder | Member | Conference Planning, Publications
+| Allen, Danette | NASA Langley | Member | Workshop |
+| Atkins, Ella | University of Michigan | Alumni Member | Workshop Subcommittee Chair, Conference Planning, PDE&O, Publications |
+| Ayoubi, Mohammad | Santa Clara University | Member | Workshop, Awards |
+| Balas, Mark | Embry-Riddle Aeronautical University, FL | Emeritus Member | Awards, Conference Planning |
+| Belcastro, Christine | NASA Langley | Member | Public Policy, Roadmap, Workshop |
+| Bradley, Justin | University of Nebraska | Member | New TC Member |
+| Casbeer, David | Air Force Research Laboratory | Member | TC Chair, Membership Subcommittee Chair, Conference Planning, Procedures | |
+| Chakrabarty, Anjan | NASA Ames / SGT | Associate Member | New TC Member |
+| Choi, Han-Lim | Korea Advanced Institute of Science & Technology | International Member | New TC Member |
+| Chua, Zarrin | Aurora Flight Sciences | Member |  |
+| Cohen, Kelly | University of Cincinnati | Emeritus Member |  |
+| Cook, Steve | Northrop Grumman Aerospace Systems, Office of Independent Airworthiness | Member | Public Policy |
+| Cummings, Mary | Duke University | Emeritus Member |  |
+| De Visser, Coen | Delft University of Technology | International Member | Awards, Publications |
+| Doyle, Richard | NASA JPL | Emeritus Member | PDE&O, Publications |
+| Figueroa, Fernando | NASA Stennis | Member | Conference Planning |
+| Goeck, Vinicious | Texas A&M University | Associate Member |  |
+| Gross, Kerianne | Air Force Research Laboratory | Associate Member | New TC Member |
+| Gu, Yu | West Virgina University | Member | Roadmap Subcommittee Chair |
+| Harris, Joshua | Texas A&M University | Associate Member | Website, Workshop |
+| Ingham, Michel | NASA JPL | Emeritus Member |  |
+| Kivelevitch, Elad | Mathworks | Member | TC Chair Elect, Conference Planning, Membership, Procedures, Public Policy, Publications |
+| Kochersberger, Kevin | Virginia Tech | Member | Conference Planning, Public Policy |
+| Kulkarni, Chetan | NASA Ames / SGT | Member | PDE&O Subcommittee Co-Chair |
+| Lacher, Andrew | MITRE | Member | Workshop Subcommittee Co-Chair, Public Poliicy Co-Chair, Roadmap |
+| Lampton, Amanda | Systems Technology, Inc | Member | Conference Planning Subcommittee Co-Chair, Awards, PDE&O |
+| Leszczynski, Zigmond | Aerospace Corp | Member | Workshop Subcommittee |
+| Lombaerts, Thomas | NASA Ames / SGT | Member | Conference Planning, Publications |
+| McGhan, Catharine | University of Cincinnati | Member | Website Subcommittee Chair, PDE&O |
+| Meade, Andrew | Rice University | Alumni Member | PDE&O |
+| Melcher, Kevin | NASA Glenn | Member | Conference Planning Subcommittee Chair, Award, Procedures, Public Policy |
+| Muse, Jonathan | Air Force Research Laboratory | Associate Member | Award, Conference Planning |
+| Neogi, Natasha | NASA Langley | Member | Publications Subcommittee Chair, Conference Planning |
+| Nguyen, Nhan | NASA Ames | Member | TC Chair, Membership Subcommittee Chair, Awards, Conference Planning, Membership, Roadmap, Workshop |
+| Oyama, Akira | Japan Aerospace Exploration Agency (JAXA) | International Member | Publications
+| Rafi, Melvin | Wichita State University | Associate Member | New TC Member |
+| Rozier, Kristin | Iowa State University | Member | PDE&O Subcommittee Chair |
+| Ryan, John | NASA Langley | Member | Procedures Subcommittee Chair |
+| Sabo, Chelsea | Lockheed Martin | Member | Awards Subcommittee Chair, Procedures, PDE&O |
+| Savely, Robert | NASA JSC | Alumni Member | Awards |
+| Selva, Daniel | Texas A&M University | Member | Roadmap, Workshop |
+| Shah, Julie | MIT | Member | Conference Planning |
+| Sharma, Raj | University of Cincinnati | Member | Workshop Subcommittee |
+| Steck, James | Wichita State University | Alumni Member | Awards, PDE&O |
+| Stimpson, Alexander | Duke University | Member | New TC Member |
+| Swei, Sean | NASA Ames | Member | Conference Planning |
+| Tschan, Christopher | Aerospace Corp | Alumni Member | Public Policy Subcommittee Chair, Roadmap |
+| Valasek, John | Texas A&M | Member | Publications Subcommittee Co-Chair |
+| Wan, Yan | University of North Texas | Member | Roadmap Subcommittee Co-Chair, Conference Planning |
+| Wilhelm, Jay | Ohio University | Member | TC Secretary,  |
+| Yucel, Adnan | Lockheed Martin | Alumni Member | Conference Planning, Procedures, Roadmap |
+| Yucelen, Tansel | University of South Florida | Member | Award, Conference Planning |
 
 * * *
 * * *

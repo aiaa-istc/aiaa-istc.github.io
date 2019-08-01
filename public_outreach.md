@@ -98,7 +98,7 @@ Please forward any submissions directly to Kristin.Y.Rozier@nasa.gov.
 
 This article will cover the most important developments this year in aerospace intelligent systems. Breakthroughs, setbacks, and industry trends that have occurred during the past year, the reasons they are important, and their impact on the aerospace community are also relevant.
 
-More information on what types of aerospace systems qualify as intelligent is available here: https://info.aiaa.org/tac/isg/ISTC/Web%20Pages/What%20Is%20An%20Intelligent%20System.aspx.
+More information on what types of aerospace systems qualify as intelligent is available here: [https://aiaa-istc.github.io/what_is_an_intelligent_system.html](./what_is_an_intelligent_system.html)".
 
  Aerospace America reaches 40,000 people in a broad cross section of disciplines. highlights should be written so that all of them are able to understand the content.
 
@@ -106,9 +106,9 @@ More information on what types of aerospace systems qualify as intelligent is av
 
 ### BACKGROUND:
 
-The AIAA Intelligent Systems Technical Committee (ISTC) is concerned with the application of Intelligent System (IS) technologies and methods to aerospace systems, the verification and validation of these systems, and the education of the AIAA membership in the use of IS technologies in aerospace and other technical disciplines. See the Intelligent Systems Technical Committee website for more information on our technology focus: https://aiaa-istc.github.io/.
+The AIAA Intelligent Systems Technical Committee (ISTC) is concerned with the application of Intelligent System (IS) technologies and methods to aerospace systems, the verification and validation of these systems, and the education of the AIAA membership in the use of IS technologies in aerospace and other technical disciplines. See the Intelligent Systems Technical Committee website for more information on our technology focus: [https://aiaa-istc.github.io/](./).
 
-Last year's article is available at http://ti.arc.nasa.gov/m/profile/kyrozier/papers/AerospaceAmericaIntelligentSystemsYiR2011.pdf.
+Last year's article is available at [http://ti.arc.nasa.gov/m/profile/kyrozier/papers/AerospaceAmericaIntelligentSystemsYiR2011.pdf](http://ti.arc.nasa.gov/m/profile/kyrozier/papers/AerospaceAmericaIntelligentSystemsYiR2011.pdf).
 
 * * *
 * * *

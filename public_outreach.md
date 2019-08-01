@@ -98,7 +98,7 @@ Please forward any submissions directly to Kristin.Y.Rozier@nasa.gov.
 
 This article will cover the most important developments this year in aerospace intelligent systems. Breakthroughs, setbacks, and industry trends that have occurred during the past year, the reasons they are important, and their impact on the aerospace community are also relevant.
 
-More information on what types of aerospace systems qualify as intelligent is available here: [https://aiaa-istc.github.io/what_is_an_intelligent_system.html](./what_is_an_intelligent_system.html)".
+More information on what types of aerospace systems qualify as intelligent is available here: [https://aiaa-istc.github.io/what_is_an_intelligent_system.html](./what_is_an_intelligent_system.html).
 
  Aerospace America reaches 40,000 people in a broad cross section of disciplines. highlights should be written so that all of them are able to understand the content.
 

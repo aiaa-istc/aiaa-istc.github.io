@@ -11,10 +11,10 @@ layout: default
 * * *
 * * *
 
-## 2019 Intelligent Systems Workshop -- University of Cincinnati, July 29-30
-The 6th annual Intelligent Systems Workshop will be held at the University of Cincinnati, in Cincinnati, OH on July 29-30, 2019. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
+## 2020 Intelligent Systems Workshop -- NASA Johnson Space Center, July 28-29
+The 7th annual Intelligent Systems Workshop will take place on July 28-29, 2020 at the Gilruth Center outside NASA Johnson Space Center in Houston, TX. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
 
-For more information, see: [https://istcws2019.org/](https://istcws2019.org/)
+For more information, see: [https://aiaa-istc.github.io/2020_IS_Workshop.html](https://aiaa-istc.github.io/2020_IS_Workshop.html)
 
 * * *
 * * *

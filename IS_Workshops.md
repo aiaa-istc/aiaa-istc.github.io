@@ -4,14 +4,27 @@ layout: default
 
 ## IS Workshops
 
+The Intelligent Systems Workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
+
+### 2020 Intelligent Systems Workshop -- NASA Johnson Space Center, July 28-29
+
+<a href="/2020_IS_Workshop.html">AIAA Intelligent Systems Workshop, July 28-29, 2020</a><br>
+NASA Johnson Space Center, Houston, TX
+
+The 7th annual Intelligent Systems Workshop will be held at the Gilruth Center outside NASA Johnson Space Center in Houston, TX on July 28-29, 2020.
+
+Registration is coming soon! <!-- a href="xx" Online registration is now open! There is a $100 registration fee that covers on-site meals and snacks for the event. -->
+
+More information is available <a href="/2020_IS_Workshop.html">here</a>.
+
 ### 2019 Intelligent Systems Workshop -- University of Cincinnati, July 29-30
 
 <a href="https://istcws2019.org/">AIAA Intelligent Systems Workshop, July 29-30, 2019</a><br>
 University of Cincinnati, Cincinnati, OH
 
-The 6th annual Intelligent Systems Workshop will be held at the University of Cincinnati, in Cincinnati, OH on July 29-30, 2019.
+The 6th annual Intelligent Systems Workshop was held at the University of Cincinnati, in Cincinnati, OH on July 29-30, 2019.
 
-Registration is open! See: <a href="https://istcws2019.org/registration/"></a>
+Registration is closed. <!--See: <a href="https://istcws2019.org/registration/"></a> -->
 
 For more information, see: <a href="https://istcws2019.org/">https://istcws2019.org/</a>
 

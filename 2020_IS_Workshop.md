@@ -13,13 +13,13 @@ Join us for two days of technical sessions covering a wide range of topics in au
 Registration: coming soon!<!-- Register here: a href="" -->
 
 Site structure:  
--- <a href="{{ '/2020_IS_Workshop/program.html' | absolute_url }}">Program</a><br>
--- <a href="{{ '/2020_IS_Workshop/venue.html' | absolute_url }}">Venue</a><br>
--- <a href="{{ '/2020_IS_Workshop/accommodation.html' | absolute_url }}">Accommodation</a><br>
--- <a href="{{ '/2020_IS_Workshop/tours.html' | absolute_url }}">Tours</a><br>
--- <a href="{{ '/2020_IS_Workshop/student_competitions.html' | absolute_url }}">Student competitions</a><br>
--- <a href="{{ '/2020_IS_Workshop/open_mic_session.html' | absolute_url }}">Open mic session</a><br>
--- <a href="{{ '/2020_IS_Workshop/about.html' | absolute_url }}">About</a><br>
+-- <a href="{{ '/IS_Workshop_2020/program.html' | absolute_url }}">Program</a><br>
+-- <a href="{{ '/IS_Workshop_2020/venue.html' | absolute_url }}">Venue</a><br>
+-- <a href="{{ '/IS_Workshop_2020/accommodation.html' | absolute_url }}">Accommodation</a><br>
+-- <a href="{{ '/IS_Workshop_2020/tours.html' | absolute_url }}">Tours</a><br>
+-- <a href="{{ '/IS_Workshop_2020/student_competitions.html' | absolute_url }}">Student competitions</a><br>
+-- <a href="{{ '/IS_Workshop_2020/open_mic_session.html' | absolute_url }}">Open mic session</a><br>
+-- <a href="{{ '/IS_Workshop_2020/about.html' | absolute_url }}">About</a><br>
 
 * * *
 * * *

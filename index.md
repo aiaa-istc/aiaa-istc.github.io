@@ -21,6 +21,11 @@ For more information, see: [https://aiaa-istc.github.io/2020_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2020 February 28, 3:42pm EST (by Cat McGhan)</i>
+The call for abstracts for the student talks and poster competition for the 2020 IS Workshop <a href="{{ '/IS_Workshop_2020/student_competitions.html' | absolute_url }}">has now been posted</a>.
+
+Pdf flyer is available <b><a href="{{ '/IS_Workshop_2020/2020%20Workshop%20Student%20Session%20Flyer.pdf' | absolute_url }}">here</a>!</b>
+
 ### <i>News: 2019 January 08, 4:40pm EST (by Cat McGhan)</i>
 Presentations from the 2018 IS Workshop are online and available at [this location](https://drive.google.com/drive/folders/138iWtCOfJi4zUTtg_1If8hshjnTZXC9G?usp=sharing).
 

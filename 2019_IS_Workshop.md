@@ -5,7 +5,7 @@ layout: default
 <h2 align="center">2019 AIAA Intelligent Systems Workshop</h2>
 <h3 align="center">Dates: July 29-30, 2019</h3>
 <h3 align="center">(with an optional tour of either the GE Aviation Facility, Learning Center at Evendale or the National Air Force Museum at Wright Patt, Dayton on July 31 :)</h3>
-<h3 align="center">Location: <a href="http://www.aerospace.org/about-us/locations/">University of Cincinnati</a></h3>
+<h3 align="center">Location: <a href="https://www.uc.edu/">University of Cincinnati</a></h3>
 <h3 align="center">Cincinnati, OH</h3>
 <h3 align="center">(<a href="https://www.uc.edu/content/dam/uc/event-services/venues/docs/TUC%20campus%20map.pdf">TUC on-campus map</a>)</h3>
 

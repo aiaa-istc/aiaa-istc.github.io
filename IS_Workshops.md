@@ -26,7 +26,7 @@ The 6th annual Intelligent Systems Workshop was held at the University of Cincin
 
 Registration is closed. <!--See: <a href="https://istcws2019.org/registration/"></a> -->
 
-For more information, see: <a href="https://istcws2019.org/">https://istcws2019.org/</a>
+<strike>For more information, see: _____</strike> The old website is down. The information from the website has been archived <a href="/2019_IS_Workshop.html">here</a>.
 
 ### 2018 Intelligent Systems Workshop -- Aerospace Corporate HQ, August 7-8
 

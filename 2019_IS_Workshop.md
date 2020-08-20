@@ -86,7 +86,7 @@ List of committee members:
 * Elad Kivelevitch, Mathworks, Email: elad.kivelevitch@gmail.com
 * Jay Wilhelm, Ohio University, Email: wihelj1@ohio.edu
 
-### Presentations from the conference:
+### Presentations from the workshop:
 
 All presentations that have been cleared for public release are now available here: <a href="https://drive.google.com/drive/folders/1GF4FyQDpmibCLaGZ69Hlsf9PeX5KykaY?usp=sharing">link</a>
 

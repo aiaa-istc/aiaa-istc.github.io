@@ -21,6 +21,12 @@ For more information, see: [https://aiaa-istc.github.io/2020_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2020 August 19, 9:35pm EST (by Cat McGhan(</i>
+Two of our TC members were featured in a news article recently!
+
+**Analysis: Sanitization Drones Could Improve Campus Safety**  
+[EDTECH Magazine](https://edtechmagazine.com/higher/article/2020/08/clean-sweep-how-sanitization-drones-can-improve-campus-safety) (8/10, Stone) reports that “at the University of Michigan, Aerospace Engineering Professor Ella Atkins envisions a school using UAVs to clean learning spaces.” Said Atkins, “If the drone can pop up above the tables and chairs and spray a fast-drying solution, just zipping back and forth in a regular pattern, there’s no way a human could do that nearly as fast. That has real possibilities.” A small drone “likely couldn’t carry enough cleaning fluid to get the job done,” but “running a lightweight hose from the drone back to a bucket of solution introduces challenges.” Said Kelly Cohen, interim head of the Department of Aerospace Engineering and Engineering Mechanics at the University of Cincinnati, “There are spaces where you have a lot of students congregating, maybe moving from one building to another, and that open space could be disinfected by drones.”
+
 ### <i>News: 2020 April 29, 12:33pm EST (by Cat McGhan)</i>
 The 2020 IS Workshop has been <b>POSTPONED UNTIL SUMMER 2021</b>. We thank you for your patience and forbearance in these COVID-19 times. You can learn more about the virus and stay up to date on the situation and safety measures to deal with it at the [WHO website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (or the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for more USA-specific information). In the meantime, please practice social distancing and best practices under these evolving circumstances, and we all hope you stay safe and well. We will all get through this together.
 

@@ -88,7 +88,7 @@ List of committee members:
 
 ### Presentations from the conference:
 
-All presentations that have been cleared for public release will be made available here: <!--a href=""-->"2019 AIAA ISTC Workshop" folder<!--/a--> -- coming soon.
+All presentations that have been cleared for public release are now available here: <a href="https://drive.google.com/drive/folders/1GF4FyQDpmibCLaGZ69Hlsf9PeX5KykaY?usp=sharing">link</a>
 
 * * *
 * * *

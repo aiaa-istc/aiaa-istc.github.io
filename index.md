@@ -21,7 +21,7 @@ For more information, see: [https://aiaa-istc.github.io/2020_IS_Workshop.html](h
 
 ## Announcements:
 
-### <i>News: 2020 August 19, 9:35pm EST (by Cat McGhan(</i>
+### <i>News: 2020 August 19, 9:35pm EST (by Cat McGhan)</i>
 Two of our TC members were featured in a news article recently!
 
 **Analysis: Sanitization Drones Could Improve Campus Safety**  

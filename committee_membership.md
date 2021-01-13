@@ -96,7 +96,7 @@ Contact Info:  <a href="mailto:natasha.a.neogi@nasa.gov">Natasha Neogi</a> (Co-C
 ### Website
 Objective:  To maintain a web-page linked to the AIAA iste that contains procedural information, the ISTC roster, and other information about the ISTC's current interests and activities such as sub-committees and Working Groups.
 
-Contact Info: <a href="mailto:mcghancl@ucmail.uc.edu">Catharine McGhan</a> (Chair), <a href="mailto:">Josh Harris</a> (Co-Chair)
+Contact Info: <a href="mailto:mcghancl@ucmail.uc.edu">Catharine McGhan</a> (Chair), <a href="mailto:josh@joshharris.org">Josh Harris</a> (Co-Chair)
 
 ### Workshop Planning (2020-2021)
 Objective:  To determine and organize the technical content at the annual Intelligent Systems Workshop.

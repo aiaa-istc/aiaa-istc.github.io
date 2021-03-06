@@ -21,6 +21,36 @@ For more information, see: [https://aiaa-istc.github.io/2020_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2021 March 6, 2:57pm EST (by Cat McGhan)</i>
+1st Workshop on AI for Space in conjunction with CVPR 2021: June 2021
+
+AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve technical challenges related to space, from autonomous spacecrafts, space mining, debris monitoring and mitigation, to answering fundamental questions about the universe. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
+
+Website: https://aiforspace.github.io/2021/
+
+Featuring keynotes by:
+- Shirley Ho (Flatiron Institute), Deep learning for cosmology
+- Courtney Mario (Draper Lab), Vision for precision landing and sample return
+- Dario Izzo (ESA), AI for spacecraft guidance, dynamics and control
+- Yang Gao (Surrey Space), Space autonomous systems
+
+Call for papers on:
+- Visual navigation for spacecraft operations
+- Vision and learning for space robotics
+- Positioning, mapping and SLAM for the moon and Mars
+- Autonomous celestial positioning
+- Space debris monitoring and mitigation
+- Vision and learning for astronomy, astrobiology and cosmology
+- Sensors for space applications
+- AI and learning-based satellite communications and IoT
+- Processing hardware for vision and learning in space, including satellite on-board processing
+- Mitigating challenges of the space environment to vision and learning
+- Datasets, transfer learning and domain gap for space problems
+
+Paper deadline: extended to 11:59pm 20 Mar 2021 (PST)
+
+Submission details: https://aiforspace.github.io/2021/#cfp
+
 ### <i>News: 2020 August 19, 9:35pm EST (by Cat McGhan)</i>
 Two of our TC members were featured in a news article recently!
 

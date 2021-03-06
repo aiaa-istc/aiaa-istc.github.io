@@ -26,7 +26,7 @@ For more information, see: [https://aiaa-istc.github.io/2020_IS_Workshop.html](h
 
 AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve technical challenges related to space, from autonomous spacecrafts, space mining, debris monitoring and mitigation, to answering fundamental questions about the universe. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
 
-Website: https://aiforspace.github.io/2021/
+Website: [https://aiforspace.github.io/2021/](https://aiforspace.github.io/2021/)
 
 Featuring keynotes by:
 - Shirley Ho (Flatiron Institute), Deep learning for cosmology
@@ -49,7 +49,7 @@ Call for papers on:
 
 Paper deadline: extended to 11:59pm 20 Mar 2021 (PST)
 
-Submission details: https://aiforspace.github.io/2021/#cfp
+Submission details: [https://aiforspace.github.io/2021/#cfp](https://aiforspace.github.io/2021/#cfp)
 
 ### <i>News: 2020 August 19, 9:35pm EST (by Cat McGhan)</i>
 Two of our TC members were featured in a news article recently!

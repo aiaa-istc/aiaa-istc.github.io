@@ -11,8 +11,8 @@ layout: default
 * * *
 * * *
 
-## 2020 Intelligent Systems Workshop -- <strike>NASA Johnson Space Center, July 28-29</strike> -- POSTPONED UNTIL SUMMER 2021
-The 7th annual Intelligent Systems Workshop <strike>will take place on July 28-29, 2020 at the Gilruth Center outside NASA Johnson Space Center in Houston, TX. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.</strike> -- is <b>POSTPONED UNTIL SUMMER 2021</b>.
+## 2020 Intelligent Systems Workshop -- <strike>NASA Johnson Space Center, July 28-29</strike> -- POSTPONED UNTIL SUMMER 2022
+The 7th annual Intelligent Systems Workshop <strike>will take place on July 28-29, 2020 at the Gilruth Center outside NASA Johnson Space Center in Houston, TX. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.</strike> -- is <b>POSTPONED UNTIL SUMMER 2022</b>.
 
 For more information, see: [https://aiaa-istc.github.io/2020_IS_Workshop.html](https://aiaa-istc.github.io/2020_IS_Workshop.html)
 
@@ -20,6 +20,23 @@ For more information, see: [https://aiaa-istc.github.io/2020_IS_Workshop.html](h
 * * *
 
 ## Announcements:
+
+### <i>News: 2022 December 20, 9:50pm EST (by Cat McGhan)</i>
+Jon How's keynote at SciTech 2022
+
+Don’t miss Prof. Jonathan How’s keynote at SciTech 2022 on January 3rd at 11:30am PST. Professor How will talk about “Deploying Autonomy in an Uncertain World”. More info at [https://www.aiaa.org/SciTech/program](https://www.aiaa.org/SciTech/program) and below!
+
+**Date/time:** Monday, January 3rd, 2022 -- 11:30 PST
+
+**Title:** Deploying Autonomy in an Uncertain World
+
+**Abstract:** As autonomy capabilities have matured, there is growing interest in transitioning algorithms from the laboratory to the field. However, this typically leads to a painful exercise in which prior assumptions end up being violated and algorithms tend to break down, leading to poor performance in the real-world. The types of challenges faced in the real-world include disturbances (e.g., wind gusts) and modeling errors, imperfect communication networks, and the limited capabilities of onboard perception systems. This talk will describe recent advances in accounting for these types of real-world uncertainties in autonomy algorithms. To handle disturbances, I will describe a new learning approach that uses Robust Tube MPC during training to augment an expert’s training set, which is shown to enable a multirotor to learn to fly through turbulence from only a few demonstrations collected without any disturbances acting on the vehicle.  To support distributed autonomy and estimation with limited communication resources, I will discuss developing censoring rules and learned communication policies to enable agents to determine if communicating for a specific navigation or planning task is justified given the message importance and network congestion. To account for the constraints of onboard perception systems (e.g., limited range and field-of-view, and corrupted by noise) I will highlight recent work on targetless multi-sensor calibration and perception-aware motion planning. Finally, the talk will motivate and outline methods for certifying the safety and performance properties of learning-based approaches, which requires ensuring that the uncertainty in the understanding of the real world is appropriately captured in the models used by the autonomous systems. 
+
+**Bio:** Jonathan P. How is the Richard C. Maclaurin Professor of Aeronautics and Astronautics at the Massachusetts Institute of Technology. He received a B.A.Sc. (aerospace) from the University of Toronto in 1987, and his S.M. and Ph.D. in Aeronautics and Astronautics from MIT in 1990 and 1993, respectively, and then studied for 1.5 years at MIT as a postdoctoral associate. Prior to joining MIT in 2000, he was an assistant professor in the Department of Aeronautics and Astronautics at Stanford University. 
+
+Dr. How was the editor-in-chief of the IEEE Control Systems Magazine (2015-19) and is an associate editor for the AIAA Journal of Aerospace Information Systems and the IEEE Transactions on Neural Networks and Learning Systems. He was an area chair for International Joint Conference on Artificial Intelligence (2019) and will be the program vice-chair (tutorials) for the Conference on Decision and Control (2021).  He was elected to the Board of Governors of the IEEE Control System Society (CSS) in 2019 and is a member of the IEEE CSS Technical Committee on Aerospace Control and the Technical Committee on Intelligent Control. He is the Director of the Ford-MIT Alliance and was a member of the USAF Scientific Advisory Board (SAB) from 2014-17.
+
+His research focuses on robust planning and learning under uncertainty with an emphasis on multiagent systems, and he was the planning and control lead for the MIT DARPA Urban Challenge team.  His work has been recognized with multiple awards, including the 2020 IEEE CSS Distinguished Member Award, the 2020 AIAA Intelligent Systems Award, the 2015 AeroLion Technologies Outstanding Paper Award for Unmanned Systems, the 2015 IEEE CSS Video Clip Contest, the 2011 IFAC Automatica award for best applications paper, and the 2002 Institute of Navigation Burka Award. He also received the Air Force Commander's Public Service Award in 2017. He is a Fellow of IEEE and AIAA and was elected to the National Academy of Engineering in 2021.
 
 ### <i>News: 2021 March 6, 2:57pm EST (by Cat McGhan)</i>
 1st Workshop on AI for Space in conjunction with CVPR 2021: June 2021

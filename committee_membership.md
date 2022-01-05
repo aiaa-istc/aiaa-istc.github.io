@@ -13,7 +13,7 @@ If you are interested in joining the ISTC, please complete a Technical Committee
 
 ### Mission
 
-#### The Mission of the Intelligent Systems Technical Committee is fourfold:
+**The Mission of the Intelligent Systems Technical Committee is fourfold:**
 1. **Advance basic principles and fundamental understanding of Intelligent Systems** across the full spectrum of aerospace applications through technical publications, technical conferences, discipline working groups, and educational outreach.
 1. **Expand the horizon for aerospace applications of Intelligent Systems** through technical discovery, technology and methodology advancements, technical assessments, outreach and advocacy.
 1. **Provide professional development** and networking opportunities to TC members and others involved with conception, design, development, testing, deployment, operations, maintenance, and management of intelligent aerospace systems.

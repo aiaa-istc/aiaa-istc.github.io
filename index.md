@@ -2,7 +2,9 @@
 layout: default
 ---
 
-#### Welcome to the ISTC
+#### Welcome to the ISTC!
+
+<small>The Intelligent Systems Technical Committee addresses the application of Intelligent System (IS) technologies and methods to aerospace systems, the verification and validation of these systems, and the education of the AIAA membership in the use of IS technologies in aerospace and other technical disciplines.</small>
 
 <small>ISTC Focus: Commercial and military aerospace systems, and those ground systems that are part of test, development, or operations of aerospace systems. Technologies which enable safe and reliable operation of complex aerospace systems or sub-systems with minimal or no human intervention (autonomy), or collaborative synthetic-human agent teams are of interest. These include, but are not limited to: autonomous and expert systems, discrete planning/scheduling algorithms, intelligent data/image processing, learning and adaptive techniques, data fusion and reasoning, and knowledge engineering.</small>
 
@@ -10,7 +12,7 @@ layout: default
 
 * * *
 * * *
-
+<!-- --COMMENTED OUT FOR NOW--
 ## 2020 Intelligent Systems Workshop -- <strike>NASA Johnson Space Center, July 28-29</strike> -- POSTPONED UNTIL SUMMER 2022
 The 7th annual Intelligent Systems Workshop <strike>will take place on July 28-29, 2020 at the Gilruth Center outside NASA Johnson Space Center in Houston, TX. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.</strike> -- is <b>POSTPONED UNTIL SUMMER 2022</b>.
 
@@ -18,10 +20,11 @@ For more information, see: [https://aiaa-istc.github.io/2020_IS_Workshop.html](h
 
 * * *
 * * *
+-->
 
 ## Announcements:
 
-### <i>News: 2022 December 20, 9:50pm EST (by Cat McGhan)</i>
+### <i>News: 2021 December 20, 9:50pm EST (by Cat McGhan)</i>
 Jon How's keynote at SciTech 2022
 
 Don’t miss Prof. Jonathan How’s keynote at SciTech 2022 on January 3rd at 11:30am PST. Professor How will talk about “Deploying Autonomy in an Uncertain World”. More info at [https://www.aiaa.org/SciTech/program](https://www.aiaa.org/SciTech/program) and below!

@@ -3,10 +3,10 @@ layout: default
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>
-<h3 align="center">Dates: <strike>July 28-29, 2020</strike> -- <b>POSTPONED UNTIL SUMMER 2021</b></h3>
+<h3 align="center">Dates: <strike>July 28-29, 2020</strike> -- <b>POSTPONED UNTIL SUMMER 2022</b></h3>
 <h3 align="center">Gilruth Center, Houston, TX</h3>
 
-The 7th annual Intelligent Systems Workshop <strike>will take place on July 28-29, 2020 at the <a href="https://starport.jsc.nasa.gov/en/facilities/gilruth-conference-center">Gilruth Center</a> outside <a href="https://www.nasa.gov/centers/johnson/home/index.html">NASA Johnson Space Center</a> in Houston, TX.</strike> -- is <b>POSTPONED UNTIL SUMMER 2021</b>.
+The 7th annual Intelligent Systems Workshop <strike>will take place on July 28-29, 2020 at the <a href="https://starport.jsc.nasa.gov/en/facilities/gilruth-conference-center">Gilruth Center</a> outside <a href="https://www.nasa.gov/centers/johnson/home/index.html">NASA Johnson Space Center</a> in Houston, TX.</strike> -- is <b>POSTPONED UNTIL SUMMER 2022</b>.
 
 Join us for two days of technical sessions covering a wide range of topics in autonomy and human-machine teaming.
 

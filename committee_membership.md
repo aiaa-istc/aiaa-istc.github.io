@@ -2,14 +2,14 @@
 layout: default
 ---
 
+* TOC
+{:toc}
+
 ## Committee Membership
 
 Welcome! 
 
 If you are interested in joining the ISTC, please complete a Technical Committee Nomination form (you must already be an active AIAA member and logged into the site to submit a form): <a href="https://www.aiaa.org/home/get-involved/committees-groups/technical-committees/committee-nomination-form">https://www.aiaa.org/home/get-involved/committees-groups/technical-committees/committee-nomination-form</a>
-
-* TOC
-{:toc}
 
 ### Mission
 

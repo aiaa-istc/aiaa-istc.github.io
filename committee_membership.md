@@ -8,32 +8,55 @@ Welcome!
 
 If you are interested in joining the ISTC, please complete a Technical Committee Nomination form (you must already be an active AIAA member and logged into the site to submit a form): <a href="https://www.aiaa.org/home/get-involved/committees-groups/technical-committees/committee-nomination-form">https://www.aiaa.org/home/get-involved/committees-groups/technical-committees/committee-nomination-form</a>
 
+* TOC
+{:toc}
+
+### Mission
+
+#### The Mission of the Intelligent Systems Technical Committee is fourfold:
+1. **Advance basic principles and fundamental understanding of Intelligent Systems** across the full spectrum of aerospace applications through technical publications, technical conferences, discipline working groups, and educational outreach.
+1. **Expand the horizon for aerospace applications of Intelligent Systems** through technical discovery, technology and methodology advancements, technical assessments, outreach and advocacy.
+1. **Provide professional development** and networking opportunities to TC members and others involved with conception, design, development, testing, deployment, operations, maintenance, and management of intelligent aerospace systems.
+1. **Define, engage and explore interdisciplinary interfaces** through inter-TC, and inter-professional initiatives, and the organization of special technical conference sessions, tutorials, working groups and study groups.
+
 ### Scope
 
 The scope of the Intelligent System Technical Committee includes:
-
-* Civil, commercial and military aerospace systems, and those ground systems that are part of development, test, or operations of aerospace systems
+* Civil, commercial and military aerospace systems, and those ground systems that are part of development, test, or operations of aerospace systems.
 * Technologies that enable safe, cost-efficient, and reliable operation of highly autonomous complex aerospace, land, and sea systems, or collaborative synthetic-human agent teams.
 
 Intelligent Systems technology areas include, but are not limited to:
-* Data fusion
-* Reasoning and Learning Techniques
-* Evolutionary (genetic) algorithms
-* Expert systems
-* Fuzzy logic
-* Human-machine interaction
-* Intelligent and adaptive control
-* Integrated Communication and Navigation
-* Autonomous Rendezvous and Docking
-* Robotics
-* In-Orbit Servicing
-* Intelligent data/image processing
-* Knowledge-based systems and knowledge engineering
-* Machine learning techniques
-* Model-based reasoning
-* Neural networks
-* Planning and scheduling algorithms
-* Qualitative simulation
+
+<table>
+  <tr>
+    <td>Data fusion</td>
+    <td>Reasoning and Learning Techniques</td>
+    <td>Evolutionary (genetic) algorithms</td>
+    <td>Expert systems</td>
+    <td>Fuzzy logic</td>
+  </tr>
+  <tr>
+    <td>Human-machine interaction</td>
+    <td>Intelligent and adaptive control</td>
+    <td colspan="3">Integrated Communication and Navigation</td>
+  </tr>
+  <tr>
+    <td>Autonomous Rendezvous and Docking</td>
+    <td>Robotics</td>
+    <td>In-Orbit Servicing</td>
+    <td colspan="2">Intelligent data/image processing</td>
+  </tr>
+  <tr>
+    <td colspan="2">Knowledge-based systems and knowledge engineering</td>
+    <td>Machine learning techniques</td>
+    <td colspan="2">Model-based reasoning</td>
+  </tr>
+  <tr>
+    <td>Neural networks</td>
+    <td colspan="2">Planning and scheduling algorithms</td>
+    <td colspan="2">Qualitative simulation</td>
+  </tr>
+</table>
 
 ### Duties
 
@@ -55,13 +78,13 @@ The ISTC is divided into eight subcommittees:
 1. Professional Development, Education, & Outreach
 1. Public Policy
 1. Publications
-1. Website
+1. Communications
 1. Workshop Planning (2021-2022)
 
 ### Awards
 Objective:  To honor outstand technical & non-technical accomplishments by AIAA members through an awards structure.
 
-Contact Info: <a href="mailto:">Jay Wilhelm</a> (Chair), <a href="mailto:">Vinicious Goecks</a> (Co-Chair)
+Contact Info: <a href="mailto:">Jay Wilhelm</a> (Chair)
 
 ### Conference Planning
 Objective:  To determine and organize the technical content at the major conferences where the TC meets.
@@ -91,77 +114,102 @@ Contact Info: <a href="mailto:zigmond.v.leszczynski@aero.org">Zig Leszczynski</a
 ### Publications
 Objective:  To disseminate and publicize the activities of the AIAA Intelligent Systems and ISTC communities.
 
-Contact Info:  <a href="mailto:natasha.a.neogi@nasa.gov">Natasha Neogi</a> (Co-Chair), <a href="mailto:">Mohammad Ayoubi</a> (Co-Chair)
+Contact Info:  <a href="mailto:">Kerianne Hobbs</a> (Co-Chair), <a href="mailto:">Mohammad Ayoubi</a> (Co-Chair)
 
-### Website
-Objective:  To maintain a web-page linked to the AIAA iste that contains procedural information, the ISTC roster, and other information about the ISTC's current interests and activities such as sub-committees and Working Groups.
+### Communications
+Objective:  To maintain a web-page that contains procedural information, the ISTC roster, and other information about the ISTC's current interests and activities such as sub-committees and Working Groups, as well as manage the ISTC group on LinkedIn to provide updates and press releases on things pertaining to the TC such as members getting awards, workshops, special sessions at conferences, etc.
 
 Contact Info: <a href="mailto:mcghancl@ucmail.uc.edu">Catharine McGhan</a> (Chair), <a href="mailto:josh@joshharris.org">Josh Harris</a> (Co-Chair)
 
-### Workshop Planning (2020-2021)
+### Workshop Planning (2021-2022)
 Objective:  To determine and organize the technical content at the annual Intelligent Systems Workshop.
 
 Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 
 ## Member Listing
 
-| <b>Full Name</b>         | <b>Institution</b>       | <b>Membership</b>       | <b>Position</b>        |
+| <b>Full Name</b>         | <b>Institution</b>       | <b>AIAA Membership</b>  | <b>Position</b>        |
 |:-------------------------|:-------------------------|:------------------------|:-----------------------|
-| Adhikari, Sam | Sysoft Corporation | Member | Conference Planning, Procedures |
-| Adolf, Florian | German Aerospace Center DLR | International Member | Conference Planning, Publications, Workshop |
-| Ahmed, Nisar | University of Colorado Boulder | Member | Conference Planning, Publications |
-| Allen, Danette | NASA Langley | Member | Workshop |
-| Atkins, Ella | University of Michigan | Alumni Member | Workshop Subcommittee Chair, Conference Planning, PDE&O, Publications |
-| Ayoubi, Mohammad | Santa Clara University | Member | Workshop, Awards |
+| Adhikari, Sam | Sysoft Corporation | Associate Fellow | Procedures, Public Policy |
+| Ahmed, Nisar | University of Colorado Boulder | Senior Member | Awards, Conference Planning |
+| Allen, Danette | NASA Langley | Fellow | Conference, Publications |
+| Ayoubi, Mohammad | Santa Clara University | Senior Member | Awards, Publications |
+| Bird, John | University of Colorado Boulder | . | Conference Planning, Publications |
+| Bradley, Justin | University of Nebraska | Senior Member | Conference Planning, Publications |
+| Carlone, Luca | MIT | Senior Member | Awards, PDE&O, Publications |
+| Casbeer, David | Air Force Research Laboratory | Associate Fellow | TC Co-Chair, Membership |
+| Chakrabarty, Anjan | NASA Ames / SGT | Member | Awards, Public Policy |
+| Choi, Han-Lim | Korea Advanced Institute of Science & Technology | Senior Member | Awards, Publications |
+| Chua, Zarrin | Blue Origin | Senior Member | Membership, PDE&O |
+| Clement, Danielle | Lockheed Martin | . | New TC Member |
+| Cook, Steve | Northrop Grumman Aerospace Systems, Office of Independent Airworthiness | Associate Fellow | Conference Planning, Public Policy |
+| De Visser, Coen | Delft University of Technology | Member | Awards, Publications |
+| Dogan, Kadriye Merve | Embry-Riddle Aeronautical University | Member | PDE&O, Publications |
+| Fleming, Cody | Iowa State University | Senior Member | Conference Planning, Workshop |
+| Goecks, Vinicius | Texas A&M University | Associate Member | Awards, Communications |
+| Harris, Joshua | Texas A&M University | Associate Member | Conference Planning, Communications |
+| Hobbs, Kerianne | Air Force Research Laboratory | Senior Member | Publications, Workshop |
+| Kivelevitch, Elad | Mathworks | Senior Member | TC Chair |
+| Kolcio, Ksenia | Okean Solutions | . | Publications |
+| Kulkarni, Chetan | NASA Ames / SGT | Senior Member | PDE&O |
+| Lacher, Andrew | MITRE | Associate Fellow | Public Poliicy |
+| Lampton, Amanda | Systems Technology, Inc | Associate Fellow | Conference Planning, Workshop |
+| Le Vie, Lisa | NASA Langley Research Center | . | Conference, Workshop |
+| Lehman, Hannah | Texas A&M University | Student Member | New TC Member |
+| Leszczynski, Zigmond | Aerospace Corp | Associate Fellow | Procedures, Public Policy |
+| Lombaerts, Thomas | NASA Ames / SGT | Associate Fellow | Conference Planning, Procedures |
+| McGhan, Catharine | University of Cincinnati | Member | PDE&O, Communications |
+| Melcher, Kevin | NASA Glenn | Associate Fellow | Conference Planning |
+| Moncayo, Hever | Embry-Riddle Aeronautical University | Senior Member | Conference Planning, Workshop |
+| Neogi, Natasha | NASA Langley | Associate Fellow | Publications |
+| Nguyen, Nhan | NASA Ames | Associate Fellow | Awards |
+| Oyama, Akira | Japan Aerospace Exploration Agency (JAXA) | Senior Member | Publications, Communications |
+| Puranik, Tejas | Georgia Tech | . | Conference Planning, PDE&O |
+| Rafi, Melvin | Wichita State University | Student Member | Conference, Communications |
+| Rangavajhala, Sirisha | Draper Laboratory | . | Workshop |
+| Selva, Daniel | Texas A&M University | Senior Member | Conference |
+| Shah, Julie | MIT | Associate Fellow | Conference Planning |
+| Sharma, Raj | University of Cincinnati | Member | Conference Planning, Workshop |
+| Shrestha, Elena | Johns Hopkins Applied Physics Lab | Member | New TC Member |
+| Snyder, Steve | NASA Langley Research Center | . | New TC Member |
+| Stimpson, Alexander | Duke University | Member | Procedures, Communications |
+| Stringer, Mary | NASA Langley Research Center | . | New TC Member |
+| Sun, Liang | New Mexico State | Member | Conference, Procedures |
+| Valasek, John | Texas A&M | Fellow | ISTC Chair-Elect, Membership, Workshop |
+| Wan, Yan | University of North Texas | Member | Awards, PDE&O |
+| Wilhelm, Jay | Ohio University | Member | TC Secretary, Awards, Workshop |
+| Yucelen, Tansel | University of South Florida | Member | Conference Planning, Publications |
+
+**Alumni:**
+
+| <b>Full Name</b>         | <b>Institution</b>       | <b> AIAA Membership</b> | <b>Year Started</b>    | <b>Year Left the ISTC</b>|
+|:-------------------------|:-------------------------|:------------------------|:-----------------------|:-----------------------|
+| Adolf, Florian | German Aerospace Center DLR | Senior Member | 2015 | 2020 |
+| Atkins, Ella | University of Michigan | Fellow | 2002 | 2018 |
+| Meade, Andrew | Rice University | Associate Fellow | 2011 | . |
+| Muse, Jonathan | Air Force Research Laboratory | Senior Member | 2016 | 2020 |
+| Ryan, John | NASA Langley | Senior Member | 2014 | 2020 |
+| Steck, James | Wichita State University | Associate Fellow | 2016 | . |
+| Swei, Sean | NASA Ames | Associate Fellow | 2016 | . |
+| Kochersberger, Kevin | Virginia Tech | Associate Fellow | . | . |
+| Sabo, Chelsea | Lockheed Martin | Senior Member | 2008 | 2021 |
+| Yucel, Adnan | Lockheed Martin | Associate Fellow | 2011 | 2021 |
+| Rudd, Lael | Draper Labs | Associate Fellow | . | 2021 |
+
+<!--
 | Balas, Mark | Embry-Riddle Aeronautical University, FL | Emeritus Member | Awards, Conference Planning |
 | Belcastro, Christine | NASA Langley | Member | Public Policy, Roadmap, Workshop |
-| Bradley, Justin | University of Nebraska | Member | New TC Member |
-| Casbeer, David | Air Force Research Laboratory | Member | TC Chair, Membership Subcommittee Chair, Conference Planning, Procedures |
-| Chakrabarty, Anjan | NASA Ames / SGT | Associate Member | New TC Member |
-| Choi, Han-Lim | Korea Advanced Institute of Science & Technology | International Member | New TC Member |
-| Chua, Zarrin | Aurora Flight Sciences | Member | Workshop |
 | Cohen, Kelly | University of Cincinnati | Emeritus Member |  |
-| Cook, Steve | Northrop Grumman Aerospace Systems, Office of Independent Airworthiness | Member | Public Policy |
 | Cummings, Mary | Duke University | Emeritus Member |  |
-| De Visser, Coen | Delft University of Technology | International Member | Awards, Publications |
 | Doyle, Richard | NASA JPL | Emeritus Member | PDE&O, Publications |
 | Figueroa, Fernando | NASA Stennis | Member | Conference Planning |
-| Goeck, Vinicious | Texas A&M University | Associate Member |  |
 | Gross, Kerianne | Air Force Research Laboratory | Associate Member | New TC Member |
 | Gu, Yu | West Virgina University | Member | Roadmap Subcommittee Chair |
-| Harris, Joshua | Texas A&M University | Associate Member | Website, Workshop |
 | Ingham, Michel | NASA JPL | Emeritus Member |  |
-| Kivelevitch, Elad | Mathworks | Member | TC Chair Elect, Conference Planning, Membership, Procedures, Public Policy, Publications |
-| Kochersberger, Kevin | Virginia Tech | Member | Conference Planning, Public Policy |
-| Kulkarni, Chetan | NASA Ames / SGT | Member | PDE&O Subcommittee Co-Chair |
-| Lacher, Andrew | MITRE | Member | Workshop Subcommittee Co-Chair, Public Poliicy Co-Chair, Roadmap |
-| Lampton, Amanda | Systems Technology, Inc | Member | Conference Planning Subcommittee Co-Chair, Awards, PDE&O |
-| Leszczynski, Zigmond | Aerospace Corp | Member | Workshop Subcommittee |
-| Lombaerts, Thomas | NASA Ames / SGT | Member | Conference Planning, Publications |
-| McGhan, Catharine | University of Cincinnati | Member | Website Subcommittee Chair, PDE&O |
-| Meade, Andrew | Rice University | Alumni Member | PDE&O |
-| Melcher, Kevin | NASA Glenn | Member | Conference Planning Subcommittee Chair, Award, Procedures, Public Policy |
-| Muse, Jonathan | Air Force Research Laboratory | Associate Member | Award, Conference Planning |
-| Neogi, Natasha | NASA Langley | Member | Publications Subcommittee Chair, Conference Planning |
-| Nguyen, Nhan | NASA Ames | Member | TC Chair, Membership Subcommittee Chair, Awards, Conference Planning, Membership, Roadmap, Workshop |
-| Oyama, Akira | Japan Aerospace Exploration Agency (JAXA) | International Member | Publications
-| Rafi, Melvin | Wichita State University | Associate Member | New TC Member |
 | Rozier, Kristin | Iowa State University | Member | PDE&O Subcommittee Chair |
-| Ryan, John | NASA Langley | Member | Procedures Subcommittee Chair |
-| Sabo, Chelsea | Lockheed Martin | Member | Awards Subcommittee Chair, Procedures, PDE&O |
 | Savely, Robert | NASA JSC | Alumni Member | Awards |
-| Selva, Daniel | Texas A&M University | Member | Roadmap, Workshop |
-| Shah, Julie | MIT | Member | Conference Planning |
-| Sharma, Raj | University of Cincinnati | Member | Workshop Subcommittee |
-| Steck, James | Wichita State University | Alumni Member | Awards, PDE&O |
-| Stimpson, Alexander | Duke University | Member | New TC Member |
-| Swei, Sean | NASA Ames | Member | Conference Planning |
 | Tschan, Christopher | Aerospace Corp | Alumni Member | Public Policy Subcommittee Chair, Roadmap |
-| Valasek, John | Texas A&M | Member | Publications Subcommittee Co-Chair |
-| Wan, Yan | University of North Texas | Member | Roadmap Subcommittee Co-Chair, Conference Planning |
-| Wilhelm, Jay | Ohio University | Member | TC Secretary,  |
-| Yucel, Adnan | Lockheed Martin | Alumni Member | Conference Planning, Procedures, Roadmap |
-| Yucelen, Tansel | University of South Florida | Member | Award, Conference Planning |
+-->
 
 * * *
 * * *

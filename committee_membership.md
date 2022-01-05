@@ -91,7 +91,7 @@ Contact Info: <a href="mailto:">Jay Wilhelm</a> (Chair)
 ### Conference Planning
 Objective:  To determine and organize the technical content at the major conferences where the TC meets.
 
-Contact Info: <a href="mailto:">Justin Bradley</a> (Chair), <a href="mailto:">Cody Fleming</a> (Deputy-Chair)
+Contact Info: <a href="mailto:">Cody Fleming</a> (Chair), <a href="mailto:">TBD</a> (Deputy-Chair)
 
 ### Membership
 Objective:  To maintain an active, balanced membership and steward membership upgrades within the TC.
@@ -139,7 +139,7 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | Bird, John | University of Colorado Boulder | . | Conference Planning, Publications |
 | Bradley, Justin | University of Nebraska | Senior Member | Conference Planning, Publications |
 | Carlone, Luca | MIT | Senior Member | Awards, PDE&O, Publications |
-| Casbeer, David | Air Force Research Laboratory | Associate Fellow | TC Co-Chair, Membership |
+| Casbeer, David | Air Force Research Laboratory | Associate Fellow | Membership |
 | Chakrabarty, Anjan | NASA Ames / SGT | Member | Awards, Public Policy |
 | Choi, Han-Lim | Korea Advanced Institute of Science & Technology | Senior Member | Awards, Publications |
 | Chua, Zarrin | Blue Origin | Senior Member | Membership, PDE&O |
@@ -151,7 +151,7 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | Goecks, Vinicius | Texas A&M University | Associate Member | Awards, Communications |
 | Harris, Joshua | Texas A&M University | Associate Member | Conference Planning, Communications |
 | Hobbs, Kerianne | Air Force Research Laboratory | Senior Member | Publications, Workshop |
-| Kivelevitch, Elad | Mathworks | Senior Member | TC Chair |
+| Kivelevitch, Elad | Mathworks | Senior Member | ISTC Co-Chair |
 | Kolcio, Ksenia | Okean Solutions | . | Publications |
 | Kulkarni, Chetan | NASA Ames / SGT | Senior Member | PDE&O |
 | Lacher, Andrew | MITRE | Associate Fellow | Public Poliicy |
@@ -163,7 +163,7 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | McGhan, Catharine | University of Cincinnati | Member | PDE&O, Communications |
 | Melcher, Kevin | NASA Glenn | Associate Fellow | Conference Planning |
 | Moncayo, Hever | Embry-Riddle Aeronautical University | Senior Member | Conference Planning, Workshop |
-| Neogi, Natasha | NASA Langley | Associate Fellow | Publications |
+| Neogi, Natasha | NASA Langley | Associate Fellow | ISTC Chair-Elect, Publications |
 | Nguyen, Nhan | NASA Ames | Associate Fellow | Awards |
 | Oyama, Akira | Japan Aerospace Exploration Agency (JAXA) | Senior Member | Publications, Communications |
 | Puranik, Tejas | Georgia Tech | . | Conference Planning, PDE&O |
@@ -177,9 +177,9 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | Stimpson, Alexander | Duke University | Member | Procedures, Communications |
 | Stringer, Mary | NASA Langley Research Center | . | New TC Member |
 | Sun, Liang | New Mexico State | Member | Conference, Procedures |
-| Valasek, John | Texas A&M | Fellow | ISTC Chair-Elect, Membership, Workshop |
+| Valasek, John | Texas A&M | Fellow | ISTC Chair, Membership, Workshop |
 | Wan, Yan | University of North Texas | Member | Awards, PDE&O |
-| Wilhelm, Jay | Ohio University | Member | TC Secretary, Awards, Workshop |
+| Wilhelm, Jay | Ohio University | Member | ISTC Secretary, Awards, Workshop |
 | Yucelen, Tansel | University of South Florida | Member | Conference Planning, Publications |
 
 **Alumni:**

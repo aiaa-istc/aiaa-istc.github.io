@@ -6,12 +6,12 @@ layout: default
 
 The Intelligent Systems Workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
 
-### 2020 Intelligent Systems Workshop -- <strike>NASA Johnson Space Center, July 28-29</strike> -- POSTPONED UNTIL SUMMER 2021
+### 2020 Intelligent Systems Workshop -- <strike>NASA Johnson Space Center, July 28-29</strike> -- POSTPONED UNTIL SUMMER 2022
 
-<a href="/2020_IS_Workshop.html">AIAA Intelligent Systems Workshop, <strike>July 28-29, 2020</strike></a> -- <b>POSTPONED UNTIL SUMMER 2021</b><br>
+<a href="/2020_IS_Workshop.html">AIAA Intelligent Systems Workshop, <strike>July 28-29, 2020</strike></a> -- <b>POSTPONED UNTIL SUMMER 2022</b><br>
 NASA Johnson Space Center, Houston, TX
 
-The 7th annual Intelligent Systems Workshop <strike>will be held at the Gilruth Center outside NASA Johnson Space Center in Houston, TX on July 28-29, 2020.</strike> -- is <b>POSTPONED UNTIL SUMMER 2021</b>.
+The 7th annual Intelligent Systems Workshop <strike>will be held at the Gilruth Center outside NASA Johnson Space Center in Houston, TX on July 28-29, 2020.</strike> -- is <b>POSTPONED UNTIL SUMMER 2022</b>.
 
 Registration is coming soon! <!-- a href="xx" Online registration is now open! There is a $100 registration fee that covers on-site meals and snacks for the event. -->
 

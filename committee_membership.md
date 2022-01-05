@@ -12,7 +12,6 @@ Welcome!
 If you are interested in joining the ISTC, please complete a Technical Committee Nomination form (you must already be an active AIAA member and logged into the site to submit a form): <a href="https://www.aiaa.org/home/get-involved/committees-groups/technical-committees/committee-nomination-form">https://www.aiaa.org/home/get-involved/committees-groups/technical-committees/committee-nomination-form</a>
 
 ### Mission
-
 **The Mission of the Intelligent Systems Technical Committee is fourfold:**
 1. **Advance basic principles and fundamental understanding of Intelligent Systems** across the full spectrum of aerospace applications through technical publications, technical conferences, discipline working groups, and educational outreach.
 1. **Expand the horizon for aerospace applications of Intelligent Systems** through technical discovery, technology and methodology advancements, technical assessments, outreach and advocacy.
@@ -20,7 +19,6 @@ If you are interested in joining the ISTC, please complete a Technical Committee
 1. **Define, engage and explore interdisciplinary interfaces** through inter-TC, and inter-professional initiatives, and the organization of special technical conference sessions, tutorials, working groups and study groups.
 
 ### Scope
-
 The scope of the Intelligent System Technical Committee includes:
 * Civil, commercial and military aerospace systems, and those ground systems that are part of development, test, or operations of aerospace systems.
 * Technologies that enable safe, cost-efficient, and reliable operation of highly autonomous complex aerospace, land, and sea systems, or collaborative synthetic-human agent teams.
@@ -59,17 +57,17 @@ Intelligent Systems technology areas include, but are not limited to:
 </table>
 
 ### Duties
-
 Every member of the ISTC has the following ongoing responsibilities:
 * Express an interest in activities of ISTC.
-* Be responsive to emails or phone calls from the TC Chair and the chairs of the subcommittees of which they are membe
-* Take part in, and actively support the projects of, at least two sub-committees
-* Participate actively in TC-wide initiatives (such as Infotech@Aerospace Conference support and JACIC Special Issue paper reviews).
+* Be responsive to emails or phone calls from the TC Chair and the chairs of the sub-committees of which they are members.
+* Take part in, and actively support the projects of, at least two sub-committees.
+* Participate actively in TC-wide initiatives (such as Infotech@Aerospace Conference support and JAIS Special Issue paper reviews).
 * Commit to being physically present at a minimum of one TC meeting per year and to try to dial into meetings they cannot attend.
 * Promote the TC’s activities to their coworkers and colleagues who might have an interest and be on the lookout for opportunities to promote IS technology and applications.
-* Report any concerns regarding their participation in the TC or a subcommittee to the TC and/or subcommittee chair.
+* Report any concerns regarding their participation in the TC or a sub-committee to the TC and/or sub-committee chair.
 
 ## Sub-Committee Listing
+
 The ISTC is divided into eight subcommittees:
 1. Awards
 1. Conference Planning

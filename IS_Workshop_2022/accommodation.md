@@ -3,53 +3,25 @@ layout: default
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>
-<h3 align="center">Dates: <strike>July 28-29, 2020</strike> -- <b>POSTPONED UNTIL SUMMER 2021</b></h3>
-<h3 align="center">Gilruth Center, Houston, TX</h3>
+<h3 align="center">Dates: July 26-27, 2022</h3>
+<h3 align="center">Texas A&M University, College Station, TX</h3>
 
-## Accommodation
-The following is a list of hotels near NASA JSC.
+## Travel
+If you are unable to drive to College Station, you can fly directly into the College Station airport with American Airlines. Otherwise, one can fly to either Houston or Austin and take a shuttle or rent a car and drive to College Station.
 
-Alternately, you can see what hotels <a href="https://www.google.com/travel/hotels/Johnson%20Space%20Center">Google Maps</a> says are nearby, if you'd like.
+Both airports are approximately 100 miles from College Station. DFW airport is about 200 miles from College Station.
 
-**Courtyard Marriott**:  
-18100 Saturn Lane, Nassau Bay, Texas 77058  
-Phone: 281-333-0220, Fax: 281-333-0219  
-https://www.marriott.com/hotels/maps/travel/houcs-courtyard-houston-nasa-nassau-bay/ 
+## Hotels
+There are many affordable hotel options on or near campus. Some examples include:  
 
-**Staybridge Suites Houston NASA**:  
-501 West Texas Avenue, Webster, TX 77598  
-Phone: 281-338-0900, Fax: 281-338-0901  
-http://nasahotel.com/ 
+**Texas A&M Hotel and Conference Center**: <a href="https://www.texasamhotelcc.com/">Website</a>
 
-**Marriott Residence Inn**:  
-525 Bay Area Boulevard, Houston, Texas 77058  
-Phone: 281-486-2424, Fax: 281-488-8179  
-http://www.marriott.com/hotels/travel/houcl-residence-inn-houston-clear-lake/ 
+**The George**: <a href="https://www.thegeorgetexas.com/">Website</a>
 
-**Hilton Houston NASA Clear Lake**:  
-3000 NASA Parkway Houston, TX 77058-4322  
-Phone: 1-281-333-9300, Fax: 1-281-333-3750  
-http://www1.hilton.com/en_US/hi/hotel/HOUNBHF-Hilton-Houston-NASA-Clear-Lake-Texas/index.do 
+**Embassy Suites by Hilton College Station**: <a href="https://www.hilton.com/en/hotels/clleses-embassy-suites-college-station/">Website</a>
 
-**Candlewood Suites Houston-Clear Lake**:  
-2737 Bay Area Blvd, Houston, TX 77058  
-Phone: 281-461-3060 or 1-877-834-3613  
-http://www.ichotelsgroup.com/ihg/hotels/us/en/reservation 
+Alternately, you can see what hotels <a href="https://www.google.com/travel/hotels/College%20Station?gsas=1&rp=CiJYAGAAmgEbCggvbS8wX3l0dxIPQ29sbGVnZSBTdGF0aW9uOAE">Google Maps</a> says are nearby, if you'd like.
 
-**Extended Stay America Houston-NASA**:  
-1410 NASA Rd 1, Houston, TX 77058  
-Phone: 281-333-9494, Fax: 281-333-0414  
-http://extendedstayamerica.com 
-
-**Hampton Inn Houston/Clear Lake**:  
-506 West Bay Area Boulevard, Webster, TX 77598  
-Phone: 281-332-7952, Fax: 281-332-7426  
-http://hamptoninn.com 
-
-**Townplace Suites by Marriott**:  
-1050 Bay Area Blvd, Houston, TX 77058  
-Phone: 281-286-2132, Fax: 281-286-1493  
-http://www.marriott.com/hotels/travel/houtp-towneplace-suites-houston-clear-lake/
 
 * * *
 * * *

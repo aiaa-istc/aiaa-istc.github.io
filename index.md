@@ -12,15 +12,15 @@ layout: default
 
 * * *
 * * *
-<!-- --COMMENTED OUT FOR NOW--
-## 2020 Intelligent Systems Workshop -- <strike>NASA Johnson Space Center, July 28-29</strike> -- POSTPONED UNTIL SUMMER 2022
-The 7th annual Intelligent Systems Workshop <strike>will take place on July 28-29, 2020 at the Gilruth Center outside NASA Johnson Space Center in Houston, TX. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.</strike> -- is <b>POSTPONED UNTIL SUMMER 2022</b>.
 
-For more information, see: [https://aiaa-istc.github.io/2020_IS_Workshop.html](https://aiaa-istc.github.io/2020_IS_Workshop.html)
+## 2022 Intelligent Systems Workshop -- Texas A&M University, July 26-27
+The 7th annual Intelligent Systems Workshop will take place on July 26-27, 2022 at Texas A&M University in College Station, TX. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
+
+For more information, see: [https://aiaa-istc.github.io/2022_IS_Workshop.html](https://aiaa-istc.github.io/2022_IS_Workshop.html)
 
 * * *
 * * *
--->
+
 
 ## Announcements:
 

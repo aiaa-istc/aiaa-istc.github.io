@@ -13,7 +13,7 @@ This year we will have three technical sessions on the following topics:
 2.	AI-Crew Collaboration in air and space
 3.	Integration of Autonomy into existing ecosystems
 
-The program will also feature two [tours](/IS_Workshop_2020/tours.html), an [open mic session](/IS_Workshop_2020/open_mic_session.html), and two [student competitions](/IS_Workshop_2020/student_competitions.html).  
+The program will also feature two [tours](/IS_Workshop_2022/tours.html), an [open mic session](/IS_Workshop_2022/open_mic_session.html), and two [student competitions](/IS_Workshop_2022/student_competitions.html).  
 
 Detailed Program: Coming soon!
 

@@ -6,16 +6,27 @@ layout: default
 
 The Intelligent Systems Workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
 
+### 2022 Intelligent Systems Workshop -- Texas A&M University, July 26-27
+
+<a href="/2022_IS_Workshop.html">AIAA Intelligent Systems Workshop, July 26-27, 2022</a><br>
+Texas A&M University, College Station, TX
+
+The 7th annual Intelligent Systems Workshop will take place on July 26-27, 2022 at Texas A&M University in College Station, TX.
+
+Registration is coming soon! <!-- a href="xx" Online registration is now open! There is a $?? registration fee that covers on-site meals and snacks for the event. -->
+
+More information is available <a href="/2022_IS_Workshop.html">here</a>.
+
 ### 2020 Intelligent Systems Workshop -- <strike>NASA Johnson Space Center, July 28-29</strike> -- POSTPONED UNTIL SUMMER 2022
 
-<a href="/2020_IS_Workshop.html">AIAA Intelligent Systems Workshop, <strike>July 28-29, 2020</strike></a> -- <b>POSTPONED UNTIL SUMMER 2022</b><br>
+<a href="">AIAA Intelligent Systems Workshop, <strike>July 28-29, 2020</strike></a> -- <b>POSTPONED UNTIL SUMMER 2022</b><br>
 NASA Johnson Space Center, Houston, TX
 
 The 7th annual Intelligent Systems Workshop <strike>will be held at the Gilruth Center outside NASA Johnson Space Center in Houston, TX on July 28-29, 2020.</strike> -- is <b>POSTPONED UNTIL SUMMER 2022</b>.
 
-Registration is coming soon! <!-- a href="xx" Online registration is now open! There is a $100 registration fee that covers on-site meals and snacks for the event. -->
+Registration is coming soon! <!-- a href="" Online registration is now open! There is a $100 registration fee that covers on-site meals and snacks for the event. -->
 
-More information is available <a href="/2020_IS_Workshop.html">here</a>.
+More information is available <a href="">here</a>.
 
 ### 2019 Intelligent Systems Workshop -- University of Cincinnati, July 29-30
 

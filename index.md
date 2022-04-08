@@ -81,9 +81,9 @@ Two of our TC members were featured in a news article recently!
 The 2020 IS Workshop has been <b>POSTPONED UNTIL SUMMER 2021</b>. We thank you for your patience and forbearance in these COVID-19 times. You can learn more about the virus and stay up to date on the situation and safety measures to deal with it at the [WHO website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (or the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for more USA-specific information). In the meantime, please practice social distancing and best practices under these evolving circumstances, and we all hope you stay safe and well. We will all get through this together.
 
 ### <i>News: 2020 February 28, 3:42pm EST (by Cat McGhan)</i>
-The call for abstracts for the student talks and poster competition for the 2020 IS Workshop <a href="{{ '/IS_Workshop_2020/student_competitions.html' | absolute_url }}">has now been posted</a>.
+The call for abstracts for the student talks and poster competition for the 2020 IS Workshop <a href="">has now been posted</a>.
 
-Pdf flyer is available <a href="{{ '/IS_Workshop_2020/2020%20Workshop%20Student%20Session%20Flyer.pdf' | absolute_url }}"><b>here</b></a>!
+Pdf flyer is available <a href=""><b>here</b></a>!
 
 ### <i>News: 2019 January 08, 4:40pm EST (by Cat McGhan)</i>
 Presentations from the 2018 IS Workshop are online and available at [this location](https://drive.google.com/drive/folders/138iWtCOfJi4zUTtg_1If8hshjnTZXC9G?usp=sharing).

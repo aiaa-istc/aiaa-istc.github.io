@@ -12,6 +12,8 @@ Confirmed keynote speakers include Rob Ambrose (retired from 20 years of work at
 
 The rest of the program includes 2 technical sessions with plenary speakers and panels on robust autonomy and human-machine teaming, breakout sessions, [tours](/IS_Workshop_2022/tours.html), a social, and of course, the crowd favorites: the [student competition](/IS_Workshop_2022/student_competitions.html) and the [open mic session](/IS_Workshop_2022/open_mic_session.html).
 
+NEW: Abstract submission is open now through June 25, 2022 for the student poster and lightning talk competitions at the IS workshop! See the [student competitions](/IS_Workshop_2022/student_competitions.html) page for more details.
+
 <!-- (old text)
 This year we will have three technical sessions on the following topics:
 1.	Robust autonomy for harsh, unpredictable environments

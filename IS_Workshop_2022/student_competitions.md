@@ -36,7 +36,6 @@ Deadlines:
 
 ### Questions
 
-Please contact Raj Sharma (rajnikant.sharma@uc.edu) or Dani Selva (dselva@tamu.edu) if you have any questions.
 If you have any questions about the student session, please feel free to contact Raj Sharma (rajnikant.sharma@uc.edu) or the workshop chair Dani Selva (dselva@tamu.edu).
 
 <!-- (old text)

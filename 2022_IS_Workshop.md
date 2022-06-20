@@ -10,7 +10,9 @@ The 7th annual Intelligent Systems Workshop will take place on July 26-27, 2022 
 
 Join us for two days of technical sessions covering a wide range of topics in autonomy and human-machine teaming.
 
-Registration: coming soon!<!-- Register here: a href="" -->
+Confirmed keynote speakers include Rob Ambrose (retired from 20 years of work at NASA JSC on autonomy/robotics, now Director for Space and Robotics Initiatives at TAMU/TEES) and Marc Steinberg (ONR Autonomy PM).
+
+Registration: will open soon! ($150 for regular attendees and $25 for students) <!-- Register here: a href="" -->
 
 Site structure:  
 -- <a href="{{ '/IS_Workshop_2022/program.html' | absolute_url }}">Program</a><br>

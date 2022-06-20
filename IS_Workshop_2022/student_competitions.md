@@ -7,9 +7,9 @@ layout: default
 <h3 align="center">Texas A&M University, College Station, TX</h3>
 
 ## Student competitions
-Students will have the opportunity to present their research in short lightning talks or via posters.
-
 Abstract submission is open now through June 25, 2022 for the student poster and lightning talk competitions at the IS workshop!
+
+Students will have the opportunity to present their research in short lightning talks or via posters, and will have a chance to win cash awards!
 
 ### Call for Abstracts for the Student Talks and Poster Competition  
 
@@ -21,17 +21,23 @@ This is a great opportunity for students to promote their research, practice the
 
 ### Prizes
 
-Students will have a chance to win cash awards ($1,000, $500, and $250 for 1st, 2nd, and 3rd place respectively)!
+First Place: $1000
+Second Place: $500
+Third Place: $250
 
 ### How to apply
 
-Abstract submission is open now through June 25, 2022 for the student poster and lightning talk competitions.
-
 Students can submit their abstracts <a href="https://forms.office.com/pages/responsepage.aspx?id=bC4i9cZf60iPA3PbGCA7YwQP0dlYj5VLlO0JdDSwzsFUQURZVDcwNFpETzJaWUZGSDRZVVFLRkhCTS4u">here</a>.
+
+Deadlines: 
+1. Abstract Submission: June 25, 2022 8 PM EST
+2. Abstract Selection Notification: July 5, 2022
+3. Final Presentation Submission: July 20, 2022
 
 ### Questions
 
 Please contact Raj Sharma (rajnikant.sharma@uc.edu) or Dani Selva (dselva@tamu.edu) if you have any questions.
+If you have any questions about the student session, please feel free to contact Raj Sharma (rajnikant.sharma@uc.edu) or the workshop chair Dani Selva (dselva@tamu.edu).
 
 <!-- (old text)
 ### Call for Abstracts for the Student Talks and Poster Competition  

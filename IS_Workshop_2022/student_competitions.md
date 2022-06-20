@@ -7,9 +7,34 @@ layout: default
 <h3 align="center">Texas A&M University, College Station, TX</h3>
 
 ## Student competitions
-Students will have the opportunity to present their research in short lightning talks or via posters. Details to be announced.
+Students will have the opportunity to present their research in short lightning talks or via posters.
 
-<!-- ### Call for Abstracts for the Student Talks and Poster Competition  
+Abstract submission is open now through June 25, 2022 for the student poster and lightning talk competitions at the IS workshop!
+
+### Call for Abstracts for the Student Talks and Poster Competition  
+
+During the student sessions at the workshop, students will have the opportunity to present their research in 5-minute lightning talks or via posters.
+
+Research topics should be within the area of air and space intelligent systems.
+
+This is a great opportunity for students to promote their research, practice their technical presentation skills, and network with peers in academia, industry, and government.
+
+### Prizes
+
+Students will have a chance to win cash awards ($1,000, $500, and $250 for 1st, 2nd, and 3rd place respectively)!
+
+### How to apply
+
+Abstract submission is open now through June 25, 2022 for the student poster and lightning talk competitions.
+
+Students can submit their abstracts <a href="https://forms.office.com/pages/responsepage.aspx?id=bC4i9cZf60iPA3PbGCA7YwQP0dlYj5VLlO0JdDSwzsFUQURZVDcwNFpETzJaWUZGSDRZVVFLRkhCTS4u">here</a>.
+
+### Questions
+
+Please contact Raj Sharma (rajnikant.sharma@uc.edu) or Dani Selva (dselva@tamu.edu) if you have any questions.
+
+<!-- (old text)
+### Call for Abstracts for the Student Talks and Poster Competition  
 (Sponsored by ???)
 
 <b>Pdf flyer is available <a href="{{ '/IS_Workshop_2022/???.pdf' | absolute_url }}">here</a>!</b>
@@ -42,7 +67,7 @@ If you've been selected:
 ### Questions
 
 Questions? Contact: ?? ?? (??@??) or the workshop co-chair ?? ?? (??@??)
--->
+(end old text) -->
 
 * * *
 * * *

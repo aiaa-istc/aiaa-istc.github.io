@@ -12,6 +12,8 @@ Join us for two days of technical sessions covering a wide range of topics in au
 
 Confirmed keynote speakers include Rob Ambrose (retired from 20 years of work at NASA JSC on autonomy/robotics, now Director for Space and Robotics Initiatives at TAMU/TEES) and Marc Steinberg (ONR Autonomy PM).
 
+<i><b>Abstract submission is open now through June 25, 2022 for the student poster and lightning talk competitions at the IS workshop!</b> See the [student competitions](/IS_Workshop_2022/student_competitions.html) page for more details.</i>
+
 Registration: will open soon! ($150 for regular attendees and $25 for students) <!-- Register here: a href="" -->
 
 Site structure:  

@@ -8,7 +8,7 @@ layout: default
 
 The 7th annual Intelligent Systems Workshop will take place on July 26-27, 2022 at Texas A&M University in College Station, TX.
 
-Join us for two days of technical sessions covering a wide range of topics in autonomy and human-machine teaming. (This workshop will be an in-person only event.)
+Join us for two days of technical sessions covering a wide range of topics in autonomy and human-machine teaming. (Please note that this workshop is an in-person only event.)
 
 Confirmed keynote speakers include Rob Ambrose (retired from 20 years of work at NASA JSC on autonomy/robotics, now Director for Space and Robotics Initiatives at TAMU/TEES) and Marc Steinberg (ONR Autonomy PM).
 

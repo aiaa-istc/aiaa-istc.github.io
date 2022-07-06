@@ -8,7 +8,7 @@ layout: default
 ## Program
 <!-- [Intro paragraph introducing the workshop theme] -->
 
-The program is now available here: <a href="https://docs.google.com/spreadsheets/d/1otmL4bkWHclOv1q6ODcpmVRHJh9VRp3JHxxfSIpLQsQ/edit?usp=sharing">link</a>
+Detailed Program: is available <a href="https://docs.google.com/spreadsheets/d/1otmL4bkWHclOv1q6ODcpmVRHJh9VRp3JHxxfSIpLQsQ/edit?usp=sharing">here</a>!
 
 Confirmed keynote speakers include Rob Ambrose (retired from 20 years of work at NASA JSC on autonomy/robotics, now Director for Space and Robotics Initiatives at TAMU/TEES) and Marc Steinberg (ONR Autonomy PM).
 

@@ -8,13 +8,15 @@ layout: default
 
 The 7th annual Intelligent Systems Workshop will take place on July 26-27, 2022 at Texas A&M University in College Station, TX.
 
-Join us for two days of technical sessions covering a wide range of topics in autonomy and human-machine teaming.
+Join us for two days of technical sessions covering a wide range of topics in autonomy and human-machine teaming. (This workshop will be an in-person only event.)
 
 Confirmed keynote speakers include Rob Ambrose (retired from 20 years of work at NASA JSC on autonomy/robotics, now Director for Space and Robotics Initiatives at TAMU/TEES) and Marc Steinberg (ONR Autonomy PM).
 
-<i><b>Abstract submission is open now through June 25, 2022 for the student poster and lightning talk competitions at the IS workshop!</b> See the [student competitions](/IS_Workshop_2022/student_competitions.html) page for more details.</i>
+<i><b>Abstract submission is open now through <strike>June 25, 2022</strike> July 15, 2022 for the student poster and lightning talk competitions at the IS workshop!</b> See the [student competitions](/IS_Workshop_2022/student_competitions.html) page for more details.</i>
 
-Registration: will open soon! ($150 for regular attendees and $25 for students) <!-- Register here: a href="" -->
+Registration: is now open! ($150 for regular attendees and $25 for students) Register here: <a href="https://na.eventscloud.com/ereg/index.php?eventid=695111&">link</a>
+
+Program: is now available <a href="https://docs.google.com/spreadsheets/d/1otmL4bkWHclOv1q6ODcpmVRHJh9VRp3JHxxfSIpLQsQ/edit?usp=sharing">here</a>!
 
 Site structure:  
 -- <a href="{{ '/IS_Workshop_2022/program.html' | absolute_url }}">Program</a><br>

@@ -9,7 +9,7 @@ layout: default
 ## Tours
 As part of the workshop program there will be several tours of both the main CAMPUS and RELLIS campus including various research labs, and the Research Integration Center of the Bush Combat Development Complex.
 
-Details TBD.
+Details are available in the program (<a href="https://docs.google.com/spreadsheets/d/1otmL4bkWHclOv1q6ODcpmVRHJh9VRp3JHxxfSIpLQsQ/edit?usp=sharing">here</a>).
 
 * * *
 * * *

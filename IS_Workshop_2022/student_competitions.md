@@ -7,7 +7,7 @@ layout: default
 <h3 align="center">Texas A&M University, College Station, TX</h3>
 
 ## Student competitions
-Abstract submission is open now through June 25, 2022 for the student poster and lightning talk competitions at the IS workshop!
+Abstract submission is open now through <strike>June 25, 2022</strike> July 15, 2022 for the student poster and lightning talk competitions at the IS workshop!
 
 Students will have the opportunity to present their research in short lightning talks or via posters, and will have a chance to win cash awards!
 
@@ -30,9 +30,9 @@ Third Place: $250
 Students can submit their abstracts <a href="https://forms.office.com/pages/responsepage.aspx?id=bC4i9cZf60iPA3PbGCA7YwQP0dlYj5VLlO0JdDSwzsFUQURZVDcwNFpETzJaWUZGSDRZVVFLRkhCTS4u">here</a>.
 
 Deadlines: 
-1. Abstract Submission: June 25, 2022 8 PM EST
-2. Abstract Selection Notification: July 5, 2022
-3. Final Presentation Submission: July 20, 2022
+1. Abstract Submission: <strike>June 25, 2022</strike> July 15, 2022 8 PM EST
+2. Abstract Selection Notification: <strike>July 5, 2022</strike> July 18, 2022
+3. Final Presentation Submission: <strike>July 20, 2022</strike> July 23, 2022
 
 ### Questions
 

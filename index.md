@@ -26,6 +26,38 @@ For more information, see: [https://aiaa-istc.github.io/2022_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2022 July 12, 8:28pm EST (by Cat McGhan)</i>
+Call for Papers -- 2nd Workshop on AI for Space in conjunction with ECCV 2022:
+
+AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve technical challenges related to space, from autonomous spacecraft, space mining, debris monitoring and mitigation, to answering fundamental questions about the universe. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
+
+Website:
+
+https://aiforspace.github.io/2022/
+
+**Call for Papers:**
+
+We solicit papers for AI4Space. Papers will be reviewed and accepted papers will be published in the proceedings of ECCV Workshops. Authors of accepted papers will also be invited to present at the workshop (in hybrid mode) at ECCV 2022, Tel-Aviv, late October 2022.
+
+The general emphasis of AI4Space is vision and learning algorithms in off-Earth environments, including in the orbital region, surface and underground environments on other planetary bodies (e.g., the moon, Mars and asteroids), interplanetary space and solar system, and distant galaxies. Target application areas include autonomous spacecraft, space robotics, space traffic management, astronomy, astrobiology and cosmology. Emphasis is also placed on novel sensors and processing hardware for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., solar radiation, extreme temperatures), and solving practical difficulties in vision and learning for space (e.g., lack of training data, unknown or partially known characteristics of operating environments).
+
+A specific list of topics is as follows:
+- Visual navigation for spacecraft operations
+- Vision and learning for space robotics
+- GPS-denied positioning on the moon and Mars
+- Space debris monitoring and mitigation
+- Vision and learning for astronomy, astrobiology and cosmology
+- Novel sensors for space applications
+- Processing hardware for vision and learning in space
+- Mitigating challenges of the space environment to vision and learning
+- Datasets, transfer learning and domain gap for space problems
+
+**Paper deadline:**
+11:59pm 15 July 2022
+
+**More details:**
+https://aiforspace.github.io/2022/
+
 ### <i>News: 2021 December 20, 9:50pm EST (by Cat McGhan)</i>
 Jon How's keynote at SciTech 2022
 

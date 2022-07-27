@@ -10,6 +10,16 @@ If you are interested in joining the ISTC, please complete a Technical Committee
 
 * * *
 
+**Chair Information:**
+* John Valasek, <a href="mailto:valasek@tamu.edu">valasek@tamu.edu</a>
+
+**ISTC Officers:**
+* Co-chair: <a href="mailto:elad.kivelevitch@gmail.com">Elad Kivelevitch</a><br>
+* Chair-elect: <a href="mailto:natasha.a.neogi@nasa.gov">Natasha Neogi</a><br>
+* Secretary: <a href="mailto:dselva@tamu.edu">Dani Selva</a><br>
+
+* * *
+
 * TOC
 {:toc}
 
@@ -103,7 +113,7 @@ Objective:  To maintain and disseminate information on how the ISTC functions to
 
 Contact Info: <a href="mailto:">Liang Sun</a> (Chair), <a href="mailto:">Alex Stimpson</a> (Co-Chair)
 
-### Profession Development, Education, and Outreach (PDE&O)
+### Professional Development, Education, and Outreach (PDE&O)
 Objective:  To increase the awareness of Intelligent System technologies among K-12 grade levels, university students, and professionals and to come up with innovative approaches to involve students.
 
 Contact Info: <a href="mailto:yan.wan@uta.edu">Yan Wan</a> (Chair), <a href="mailto:chetan.s.kulkarni@nasa.gov">Chetan Kulkarni</a> (Co-Chair)
@@ -142,7 +152,7 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | Casbeer, David | Air Force Research Laboratory | Associate Fellow | Membership |
 | Chakrabarty, Anjan | NASA Ames / SGT | Member | Awards, Public Policy |
 | Choi, Han-Lim | Korea Advanced Institute of Science & Technology | Senior Member | Awards, Publications |
-| Chua, Zarrin | Blue Origin | Senior Member | Membership, PDE&O |
+| Clauss, Jon | Lockheed Martin | Member | Public Policy, Awards |
 | Clement, Danielle | Lockheed Martin | . | New TC Member |
 | Cook, Steve | Northrop Grumman Aerospace Systems, Office of Independent Airworthiness | Associate Fellow | Conference Planning, Public Policy |
 | De Visser, Coen | Delft University of Technology | Member | Awards, Publications |
@@ -151,21 +161,16 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | Goecks, Vinicius | Texas A&M University | Associate Member | Awards, Communications |
 | Harris, Joshua | Texas A&M University | Associate Member | Conference Planning, Communications |
 | Hobbs, Kerianne | Air Force Research Laboratory | Senior Member | Publications, Workshop |
-| Kivelevitch, Elad | Mathworks | Senior Member | ISTC Co-Chair |
 | Kolcio, Ksenia | Okean Solutions | . | Publications |
 | Kulkarni, Chetan | NASA Ames / SGT | Senior Member | PDE&O |
 | Lacher, Andrew | MITRE | Associate Fellow | Public Poliicy |
 | Lampton, Amanda | Systems Technology, Inc | Associate Fellow | Conference Planning, Workshop |
-| Le Vie, Lisa | NASA Langley Research Center | . | Conference, Workshop |
 | Lehman, Hannah | Texas A&M University | Student Member | New TC Member |
-| Leszczynski, Zigmond | Aerospace Corp | Associate Fellow | Procedures, Public Policy |
 | Lombaerts, Thomas | NASA Ames / SGT | Associate Fellow | Conference Planning, Procedures |
 | McGhan, Catharine | University of Cincinnati | Member | PDE&O, Communications |
-| Melcher, Kevin | NASA Glenn | Associate Fellow | Conference Planning |
+| McLain, Timothy | Brigham Young University | Associate Fellow | Awards, Workshop |
 | Moncayo, Hever | Embry-Riddle Aeronautical University | Senior Member | Conference Planning, Workshop |
 | Neogi, Natasha | NASA Langley | Associate Fellow | ISTC Chair-Elect, Publications |
-| Nguyen, Nhan | NASA Ames | Associate Fellow | Awards |
-| Oyama, Akira | Japan Aerospace Exploration Agency (JAXA) | Senior Member | Publications, Communications |
 | Puranik, Tejas | Georgia Tech | . | Conference Planning, PDE&O |
 | Rafi, Melvin | Wichita State University | Student Member | Conference, Communications |
 | Rangavajhala, Sirisha | Draper Laboratory | . | Workshop |
@@ -179,7 +184,9 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | Sun, Liang | New Mexico State | Member | Conference, Procedures |
 | Valasek, John | Texas A&M | Fellow | ISTC Chair, Membership, Workshop |
 | Wan, Yan | University of North Texas | Member | Awards, PDE&O |
+| Weintraub, Isaac | Aif Force Research Laboratory | . | New TC Member |
 | Wilhelm, Jay | Ohio University | Member | ISTC Secretary, Awards, Workshop |
+| Wong, Edmond | NASA Glenn | Member | PDE&O, Communications |
 | Yucelen, Tansel | University of South Florida | Member | Conference Planning, Publications |
 
 **Alumni:**
@@ -197,6 +204,13 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | Sabo, Chelsea | Lockheed Martin | Senior Member | 2008 | 2021 |
 | Yucel, Adnan | Lockheed Martin | Associate Fellow | 2011 | 2021 |
 | Rudd, Lael | Draper Labs | Associate Fellow | . | 2021 |
+| Le Vie, Lisa | NASA Langley Research Center | 2021 | 2022 |
+| Chua, Zarrin | Blue Origin | Senior Member | 2018 | 2022 |
+| Kivelevitch, Elad | Mathworks | Senior Member | 2012 | 2022 |
+| Leszczynski, Zigmond | Aerospace Corp | Associate Fellow | 2018 | 2022 |
+| Melcher, Kevin | NASA Glenn | Associate Fellow | 2011 | 2022 |
+| Nguyen, Nhan | NASA Ames | Associate Fellow | 2007 | 2022 |
+| Oyama, Akira | Japan Aerospace Exploration Agency (JAXA) | Senior Member | 2009 | 2022 |
 
 <!--
 | Balas, Mark | Embry-Riddle Aeronautical University, FL | Emeritus Member | Awards, Conference Planning |

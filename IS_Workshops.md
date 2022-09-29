@@ -13,7 +13,7 @@ Texas A&M University, College Station, TX
 
 The 7th annual Intelligent Systems Workshop will take place on July 26-27, 2022 at Texas A&M University in College Station, TX.
 
-Registration is closed. <!--($150 for regular attendees and $25 for students) Register <a href="https://na.eventscloud.com/ereg/index.php?eventid=695111&">here</a>! --></i>
+Registration is closed. <!--($150 for regular attendees and $25 for students) Register <a href="https://na.eventscloud.com/ereg/index.php?eventid=695111&">here</a>! -->
 
 More information is available <a href="/2022_IS_Workshop.html">here</a>.
 

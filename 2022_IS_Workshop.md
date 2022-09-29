@@ -14,7 +14,7 @@ Confirmed keynote speakers include Rob Ambrose (retired from 20 years of work at
 
 <i><b>Abstract submission is open now through <strike>June 25, 2022</strike> July 15, 2022 for the student poster and lightning talk competitions at the IS workshop!</b> See the [student competitions](/IS_Workshop_2022/student_competitions.html) page for more details.</i>
 
-<i><b>Registration: is now open!</b> ($150 for regular attendees and $25 for students) Register <a href="https://na.eventscloud.com/ereg/index.php?eventid=695111&">here</a>!</i>
+<i><b>Registration: is closed! Thank you for attending! :)</b> <!--($150 for regular attendees and $25 for students) Register <a href="https://na.eventscloud.com/ereg/index.php?eventid=695111&">here</a>! --></i>
 
 Program: is now available <a href="https://docs.google.com/spreadsheets/d/1otmL4bkWHclOv1q6ODcpmVRHJh9VRp3JHxxfSIpLQsQ/edit?usp=sharing">here</a>!
 

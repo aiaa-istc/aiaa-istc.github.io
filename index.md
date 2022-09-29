@@ -16,7 +16,8 @@ layout: default
 ## 2022 Intelligent Systems Workshop -- Texas A&M University, July 26-27
 The 7th annual Intelligent Systems Workshop will take place on July 26-27, 2022 at Texas A&M University in College Station, TX. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems. (Please note that this workshop will be an in-person only event.)
 
-<i><b>Registration is now open <a href="https://na.eventscloud.com/ereg/index.php?eventid=695111&">here</a>!</b> ($150 for regular attendees and $25 for students) and the program is available <a href="https://docs.google.com/spreadsheets/d/1otmL4bkWHclOv1q6ODcpmVRHJh9VRp3JHxxfSIpLQsQ/edit?usp=sharing">here</a>!</i>
+<i><b>Registration is closed! We hope you enjoyed attending! :)</b>
+<!-- <b>Registration is now open <a href="https://na.eventscloud.com/ereg/index.php?eventid=695111&">here</a>!</b> ($150 for regular attendees and $25 for students) and the program is available <a href="https://docs.google.com/spreadsheets/d/1otmL4bkWHclOv1q6ODcpmVRHJh9VRp3JHxxfSIpLQsQ/edit?usp=sharing">here</a>! --></i>
 
 For more information, see: [https://aiaa-istc.github.io/2022_IS_Workshop.html](https://aiaa-istc.github.io/2022_IS_Workshop.html)
 

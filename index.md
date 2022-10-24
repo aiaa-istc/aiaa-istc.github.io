@@ -27,6 +27,30 @@ For more information, see: [https://aiaa-istc.github.io/2022_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2022 October 24, 2:07pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series                                                                 
+
+Don't miss Dr. K. Merve Dogan's seminar today at 5:00pm EDT on Zoom!
+
+**Speaker:** K. Merve Dogan, Ph.D.<br>
+Department of Aerospace Engineering; Assistant Professor<br>
+Embry-Riddle Aeronautical University, Daytona Beach, Florida, USA
+
+**Date/time:** Monday, October 24th, 2022 -- 5:00pm-6:00pm Eastern time
+
+**Title:** Verifiable Adaptive Architectures for Control of Safety-Critical Systems
+
+**Meeting link:** https://aiaa.zoom.us/j/87121537657?pwd=TW82Z05aMWZ2ekRGTXRQRkxrVld4UT09<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 871 2153 7657<br>
+Passcode: 261822
+
+**Abstract:** Model reference adaptive control (MRAC) methods are powerful mathematical tools for safety-critical sole and multiagent systems, where they have the capability to suppress the effect of exogenous disturbances and system uncertainties for achieving a desired level of closed-loop system response.  However, the closed-loop system stability with these methods can be challenged for a wide array of applications that involve unmodeled dynamics (e.g., rigid body systems coupled with flexible appendages, airplanes with high aspect ratio wings, and high-speed vehicles with rigid body and flexible dynamics coupling) and actuator dynamics (e.g., cooperation of low and high speed autonomous vehicles).  Motivated by this standpoint, this seminar will introduce verifiable MRAC architectures for both sole and multiagent systems, where we will show the stability tradeoffs of these architectures in the presence of unmodeled and actuator dynamics as well as system uncertainties.  In order to bridge the gap between theory and practice, several simulation and experimental results will be also presented.
+
+**Bio:** Dr. K. Merve Dogan is an Assistant Professor of the Department of Aerospace Engineering at the Embry-Riddle Aeronautical University and the director of Foundational Autonomous Systems and Technologies Research Group (FAST- https://www.fastresearchgroup.com) since August 2020. Prior to joining the Embry-Riddle Aeronautical University, she held the Research Assistant position in the Department of Mechanical Engineering at the University of South Florida between 2015 and 2020, where she received her Doctor of Philosophy degree in 2020. Before joining the University of South Florida, she held a Research/Teaching Assistant position in the Department of Electrical and Electronics Engineering at the Izmir Institute of Technology between 2012 and 2015, where she received her Master of Science degree in 2016. Dr. Dogan is a Co-Director of the Forum on Robotics and Control Engineering (FoRCE), and is a member of AIAA and IEEE, including several technical committees.
+
 ### <i>News: 2022 July 12, 8:28pm EST (by Cat McGhan)</i>
 Call for Papers -- 2nd Workshop on AI for Space in conjunction with ECCV 2022:
 

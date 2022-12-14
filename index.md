@@ -33,7 +33,7 @@ ISTC Technical Seminar Series
 Don't miss Dr. Chetan S. Kulkarni's seminar on Wednesday at 4:00pm EST on Zoom!
 
 **Speaker:** Chetan S. Kulkarni, Ph.D.<br>
-Staff Researche, Prognostics Center of Excellence and the Diagnostics and Prognostics Group<br>
+Staff Researcher, Prognostics Center of Excellence and the Diagnostics and Prognostics Group<br>
 Intelligent Systems Division, NASA Ames Research Center<br>
 
 **Date/time:** Wednesday, December 14th, 2022 -- 4:00pm-5:00pm Eastern time

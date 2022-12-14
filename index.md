@@ -27,6 +27,30 @@ For more information, see: [https://aiaa-istc.github.io/2022_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2022 December 13, 9:30pm EST (by Cat McGhan)</i>
+ISTC Technical Seminar Series                                                                 
+
+Don't miss Dr. Chetan S. Kulkarni's seminar on Wednesday at 4:00pm EST on Zoom!
+
+**Speaker:** Chetan S. Kulkarni, Ph.D.<br>
+Staff Researche, Prognostics Center of Excellence and the Diagnostics and Prognostics Group<br>
+Intelligent Systems Division, NASA Ames Research Center<br>
+
+**Date/time:** Wednesday, December 14th, 2022 -- 4:00pm-5:00pm Eastern time
+
+**Title:** Hybrid Approaches for Systems Health Management and Prognostics
+
+**Meeting link:** [https://aiaa.zoom.us/j/86978612062?pwd=ZFJXTlVJaTE0K1Q0VWNzMVVjTWF6dz09](https://aiaa.zoom.us/j/86978612062?pwd=ZFJXTlVJaTE0K1Q0VWNzMVVjTWF6dz09)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 869 7861 2062<br>
+Passcode: 553359
+
+**Abstract:** To facilitate and solve the prediction problem, awareness of the current health state of the system is key, since it is necessary to perform condition-based predictions. To accurately predict the future state of any system, it is required to possess knowledge of its current health state and future operational conditions. Latest achievements of data-driven algorithms in regression of complex nonlinear functions and classification tasks have generated a growing interest in artificial intelligence for industrial applications. Complex multi-physics models as well as digital twins, once purely built on physics and corresponding simplified lumped parameter iterations, can now benefit from machine learning algorithms to mitigate the lack of understanding of some complex behavior. Given models of the current and future system behavior, a general approach of model-based prognostics can solve the prediction problem and further decision making. In principle, data driven approaches can replace expensive experimental test-setups as well as reduce the number of simulations needed to explore, e.g., the parametric space of a multi-parameter model. Nonetheless, the limitations of pure data-driven methods came to light rather quickly, at least for some industries. In many industrial applications, data acquisition is costly, and the volume of data that can be collected does not satisfy the requirements for an effective model training and cross-validation. Therefore, some recent works in the area of machine learning is focusing on blending physics with data-driven algorithms, thus mitigating the drawbacks of the two approaches and emphasizing respective advantages. Partial physical knowledge of the problem can aid the learning process by “guiding” the algorithm towards efficient solutions that satisfy the physics driving the system behavior. The result is a hybrid modeling approach combining physical knowledge as well data driven methods to develop a unified hybrid approach. A hybrid framework for fusing information from physics-based performance models along with deep learning algorithms for prognostics of complex safety critical systems is presented. In this framework, physics-based performance models infer unobservable model parameters related to the system's components health solving a calibration problem in the deep learning approach.
+
+**Bio:** Chetan S. Kulkarni is a staff researcher at the Prognostics Center of Excellence and the Diagnostics and Prognostics Group in the Intelligent Systems Division at NASA Ames Research Center. His current research interests are in Systems Diagnostics, Prognostics and Health Management. Specifically focused in the area of developing physics-based and hybrid modeling approaches for diagnosis and prognosis of complex systems. He completed his MS (`09), Ph.D. (`13) from Vanderbilt University, TN where he was a Graduate Research Assistant with the Institute for Software Integrated Systems and Department of Electrical Engineering and Computer Science. He completed his BE (`02) from the University of Pune, India. Prior to joining Vanderbilt, he was a Research Fellow at the Department of Electrical Engineering, IIT-Bombay, where his research work focused on developing low-cost substation automation system monitoring and control devices and partial discharge of high voltage transformers. Earlier to that he was a member of the technical team of the Power Automation group at Honeywell, India where he was involved in turnkey power automation projects and product development in the area of substation automation. He is KBR Technical Fellow, AIAA Associate Fellow and Associate Editor for IEEE, SAE, IJPHM Journals on topics related to Prognostics and Systems Health Management. He has been Technical Program Committee co-chair at PHME18, PHM20 and PHM21. He co-chairs the Professional Development and Education Outreach subcommittee in the AIAA Intelligent Systems Technical Committee.
+
 ### <i>News: 2022 October 24, 2:07pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series                                                                 
 

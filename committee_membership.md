@@ -17,7 +17,7 @@ If you are interested in joining the ISTC, please complete a Technical Committee
   </tr>
   <tr>
     <td>John Valasek, <a href="mailto:valasek@tamu.edu">valasek@tamu.edu</a></td>
-    <td>* Co-chair: <a href="mailto:elad.kivelevitch@gmail.com">Elad Kivelevitch</a><br>
+    <td>* Co-chair: <a href="mailto:david.casbeer@live.com">David Casbeer</a><br>
 * Chair-elect: <a href="mailto:natasha.a.neogi@nasa.gov">Natasha Neogi</a><br>
 * Secretary: <a href="mailto:dselva@tamu.edu">Dani Selva</a><br></td>
   </tr>
@@ -189,7 +189,7 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | Sun, Liang | New Mexico State | Member | Conference, Procedures |
 | Valasek, John | Texas A&M | Fellow | ISTC Chair, Membership, Workshop |
 | Wan, Yan | University of North Texas | Member | Awards, PDE&O |
-| Weintraub, Isaac | Aif Force Research Laboratory | . | New TC Member |
+| Weintraub, Isaac | Air Force Research Laboratory | Member | Awards |
 | Wilhelm, Jay | Ohio University | Member | ISTC Secretary, Awards, Workshop |
 | Wong, Edmond | NASA Glenn | Member | PDE&O, Communications |
 | Yucelen, Tansel | University of South Florida | Member | Conference Planning, Publications |

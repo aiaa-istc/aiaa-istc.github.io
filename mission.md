@@ -85,7 +85,7 @@ Every member of the ISTC has the following ongoing responsibilities:
 
 ### Sub-Committee Listing
 
-The ISTC is divided into eight subcommittees:
+The ISTC is divided into nine subcommittees:
 1. Awards
 1. Conference Planning
 1. Membership
@@ -94,7 +94,7 @@ The ISTC is divided into eight subcommittees:
 1. Public Policy
 1. Publications
 1. Communications
-1. Workshop Planning (2021-2022)
+1. Workshop Planning (2022-2023)
 
 For information on the various ISTC subcommittees and current members, please see the [Members and Subcommittees](https://aiaa-istc.github.io/committee_membership.html) page!
 

@@ -4,7 +4,14 @@ layout: default
 
 ## Announcements
 
-These are announcements [from the main page](https://aiaa-istc.github.io/index.html).
+These are announcements originally posted to [the main page](https://aiaa-istc.github.io/index.html).
+
+* * *
+
+* TOC
+{:toc}
+
+* * *
 
 ### <i>News: 2022 December 13, 9:30pm EST (by Cat McGhan)</i>
 ISTC Technical Seminar Series                                                                 

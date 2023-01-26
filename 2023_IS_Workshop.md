@@ -15,7 +15,7 @@ More inforation is coming soon!
 
 Abstract submission is coming soon! <!--<i><b>Abstract submission is open now through ?? ??, 2023 for the student poster and lightning talk competitions at the IS workshop!</b> See the [student competitions](/IS_Workshop_2023/student_competitions.html) page for more details.</i>-->
 
-Registration is coming soon! <i><b>Registration: is open! ($150 for regular attendees and $25 for students) Register <a href="">here</a>!</i>-->
+Registration is coming soon! <!--<i><b>Registration: is open! ($?? for regular attendees and $?? for students) Register <a href="">here</a>!</i>-->
 
 Program: is coming soon! <!--is now available <a href="">here</a>!-->
 <!--

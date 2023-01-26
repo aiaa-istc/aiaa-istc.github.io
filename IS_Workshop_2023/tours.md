@@ -8,11 +8,9 @@ layout: default2023ws
 
 ## Tours
 Coming soon!
-<!--
-As part of the workshop program there will be several tours of both ?? and ?? including various research labs, and the ??.
+<!-- As part of the workshop program there will be several tours of both ?? and ?? including various research labs, and the ??.
 
-Details are available in the workshop program (available <a href="">here</a>).
--->
+Details are available in the workshop program (available <a href="">here</a>). -->
 
 * * *
 * * *

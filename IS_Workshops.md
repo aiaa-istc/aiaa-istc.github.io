@@ -6,6 +6,17 @@ layout: default
 
 The Intelligent Systems Workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
 
+### 2023 Intelligent Systems Workshop -- University of Colorado Boulder, July 24-25
+
+<a href="/2023_IS_Workshop.html">AIAA Intelligent Systems Workshop, July 24-25, 2023</a><br>
+University of Colorado Boulder, Boulder, CO
+
+The 8th annual Intelligent Systems Workshop will take place on July 24-25, 2023 at University of Colorado Boulder in Boulder, CO.
+
+Registration is coming soon! <!--Registration is open! ($150 for regular attendees and $25 for students) Register <a href="https://na.eventscloud.com/ereg/index.php?eventid=695111&">here</a>! -->
+
+More information is available <a href="/2023_IS_Workshop.html">here</a>.
+
 ### 2022 Intelligent Systems Workshop -- Texas A&M University, July 26-27
 
 <a href="/2022_IS_Workshop.html">AIAA Intelligent Systems Workshop, July 26-27, 2022</a><br>

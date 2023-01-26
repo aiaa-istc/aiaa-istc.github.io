@@ -209,7 +209,7 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | Sabo, Chelsea | Lockheed Martin | Senior Member | 2008 | 2021 |
 | Yucel, Adnan | Lockheed Martin | Associate Fellow | 2011 | 2021 |
 | Rudd, Lael | Draper Labs | Associate Fellow | . | 2021 |
-| Le Vie, Lisa | NASA Langley Research Center | 2021 | 2022 |
+| Le Vie, Lisa | NASA Langley Research Center | . | 2021 | 2022 |
 | Chua, Zarrin | Blue Origin | Senior Member | 2018 | 2022 |
 | Kivelevitch, Elad | Mathworks | Senior Member | 2012 | 2022 |
 | Leszczynski, Zigmond | Aerospace Corp | Associate Fellow | 2018 | 2022 |

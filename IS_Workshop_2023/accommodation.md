@@ -10,8 +10,7 @@ layout: default2023ws
 Coming soon!
 <!-- If you are unable to drive to College Station, you can fly directly into the College Station airport with American Airlines. Otherwise, one can fly to either Houston or Austin and take a shuttle or rent a car and drive to College Station.
 
-Both airports are approximately 100 miles from College Station. DFW airport is about 200 miles from College Station.
--->
+Both airports are approximately 100 miles from College Station. DFW airport is about 200 miles from College Station. -->
 
 ## Hotels
 Coming soon!

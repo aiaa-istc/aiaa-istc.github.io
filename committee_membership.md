@@ -34,7 +34,7 @@ If you are interested in joining the ISTC, please complete a Technical Committee
 
 ## Sub-Committee Listing
 
-The ISTC is divided into eight subcommittees:
+The ISTC is divided into nine subcommittees:
 1. Awards
 1. Conference Planning
 1. Membership
@@ -43,7 +43,7 @@ The ISTC is divided into eight subcommittees:
 1. Public Policy
 1. Publications
 1. Communications
-1. Workshop Planning (2021-2022)
+1. Workshop Planning (2022-2023)
 
 ### Awards
 Objective:  To honor outstand technical & non-technical accomplishments by AIAA members through an awards structure.

@@ -14,6 +14,7 @@ These are announcements originally posted to [the main page](https://aiaa-istc.g
 * * *
 
 ### <i>News: 2022 December 13, 9:30pm EST (by Cat McGhan)</i>
+#### ISTC Technical Seminar Series -- Chetan S. Kulkarni, on Zoom
 ISTC Technical Seminar Series                                                                 
 
 Don't miss Dr. Chetan S. Kulkarni's seminar on Wednesday at 4:00pm EST on Zoom!
@@ -38,7 +39,8 @@ Passcode: 553359
 **Bio:** Chetan S. Kulkarni is a staff researcher at the Prognostics Center of Excellence and the Diagnostics and Prognostics Group in the Intelligent Systems Division at NASA Ames Research Center. His current research interests are in Systems Diagnostics, Prognostics and Health Management. Specifically focused in the area of developing physics-based and hybrid modeling approaches for diagnosis and prognosis of complex systems. He completed his MS (`09), Ph.D. (`13) from Vanderbilt University, TN where he was a Graduate Research Assistant with the Institute for Software Integrated Systems and Department of Electrical Engineering and Computer Science. He completed his BE (`02) from the University of Pune, India. Prior to joining Vanderbilt, he was a Research Fellow at the Department of Electrical Engineering, IIT-Bombay, where his research work focused on developing low-cost substation automation system monitoring and control devices and partial discharge of high voltage transformers. Earlier to that he was a member of the technical team of the Power Automation group at Honeywell, India where he was involved in turnkey power automation projects and product development in the area of substation automation. He is KBR Technical Fellow, AIAA Associate Fellow and Associate Editor for IEEE, SAE, IJPHM Journals on topics related to Prognostics and Systems Health Management. He has been Technical Program Committee co-chair at PHME18, PHM20 and PHM21. He co-chairs the Professional Development and Education Outreach subcommittee in the AIAA Intelligent Systems Technical Committee.
 
 ### <i>News: 2022 October 24, 2:07pm EDT (by Cat McGhan)</i>
-ISTC Technical Seminar Series                                                                 
+#### ISTC Technical Seminar Series -- K. Merve Dogan, on Zoom
+ISTC Technical Seminar Series
 
 Don't miss Dr. K. Merve Dogan's seminar today at 5:00pm EDT on Zoom!
 
@@ -62,6 +64,7 @@ Passcode: 261822
 **Bio:** Dr. K. Merve Dogan is an Assistant Professor of the Department of Aerospace Engineering at the Embry-Riddle Aeronautical University and the director of Foundational Autonomous Systems and Technologies Research Group (FAST- [https://www.fastresearchgroup.com](https://www.fastresearchgroup.com)) since August 2020. Prior to joining the Embry-Riddle Aeronautical University, she held the Research Assistant position in the Department of Mechanical Engineering at the University of South Florida between 2015 and 2020, where she received her Doctor of Philosophy degree in 2020. Before joining the University of South Florida, she held a Research/Teaching Assistant position in the Department of Electrical and Electronics Engineering at the Izmir Institute of Technology between 2012 and 2015, where she received her Master of Science degree in 2016. Dr. Dogan is a Co-Director of the Forum on Robotics and Control Engineering (FoRCE), and is a member of AIAA and IEEE, including several technical committees.
 
 ### <i>News: 2022 July 12, 8:28pm EST (by Cat McGhan)</i>
+#### Call for Papers -- 2nd Workshop on AI for Space in conjunction with ECCV 2022
 Call for Papers -- 2nd Workshop on AI for Space in conjunction with ECCV 2022:
 
 AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve technical challenges related to space, from autonomous spacecraft, space mining, debris monitoring and mitigation, to answering fundamental questions about the universe. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
@@ -94,6 +97,7 @@ A specific list of topics is as follows:
 https://aiforspace.github.io/2022/
 
 ### <i>News: 2021 December 20, 9:50pm EST (by Cat McGhan)</i>
+#### Jon How's keynote at SciTech 2022
 Jon How's keynote at SciTech 2022
 
 Don’t miss Prof. Jonathan How’s keynote at SciTech 2022 on January 3rd at 11:30am PST. Professor How will talk about “Deploying Autonomy in an Uncertain World”. More info at [https://www.aiaa.org/SciTech/program](https://www.aiaa.org/SciTech/program) and below!
@@ -111,6 +115,7 @@ Dr. How was the editor-in-chief of the IEEE Control Systems Magazine (2015-19) a
 His research focuses on robust planning and learning under uncertainty with an emphasis on multiagent systems, and he was the planning and control lead for the MIT DARPA Urban Challenge team.  His work has been recognized with multiple awards, including the 2020 IEEE CSS Distinguished Member Award, the 2020 AIAA Intelligent Systems Award, the 2015 AeroLion Technologies Outstanding Paper Award for Unmanned Systems, the 2015 IEEE CSS Video Clip Contest, the 2011 IFAC Automatica award for best applications paper, and the 2002 Institute of Navigation Burka Award. He also received the Air Force Commander's Public Service Award in 2017. He is a Fellow of IEEE and AIAA and was elected to the National Academy of Engineering in 2021.
 
 ### <i>News: 2021 March 6, 2:57pm EST (by Cat McGhan)</i>
+#### 1st Workshop on AI for Space in conjunction with CVPR 2021: June 2021
 1st Workshop on AI for Space in conjunction with CVPR 2021: June 2021
 
 AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve technical challenges related to space, from autonomous spacecrafts, space mining, debris monitoring and mitigation, to answering fundamental questions about the universe. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
@@ -141,28 +146,34 @@ Paper deadline: extended to 11:59pm 20 Mar 2021 (PST)
 Submission details: [https://aiforspace.github.io/2021/#cfp](https://aiforspace.github.io/2021/#cfp)
 
 ### <i>News: 2020 August 19, 9:35pm EST (by Cat McGhan)</i>
+#### Two of our TC members were featured in a news article recently!
 Two of our TC members were featured in a news article recently!
 
 **Analysis: Sanitization Drones Could Improve Campus Safety**  
 [EDTECH Magazine](https://edtechmagazine.com/higher/article/2020/08/clean-sweep-how-sanitization-drones-can-improve-campus-safety) (8/10, Stone) reports that “at the University of Michigan, Aerospace Engineering Professor Ella Atkins envisions a school using UAVs to clean learning spaces.” Said Atkins, “If the drone can pop up above the tables and chairs and spray a fast-drying solution, just zipping back and forth in a regular pattern, there’s no way a human could do that nearly as fast. That has real possibilities.” A small drone “likely couldn’t carry enough cleaning fluid to get the job done,” but “running a lightweight hose from the drone back to a bucket of solution introduces challenges.” Said Kelly Cohen, interim head of the Department of Aerospace Engineering and Engineering Mechanics at the University of Cincinnati, “There are spaces where you have a lot of students congregating, maybe moving from one building to another, and that open space could be disinfected by drones.”
 
 ### <i>News: 2020 April 29, 12:33pm EST (by Cat McGhan)</i>
+#### 2020 IS Workshop has been POSTPONED
 The 2020 IS Workshop has been <b>POSTPONED UNTIL SUMMER 2021</b>. We thank you for your patience and forbearance in these COVID-19 times. You can learn more about the virus and stay up to date on the situation and safety measures to deal with it at the [WHO website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (or the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for more USA-specific information). In the meantime, please practice social distancing and best practices under these evolving circumstances, and we all hope you stay safe and well. We will all get through this together.
 
 ### <i>News: 2020 February 28, 3:42pm EST (by Cat McGhan)</i>
+#### 2020 IS Workshop Call for abstracts
 The call for abstracts for the student talks and poster competition for the 2020 IS Workshop <a href="">has now been posted</a>.
 
 Pdf flyer is available <a href=""><b>here</b></a>!
 
 ### <i>News: 2019 January 08, 4:40pm EST (by Cat McGhan)</i>
+#### 2018 IS Workshop presentation links are online
 Presentations from the 2018 IS Workshop are online and available at [this location](https://drive.google.com/drive/folders/138iWtCOfJi4zUTtg_1If8hshjnTZXC9G?usp=sharing).
 
 The 2019 IS Workshop page is also online! View it at: [https://istcws2019.org/](https://istcws2019.org/)
 
 ### <i>News: 2018 September 13, 1:39am EST (by Cat McGhan)</i>
+#### 2018 IS Workshop presentation links coming soon!
 Links to the presentations from the 2018 IS Workshop will be made available at this website domain later today. Stay tuned!
 
 ### <i>News: 2018 September 13, 1:38am EST (by Cat McGhan)</i>
+#### AIAA Sharepoint site issues
 The AIAA Sharepoint site seems to have been having issues for a couple of weeks now. Not sure what's going on, but it's sped up our move to another webhost for public dissemination of ISTC-related information.
 
 If you want to see the old site as of January 2, 2018 (prior to recent updates), you can visit it via the Internet Archive's Wayback Machine at [this location](https://web.archive.org/web/20180102071918/https://info.aiaa.org/tac/isg/ISTC/default.aspx).

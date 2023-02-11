@@ -43,7 +43,7 @@ Stony Brook University<br>
 
 **Title:** Safe Autonomy through Surrogate Verification
 
-**Meeting link:** [[https://aiaa.zoom.us/j/86978612062?pwd=ZFJXTlVJaTE0K1Q0VWNzMVVjTWF6dz09](https://aiaa.zoom.us/j/85635098501?pwd=S1FZYVlkdFFnVVhaNzNpeW9VY2ZQZz09)<br>
+**Meeting link:** [https://aiaa.zoom.us/j/86978612062?pwd=ZFJXTlVJaTE0K1Q0VWNzMVVjTWF6dz09](https://aiaa.zoom.us/j/85635098501?pwd=S1FZYVlkdFFnVVhaNzNpeW9VY2ZQZz09)<br>
 Dial by your location<br>
 877 853 5257 US Toll-free<br>
 888 475 4499 US Toll-free<br>

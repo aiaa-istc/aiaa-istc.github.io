@@ -30,6 +30,30 @@ For more information, see: [https://aiaa-istc.github.io/2023_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2023 February 11, 2:54pm EST (by Cat McGhan)</i>
+ISTC Technical Seminar Series                                                                 
+
+Don't miss Dr. Stanley Bak's seminar this coming Wednesday at 3:00pm EST on Zoom!
+
+**Speaker:** Stanley Bak, Ph.D.<br>
+Assistant Professor, Department of Computer Science<br>
+Stony Brook University<br>
+
+**Date/time:** Wednesday, February 15th, 2023 -- 3:00pm-4:00pm Eastern time
+
+**Title:** Safe Autonomy through Surrogate Verification
+
+**Meeting link:** [[https://aiaa.zoom.us/j/86978612062?pwd=ZFJXTlVJaTE0K1Q0VWNzMVVjTWF6dz09](https://aiaa.zoom.us/j/85635098501?pwd=S1FZYVlkdFFnVVhaNzNpeW9VY2ZQZz09)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 856 3509 8501<br>
+Passcode: 553696
+
+**Abstract:** Using autonomy within safety-critical applications demands strong assurances the system will not misbehave. Rather than direct analysis and verification, which can be hard, we instead explore using surrogate modeling. With surrogate modeling, we can create models that closely approximate system behaviors while being more amenable to formal verification methods that can prove system safety. We explore this strategy in two contexts: one for closed-loop neural network control system verification and one for approximating nonlinear dynamical systems using Koopman Operator approximations.
+
+**Bio:** Stanley Bak received his PhD from the the Department of Computer Science at the University of Illinois at Urbana-Champaign (UIUC) in 2013 and then worked for several years at the Air Force Research Laboratory (AFRL) in the Verification and Validation (V&V) group of the Aerospace Systems Directorate. In 2020, he received the AFOSR Young Investigator Research Program (YIP) award. He is currently an assistant professor in the Department of Computer Science at Stony Brook University.
+
 ### <i>News: 2022 December 13, 9:30pm EST (by Cat McGhan)</i>
 ISTC Technical Seminar Series                                                                 
 

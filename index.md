@@ -54,6 +54,8 @@ Passcode: 013418
 
 **Bio:** Dr. Junfei Xie is an Associate Professor in the Department of Electrical and Computer Engineering at San Diego State University (SDSU). She received her B.S. degree in Electrical Engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2012. She received her M.S. degree in Electrical Engineering in 2013 and Ph.D. degree in Computer Science and Engineering in 2016 from University of North Texas (UNT), Denton, TX. Prior to joining SDSU, she was an Assistant Professor in the Department of Computing Sciences at Texas A&M University-Corpus Christi (TAMUCC). Dr. Xie’s research interests span several areas, including large-scale dynamic system design and control, unmanned aerial systems, networked airborne computing, mobile edge computing, air traffic flow management, uncertainty quantification, spatiotemporal data analysis, and complex information systems. She is the recipient of multiple prestigious awards such as the NSF CAREER Award, SDSU Presidential Research Faculty Fellow Award, Top 50 Women of Influence in Engineering by San Diego Business Journal, etc. She currently serves as the Associate Editor for IEEE Transactions on Systems, Man, and Cybernetics – Systems, Associate Editor for IEEE Transactions on Circuits and Systems II: Express Briefs, and Guest Editor for Unmanned Systems.
 
+**Flyer:** [https://drive.google.com/file/d/1rXQI5mf5B_iEYujxSooeAn-t7h6f6-tD/view?usp=share_link](https://drive.google.com/file/d/1rXQI5mf5B_iEYujxSooeAn-t7h6f6-tD/view?usp=share_link)
+
 ### <i>News: 2023 February 11, 2:54pm EST (by Cat McGhan)</i>
 ISTC Technical Seminar Series                                                                 
 

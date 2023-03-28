@@ -30,6 +30,30 @@ For more information, see: [https://aiaa-istc.github.io/2023_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2023 March 28, 12:11pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series                                                                 
+
+Don't miss Dr. Junfei Xie's seminar this coming Wednesday at 5:00pm EDT on Zoom!
+
+**Speaker:** Junfei Xie, Ph.D.<br>
+Associate Professor, Department of Electrical and Computer Engineering<br>
+San Diego State University<br>
+
+**Date/time:** Wednesday, March 29th, 2023 -- 5:00pm-6:00pm Eastern time
+
+**Title:** Networked Airborne Computing: Empowering Reliable and Efficient Computing in the Skies
+
+**Meeting link:** [https://aiaa.zoom.us/j/85610194482?pwd=M1dwZGlCMWFIN0ROZXhWaVRCVDRBdz09](https://aiaa.zoom.us/j/85610194482?pwd=M1dwZGlCMWFIN0ROZXhWaVRCVDRBdz09)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 856 1019 4482<br>
+Passcode: 013418
+
+**Abstract:** Unmanned aerial vehicles (UAVs) have emerged as a crucial technology in various civilian and commercial applications. While most UAV applications involve a single UAV, many new applications are expected to demand cooperative computing capabilities among multiple UAVs. This trend presents opportunities for researchers to address fundamental challenges across a range of disciplines, from aerospace to control, communication, networking, and computing. With multiple UAVs sharing computing resources, the networked multi-UAV system can also provide on-demand computing services to ground users, essentially functioning as a flying cloud. However, enabling reliable and efficient networked airborne computing requires overcoming many formidable challenges such as 3-dimensional node mobility, highly uncertain operating environment, and strict safety requirements. In this talk, this new and cross-disciplinary area will be explored, and recent research results we have developed to enable networked airborne computing will be presented.
+
+**Bio:** Dr. Junfei Xie is an Associate Professor in the Department of Electrical and Computer Engineering at San Diego State University (SDSU). She received her B.S. degree in Electrical Engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2012. She received her M.S. degree in Electrical Engineering in 2013 and Ph.D. degree in Computer Science and Engineering in 2016 from University of North Texas (UNT), Denton, TX. Prior to joining SDSU, she was an Assistant Professor in the Department of Computing Sciences at Texas A&M University-Corpus Christi (TAMUCC). Dr. Xie’s research interests span several areas, including large-scale dynamic system design and control, unmanned aerial systems, networked airborne computing, mobile edge computing, air traffic flow management, uncertainty quantification, spatiotemporal data analysis, and complex information systems. She is the recipient of multiple prestigious awards such as the NSF CAREER Award, SDSU Presidential Research Faculty Fellow Award, Top 50 Women of Influence in Engineering by San Diego Business Journal, etc. She currently serves as the Associate Editor for IEEE Transactions on Systems, Man, and Cybernetics – Systems, Associate Editor for IEEE Transactions on Circuits and Systems II: Express Briefs, and Guest Editor for Unmanned Systems.
+
 ### <i>News: 2023 February 11, 2:54pm EST (by Cat McGhan)</i>
 ISTC Technical Seminar Series                                                                 
 

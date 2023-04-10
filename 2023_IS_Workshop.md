@@ -8,6 +8,8 @@ layout: default2023ws
 
 The 8th annual Intelligent Systems Workshop will take place on July 24-25, 2023 at University of Colorado Boulder in Boulder, CO.
 
+**2023-04-10:** <a href="{{ '/IS_Workshop_2023/venue.html' | absolute_url }}">Venue information</a> and <a href="{{ '/IS_Workshop_2023/accommodation.html' | absolute_url }}">Hotel and Travel Accommodations information</a> have now been posted!
+
 More information is coming soon!
 <!--Join us for two days of technical sessions covering a wide range of topics in autonomy and human-machine teaming. (Please note that this workshop will be an in-person only event.)-->
 

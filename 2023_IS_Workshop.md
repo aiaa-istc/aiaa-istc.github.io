@@ -8,7 +8,7 @@ layout: default2023ws
 
 The 8th annual Intelligent Systems Workshop will take place on July 24-25, 2023 at University of Colorado Boulder in Boulder, CO.
 
-More inforation is coming soon!
+More information is coming soon!
 <!--Join us for two days of technical sessions covering a wide range of topics in autonomy and human-machine teaming. (Please note that this workshop will be an in-person only event.)-->
 
 <!--((from 2022IS:)) Confirmed keynote speakers include Rob Ambrose (retired from 20 years of work at NASA JSC on autonomy/robotics, now Director for Space and Robotics Initiatives at TAMU/TEES) and Marc Steinberg (ONR Autonomy PM).-->

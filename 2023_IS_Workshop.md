@@ -8,28 +8,29 @@ layout: default2023ws
 
 The 8th annual Intelligent Systems Workshop will take place on July 24-25, 2023 at University of Colorado Boulder in Boulder, CO.
 
-**2023-04-10:** <a href="{{ '/IS_Workshop_2023/venue.html' | absolute_url }}">Venue information</a> and <a href="{{ '/IS_Workshop_2023/accommodation.html' | absolute_url }}">Hotel and Travel Accommodations information</a> have now been posted!
+**This year's workshop theme: *New Frontiers in Autonomy***
 
-More information is coming soon!
-<!--Join us for two days of technical sessions covering a wide range of topics in autonomy and human-machine teaming. (Please note that this workshop will be an in-person only event.)-->
+Join us for two days of technical sessions covering a wide range of topics. Engage with top experts in the field through interactive topic panels, participate in exciting breakout sessions, hear from some of the nation’s brightest students in the student poster and lightning talk competitions, and tour unique Aerospace labs at CU Boulder and wander gorgeous trails in the foothills of the Rocky Mountains!
 
-<!--((from 2022IS:)) Confirmed keynote speakers include Rob Ambrose (retired from 20 years of work at NASA JSC on autonomy/robotics, now Director for Space and Robotics Initiatives at TAMU/TEES) and Marc Steinberg (ONR Autonomy PM).-->
+(Please note that this workshop will be an in-person only event.)
+
+Confirmed keynote speakers include Prof. Hanspeter Schaub (AIAA/AAS Fellow, University of Colorado) and Dr. Irene Gregory (Sr. Research Engineer, NASA Langley Research Center).
+
+Program: a draft agenda is now available <a href="{{ '/IS_Workshop_2023/program.html' | absolute_url }}">here</a>!
 
 Abstract submission is coming soon! <!--<i><b>Abstract submission is open now through ?? ??, 2023 for the student poster and lightning talk competitions at the IS workshop!</b> See the [student competitions](/IS_Workshop_2023/student_competitions.html) page for more details.</i>-->
 
 Registration is coming soon! <!--<i><b>Registration: is open! ($?? for regular attendees and $?? for students) Register <a href="">here</a>!</i>-->
 
-Program: is coming soon! <!--is now available <a href="">here</a>!-->
-<!--
 Site structure:  
 -- <a href="{{ '/IS_Workshop_2023/program.html' | absolute_url }}">Program</a><br>
 -- <a href="{{ '/IS_Workshop_2023/venue.html' | absolute_url }}">Venue</a><br>
 -- <a href="{{ '/IS_Workshop_2023/accommodation.html' | absolute_url }}">Accommodation</a><br>
--- <a href="{{ '/IS_Workshop_2023/tours.html' | absolute_url }}">Tours</a><br>
--- <a href="{{ '/IS_Workshop_2023/student_competitions.html' | absolute_url }}">Student competitions</a><br>
--- <a href="{{ '/IS_Workshop_2023/open_mic_session.html' | absolute_url }}">Open mic session</a><br>
+-- <a href="{{ '/IS_Workshop_2023/tours.html' | absolute_url }}">Tours</a> (info coming soon!)<br>
+-- <a href="{{ '/IS_Workshop_2023/student_competitions.html' | absolute_url }}">Student competitions</a> (info coming soon!)<br>
+-- <a href="{{ '/IS_Workshop_2023/open_mic_session.html' | absolute_url }}">Open mic session</a> (info coming soon!)<br>
 -- <a href="{{ '/IS_Workshop_2023/about.html' | absolute_url }}">About</a><br>
--->
+
 * * *
 * * *
 

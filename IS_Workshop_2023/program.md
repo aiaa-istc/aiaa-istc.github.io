@@ -43,7 +43,7 @@ More info is coming soon!
 **Monday, 24 July 2023:**
 
 | ***Start-End*** | ***Event*** |
-| --------------: | :---------- |
+| :-------------- | :---------- |
 | 8:00a-8:45a | Registration and continental breakfast |
 | 8:45a-9:00a | Welcome |
 | 9:00a-10:00a | *Keynote:*<br>HP Schaub<br>AIAA/AAS Fellow and Department Chair<br>Aerospace Engineering<br>University of Colorado at Boulder |
@@ -62,10 +62,11 @@ More info is coming soon!
 | 5:00p-6:00p | Break |
 | 6:00p-8:00p | TC Meeting |
 
+<br>
 **Tuesday, 25 July 2023:**
 
 | ***Start-End*** | ***Event*** |
-| --------------: | :---------- |
+| :-------------- | :---------- |
 | 8:00a-8:30a | Registration and continental breakfast |
 | 8:30a-9:30a | *Keynote:*<br>Irene Gregory<br>NASA Langley |
 | 9:30a-9:50a | Coffee break |

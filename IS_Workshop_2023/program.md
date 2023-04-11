@@ -46,14 +46,14 @@ More info is coming soon!
 | --------------: | :---------- |
 | 8:00a-8:45a | Registration and continental breakfast |
 | 8:45a-9:00a | Welcome |
-| 9:00a-10:00a | Keynote: HP Schaub, AIAA/AAS Fellow and Department Chair, Aerospace Engineering, University of Colorado at Boulder |
+| 9:00a-10:00a | *Keynote:*<br>HP Schaub<br>AIAA/AAS Fellow and Department Chair<br>Aerospace Engineering<br>University of Colorado at Boulder |
 | 10:00a-10:15a | Group Photo |
 | 10:15a-10:35a | Coffee Break |
 | . | **Technical session 1: Space Autonomy** |
-| 10:35a-11:15a | Plenary speaker: Sean Phillips, Air Force Research Laboratory, Space Force Autonomy |
-| 11:15a-11:30a | Panel speaker 1: Michelle Simon, Spacecraft Human-Autonomy Interaction |
-| 11:30a-11:45a | Panel speaker 2: Zachary Manchester, Carnegie Mellon University Robotics Institute |
-| 11:45a-12:00p | Panel speaker 3: TBA |
+| 10:35a-11:15a | *Plenary speaker:*<br>Sean Phillips<br>Air Force Research Laboratory<br>Space Force Autonomy |
+| 11:15a-11:30a | *Panel speaker 1:*<br>Michelle Simon<br>Spacecraft Human-Autonomy Interaction |
+| 11:30a-11:45a | *Panel speaker 2:*<br>Zachary Manchester<br>Carnegie Mellon University Robotics Institute |
+| 11:45a-12:00p | *Panel speaker 3:*<br>TBA |
 | 12:00p-12:25p | Panel discussion |
 | 12:25p-1:40p | Lunch + Student lightning talk competition |
 | 1:40p-3:00p | CU Aerospace Building Tour |
@@ -67,13 +67,13 @@ More info is coming soon!
 | ***Start-End*** | ***Event*** |
 | --------------: | :---------- |
 | 8:00a-8:30a | Registration and continental breakfast |
-| 8:30a-9:30a | Keynote: Irene Gregory, NASA Langley |
+| 8:30a-9:30a | *Keynote:*<br>Irene Gregory<br>NASA Langley |
 | 9:30a-9:50a | Coffee break |
 | . | **Technical session 2** |
-| 9:50a-10:30a | Plenary speaker: TBA |
-| 10:30a-10:45a | Panel speaker 1: Krishna Kalyanam, NASA Ames, Scalable Advanded Air Mobility |
-| 10:45a-11:00a | Panel speaker 2: Brittany Duncan, University of Nebraska, Lincoln, UAS and Robotics Human-Autonomy Interaction |
-| 11:00a-11:15a | Panel speaker 3: TBA |
+| 9:50a-10:30a | *Plenary speaker:<br>TBA |
+| 10:30a-10:45a | *Panel speaker 1:*<br>Krishna Kalyanam<br>NASA Ames<br>Scalable Advanded Air Mobility |
+| 10:45a-11:00a | *Panel speaker 2:*<br>Brittany Duncan<br>University of Nebraska, Lincoln<br>UAS and Robotics Human-Autonomy Interaction |
+| 11:00a-11:15a | *Panel speaker 3:*<br>TBA |
 | 11:15a-11:40a | Panel discussion |
 | 11:40a-1:00p | Lunch + Open Mic Session |
 | 1:00p-3:00p | Networking Event |

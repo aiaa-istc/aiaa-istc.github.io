@@ -43,13 +43,13 @@ More info is coming soon!
 **Monday, 24 July 2023:**
 
 | ***Start-End*** | ***Event*** |
-| ---------: | :----- |
+| --------------: | :---------- |
 | 8:00a-8:45a | Registration and continental breakfast |
 | 8:45a-9:00a | Welcome |
 | 9:00a-10:00a | Keynote: HP Schaub, AIAA/AAS Fellow and Department Chair, Aerospace Engineering, University of Colorado at Boulder |
 | 10:00a-10:15a | Group Photo |
 | 10:15a-10:35a | Coffee Break |
-| -- | **Technical session 1: Space Autonomy** |
+| . | **Technical session 1: Space Autonomy** |
 | 10:35a-11:15a | Plenary speaker: Sean Phillips, Air Force Research Laboratory, Space Force Autonomy |
 | 11:15a-11:30a | Panel speaker 1: Michelle Simon, Spacecraft Human-Autonomy Interaction |
 | 11:30a-11:45a | Panel speaker 2: Zachary Manchester, Carnegie Mellon University Robotics Institute |
@@ -65,11 +65,11 @@ More info is coming soon!
 **Tuesday, 25 July 2023:**
 
 | ***Start-End*** | ***Event*** |
-| ---------: | :----- |
+| --------------: | :---------- |
 | 8:00a-8:30a | Registration and continental breakfast |
 | 8:30a-9:30a | Keynote: Irene Gregory, NASA Langley |
 | 9:30a-9:50a | Coffee break |
-| -- | **Technical session 2** |
+| . | **Technical session 2** |
 | 9:50a-10:30a | Plenary speaker: TBA |
 | 10:30a-10:45a | Panel speaker 1: Krishna Kalyanam, NASA Ames, Scalable Advanded Air Mobility |
 | 10:45a-11:00a | Panel speaker 2: Brittany Duncan, University of Nebraska, Lincoln, UAS and Robotics Human-Autonomy Interaction |

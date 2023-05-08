@@ -13,7 +13,11 @@ University of Colorado Boulder, Boulder, CO
 
 The 8th annual Intelligent Systems Workshop will take place on July 24-25, 2023 at University of Colorado Boulder in Boulder, CO.
 
-Registration is coming soon! <!--Registration is open! ($150 for regular attendees and $25 for students) Register <a href="https://na.eventscloud.com/ereg/index.php?eventid=695111&">here</a>! -->
+<!-- Registration is coming soon! --> <!--Registration is open! ($150 for regular attendees and $25 for students) Register <a href="https://na.eventscloud.com/ereg/index.php?eventid=695111&">here</a>! -->
+
+Pre-registration (optional, until May 15) - reserve a ticket now, pay later!: [link to form](https://forms.gle/NKstaexoEqPjMqki7)
+
+Registration link (with payment): coming mid-May! ($150 for regular attendees and $25 for students)
 
 More information is available <a href="/2023_IS_Workshop.html">here</a>.
 

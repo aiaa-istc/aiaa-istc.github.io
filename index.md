@@ -46,12 +46,12 @@ Georgia Institute of Technology<br>
 
 **Title:** Deep Learning Strategy for Aerodynamics
 
-**Meeting link:** [https://aiaa.zoom.us/j/85610194482?pwd=M1dwZGlCMWFIN0ROZXhWaVRCVDRBdz09](https://aiaa.zoom.us/j/85610194482?pwd=M1dwZGlCMWFIN0ROZXhWaVRCVDRBdz09)<br>
+**Meeting link (UPDATED):** [https://aiaa.zoom.us/j/86471497396?pwd=R2tSOUhjdk52V2hHSU9DNzc0MDlVdz09](https://aiaa.zoom.us/j/86471497396?pwd=R2tSOUhjdk52V2hHSU9DNzc0MDlVdz09)<br>
 Dial by your location<br>
 877 853 5257 US Toll-free<br>
 888 475 4499 US Toll-free<br>
-Meeting ID: 856 1019 4482<br>
-Passcode: 013418
+Meeting ID: 864 7149 7396<br>
+Passcode: 763428
 
 **Abstract:** The recent progress in deep learning and generative AI provides active challenges as well as remarkable opportunities in aerodynamics research where the highly non-linear flow phenomena (e.g., shock waves and flow separations) are not uncommon and the available data are not always abundant considering the high dimensionality of flow boundary conditions. In this talk, first, the applications of deep learning techniques are briefly reviewed in the context of surrogate modeling and dimensionality reduction and, second, several research snapshots are discussed including a CFD (Computational Fluid Dynamics)-WTT (Wind Tunnel Test) data fusion using deep representation learning, a geometric deep learning for 3-D mesh, and an aerodynamic shape optimization using deep reinforcement learning.
 

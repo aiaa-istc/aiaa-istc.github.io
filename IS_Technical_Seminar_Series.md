@@ -8,6 +8,41 @@ The Intelligent Systems Technical Seminar Series has been opened up to the gener
 
 Keep an eye out on our LinkedIn / Facebook / AIAA Engage pages for announcements of the next seminars, or watch our public Google Calendar!
 
+### Srikanth Saripalli -- Wednesday, June 14, 2023
+**Speaker:** Professor Srikanth Saripalli<br>
+Mechanical Engineering department<br>
+Texas A&M University
+
+**Date/time:** Wednesday, June 14th, 2023 -- 5:00pm-6:00pm Eastern time
+
+**Title:** High Speed Off-Road Autonomy: Perception and Control in the Wild
+
+**Meeting recording:** To-be-posted
+
+**Abstract:** The talk focuses on perception and planning algorithms for autonomous vehicles in off-road situations. A particular emphasis is on why off-road vehicles are different than on-road vehicles and how can we solve autonomy in the off-road domain. A major portion of the talk will be on applications of the above algorithms to real vehicles and the lessons that we have learned i.e. what worked and what didn't and how we should go about building such systems. I will also briefly touch on our work on Autonomous Landing and Obstacle Avoidance for UAVs.
+
+**Bio:** Srikanth Saripalli is a Professor in Mechanical Engineering department and the Director for Center for Autonomous Vehicles and Sensor Systems (CANVASS) at Texas A&M University. He holds the J. Mike Walker ’66 Professorship. His research focuses on robotic systems: particularly in air and ground vehicles and necessary foundations in perception, planning, control and system integration for this domain. He is currently leading several efforts in off-road autonomous ground vehicles. He has also led several long-term (> 6 month) on-road deployments of autonomous 18 wheeler trucks and slow-moving shuttles in Texas. He is currently interested in developing and deploying Autonomous Shuttles on campus and in cities. He is also interested in developing such autonomous shuttles for mobility challenged and para transit applications.
+
+**Flyer:** [https://drive.google.com/file/d/1xVeI9XYPGJJbaFWfz6zfmXD9gm3c6mpj/view?usp=sharing](https://drive.google.com/file/d/1xVeI9XYPGJJbaFWfz6zfmXD9gm3c6mpj/view?usp=sharing)
+
+
+### Woong-Je Sung -- Wednesday, May 24 2023
+**Speaker:** Woong-Je Sung, Ph.D.<br>
+Research Engineer, School of Aerospace Engineering<br>
+Georgia Institute of Technology<br>
+
+**Date/time:** Wednesday, May 24th, 2023 -- 3:00pm-4:00pm Eastern time
+
+**Title:** Deep Learning Strategy for Aerodynamics
+
+**Meeting recording:** To-be-posted
+
+**Abstract:** The recent progress in deep learning and generative AI provides active challenges as well as remarkable opportunities in aerodynamics research where the highly non-linear flow phenomena (e.g., shock waves and flow separations) are not uncommon and the available data are not always abundant considering the high dimensionality of flow boundary conditions. In this talk, first, the applications of deep learning techniques are briefly reviewed in the context of surrogate modeling and dimensionality reduction and, second, several research snapshots are discussed including a CFD (Computational Fluid Dynamics)-WTT (Wind Tunnel Test) data fusion using deep representation learning, a geometric deep learning for 3-D mesh, and an aerodynamic shape optimization using deep reinforcement learning.
+
+**Bio:** Dr. Woong-Je Sung Studied CFD, FEM, and MDO in Seoul National Univ (BS/MS in Aerospace Engineering). He worked on experimental and computational aerodynamics in Agency for Defense Development (1999-2004, Korea). He studied meta-modeling with neural network in Georgia Tech (PhD in Aerospace Engineering, 2012). Dr. Sung has worked on various projects on M&S and ML/AI as Post-Doc and Research Engineer in Georgia Tech (2012-Present).
+
+<!--**Flyer:** []()-->
+
 ### Junfei Xie -- Wednesday, March 29, 2023
 **Speaker:** Junfei Xie, Ph.D.<br>
 Associate Professor, Department of Electrical and Computer Engineering<br>

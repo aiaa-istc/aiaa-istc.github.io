@@ -33,6 +33,32 @@ For more information, see: [https://aiaa-istc.github.io/2023_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2023 June 12, 2:30pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Prof. Srikanth Saripalli's seminar this Wednesday at 5:00pm EDT on Zoom!
+
+**Speaker:** Professor Srikanth Saripalli<br>
+Mechanical Engineering department<br>
+Texas A&M University
+
+**Date/time:** Wednesday, June 14th, 2023 -- 5:00pm-6:00pm Eastern time
+
+**Title:** High Speed Off-Road Autonomy: Perception and Control in the Wild
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** The talk focuses on perception and planning algorithms for autonomous vehicles in off-road situations. A particular emphasis is on why off-road vehicles are different than on-road vehicles and how can we solve autonomy in the off-road domain. A major portion of the talk will be on applications of the above algorithms to real vehicles and the lessons that we have learned i.e. what worked and what didn't and how we should go about building such systems. I will also briefly touch on our work on Autonomous Landing and Obstacle Avoidance for UAVs.
+
+**Bio:** Srikanth Saripalli is a Professor in Mechanical Engineering department and the Director for Center for Autonomous Vehicles and Sensor Systems (CANVASS) at Texas A&M University. He holds the J. Mike Walker ’66 Professorship. His research focuses on robotic systems: particularly in air and ground vehicles and necessary foundations in perception, planning, control and system integration for this domain. He is currently leading several efforts in off-road autonomous ground vehicles. He has also led several long-term (> 6 month) on-road deployments of autonomous 18 wheeler trucks and slow-moving shuttles in Texas. He is currently interested in developing and deploying Autonomous Shuttles on campus and in cities. He is also interested in developing such autonomous shuttles for mobility challenged and para transit applications.
+
+**Flyer:** [https://drive.google.com/file/d/1xVeI9XYPGJJbaFWfz6zfmXD9gm3c6mpj/view?usp=sharing](https://drive.google.com/file/d/1xVeI9XYPGJJbaFWfz6zfmXD9gm3c6mpj/view?usp=sharing)
+
 ### <i>News: 2023 May 24, 1:45pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series                                                                 
 

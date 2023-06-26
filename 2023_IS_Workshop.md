@@ -18,7 +18,8 @@ Confirmed keynote speakers include Prof. Hanspeter Schaub (AIAA/AAS Fellow, Univ
 
 Program: a draft agenda is now available <a href="{{ '/IS_Workshop_2023/program.html' | absolute_url }}">here</a>!
 
-Abstract submission is coming soon! <!--<i><b>Abstract submission is open now through ?? ??, 2023 for the student poster and lightning talk competitions at the IS workshop!</b> See the [student competitions](/IS_Workshop_2023/student_competitions.html) page for more details.</i>-->
+<!-- Abstract submission is coming soon! -->
+<i><b>Abstract submission is open now through July 10, 2023 (8PM EST) for the student poster and lightning talk competitions at the IS workshop!</b> See the [student competitions](/IS_Workshop_2023/student_competitions.html) page for more details.</i>
 
 <!-- Registration is coming soon! -->
 <i><b>Registration: is open! ($150 for regular attendees and $25 for students) Register <a href="https://www.cvent.com/d/90qscr">here</a>!</i>
@@ -31,7 +32,7 @@ Site structure:
 -- <a href="{{ '/IS_Workshop_2023/venue.html' | absolute_url }}">Venue</a><br>
 -- <a href="{{ '/IS_Workshop_2023/accommodation.html' | absolute_url }}">Accommodation</a><br>
 -- <a href="{{ '/IS_Workshop_2023/tours.html' | absolute_url }}">Tours</a> (info coming soon!)<br>
--- <a href="{{ '/IS_Workshop_2023/student_competitions.html' | absolute_url }}">Student competitions</a> (info coming soon!)<br>
+-- <a href="{{ '/IS_Workshop_2023/student_competitions.html' | absolute_url }}">Student competitions</a><br>
 -- <a href="{{ '/IS_Workshop_2023/open_mic_session.html' | absolute_url }}">Open mic session</a> (info coming soon!)<br>
 -- <a href="{{ '/IS_Workshop_2023/about.html' | absolute_url }}">About</a><br>
 

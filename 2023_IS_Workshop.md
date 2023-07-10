@@ -23,9 +23,7 @@ Program: a draft agenda is now available <a href="{{ '/IS_Workshop_2023/program.
 
 <!-- Registration is coming soon! -->
 <i><b>Registration: is open! ($150 for regular attendees and $25 for students) Register <a href="https://www.cvent.com/d/90qscr">here</a>!</i>
-<!-- Pre-registration (optional, until May 15) - reserve a ticket now, pay later!: [link to form](https://forms.gle/NKstaexoEqPjMqki7)
-
-Registration link (with payment): coming mid-May! ($150 for regular attendees and $25 for students) -->
+<!-- Pre-registration (optional, until May 15) - reserve a ticket now, pay later!: [link to form](https://forms.gle/NKstaexoEqPjMqki7) -->
 
 Site structure:  
 -- <a href="{{ '/IS_Workshop_2023/program.html' | absolute_url }}">Program</a><br>

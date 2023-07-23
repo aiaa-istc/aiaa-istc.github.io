@@ -35,8 +35,6 @@ Downtown Boulder hotels (fancier but pricier, next to downtown Pearl Street Mall
 * Boulderado: [https://www.boulderado.com/](https://www.boulderado.com/)
 * St. Julien: [https://stjulien.com/](https://stjulien.com/)
 
-**Student accommodation options:** coming soon!
-
 * * *
 * * *
 

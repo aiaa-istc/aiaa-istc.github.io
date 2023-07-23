@@ -36,9 +36,9 @@ The program will also feature two [tours](/IS_Workshop_2022/tours.html), an [ope
 Detailed Program: Coming soon!
 (end old text) -->
 
-More info is coming soon!
+<!-- More info is coming soon! -->
 
-### Draft agenda (last updated 2023-04-11): ###
+### Agenda (last updated 2023-07-23): ###
 
 **Monday, 24 July 2023:**
 

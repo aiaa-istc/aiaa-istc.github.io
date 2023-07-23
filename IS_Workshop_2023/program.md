@@ -42,47 +42,47 @@ More info is coming soon!
 
 **Monday, 24 July 2023:**
 
-| ***Start-End*** | ***Event*** |
-| :-------------- | :---------- |
-| 8:00a-8:45a | Registration and continental breakfast |
-| 8:45a-9:00a | Welcome |
-| 9:00a-10:00a | *Keynote:*<br>HP Schaub<br>AIAA/AAS Fellow and Department Chair<br>Aerospace Engineering<br>University of Colorado at Boulder |
-| 10:00a-10:15a | Group Photo |
-| 10:15a-10:35a | Coffee Break |
-| . | **Technical session 1: Space Autonomy** |
-| 10:35a-11:15a | *Plenary speaker:*<br>Sean Phillips<br>Air Force Research Laboratory<br>Space Force Autonomy |
-| 11:15a-11:30a | *Panel speaker 1:*<br>Michelle Simon<br>Spacecraft Human-Autonomy Interaction |
-| 11:30a-11:45a | *Panel speaker 2:*<br>TBD<br> |
-| 11:45a-12:00p | *Panel speaker 3:*<br>Lisa May<br>Lockheed Martin |
-| 12:00p-12:25p | Panel discussion |
-| 12:25p-1:40p | Lunch + Student lightning talk competition |
-| 1:40p-3:00p | CU Aerospace Building Tour |
-| 3:00p-3:20p | Coffee break |
-| 3:20p-5:00p | Student Poster Competition |
-| 5:00p-6:00p | Break |
-| 6:00p-8:00p | TC Meeting |
+| ***Start-End*** | ***Event*** | ***Location*** |
+| :-------------- | :---------- | :------------- |
+| 8:00a-8:45a | Registration and continental breakfast | Aero Lobby |
+| 8:45a-9:00a | Welcome | AERO 120 |
+| 9:00a-10:00a | *Keynote:*<br>HP Schaub<br>AIAA/AAS Fellow and Department Chair<br>Aerospace Engineering<br>University of Colorado at Boulder | AERO 120 |
+| 10:00a-10:15a | Group Photo | Aero Patio, weatehr permitting |
+| 10:15a-10:35a | Coffee Break | Aero Cafe / Lobby |
+| . | **Technical session 1: Space Autonomy** | AERO 120 |
+| 10:35a-11:15a | *Plenary speaker:*<br>Sean Phillips<br>Air Force Research Laboratory<br>Next-Generation Autonomous Satellite Systems | " |
+| 11:15a-11:30a | *Panel speaker 1:*<br>Michelle Simon<br>Spacecraft Human-Autonomy Interaction | " |
+| 11:30a-11:45a | *Panel speaker 2:*<br>Prof. Christoffer Heckman<br>CU Computer Science Dept. | " |
+| 11:45a-12:00p | *Panel speaker 3:*<br>Prof. Allison Anderson<br>CU Boulder AES Dept. | " |
+| 12:00p-12:25p | Panel discussion | " |
+| 12:25p-1:40p | Lunch + Student lightning talk competition | AERO Cafe / Lobby + AERO 120 |
+| 1:40p-3:00p | CU Aerospace Building Tour | Groups depart from AERO Lobby |
+| 3:00p-3:20p | Coffee break | Aero Lobby / Cafe |
+| 3:20p-5:00p | Student Poster Competition | Aero Lobby / Cafe |
+| 5:00p-6:00p | Break | --- |
+| 6:00p-8:00p | TC Meeting | AERO 111? (TBC) |
 
 <br>
 **Tuesday, 25 July 2023:**
 
-| ***Start-End*** | ***Event*** |
-| :-------------- | :---------- |
-| 8:00a-8:30a | Registration and continental breakfast |
-| 8:30a-9:30a | *Keynote:*<br>Irene Gregory<br>NASA Langley |
-| 9:30a-9:50a | Coffee break |
-| . | **Technical session 2** |
-| 9:50a-10:30a | *Plenary speaker:<br>Dan Szafir<br>UNC |
-| 10:30a-10:45a | *Panel speaker 1:*<br>Krishna Kalyanam<br>NASA Ames<br>Scalable Advanded Air Mobility |
-| 10:45a-11:00a | *Panel speaker 2:*<br>Brittany Duncan<br>University of Nebraska, Lincoln<br>UAS and Robotics Human-Autonomy Interaction |
-| 11:00a-11:15a | *Panel speaker 3:*<br>Martijn IJtsma<br>OSU |
-| 11:15a-11:40a | Panel discussion<br>Featured Panelists:<br>Amy Pritchett, PSU Professor and Aerospace Dept. Chair<br>Jack Elston, CEO Black Swift |
-| 11:40a-1:00p | Lunch + Open Mic Session |
-| 1:00p-3:00p | Networking Event |
-| 3:00p-3:20p | Coffee break |
-| 3:20p-4:20p | Breakout sessions |
-| 4:20p-4:30p | Concluding remarks |
-| 4:30p-6:00p | Break |
-| 6:00p-8:00p | Social |
+| ***Start-End*** | ***Event*** | ***Location*** |
+| :-------------- | :---------- | :------------- |
+| 8:00a-8:30a | Registration and continental breakfast | Aero Lobby |
+| 8:30a-9:30a | *Keynote:*<br>Irene Gregory<br>NASA Langley | AERO 120 |
+| 9:30a-9:50a | Coffee break | Aero Cafe / Lobby |
+| . | **Technical session 2** | AERO 120 |
+| 9:50a-10:30a | *Plenary speaker:*<br>Dan Szafir<br>UNC Chapel Hill | " |
+| 10:30a-10:45a | *Panel speaker 1:*<br>Krishna Kalyanam<br>NASA Ames<br>Scalable Advanded Air Mobility | " |
+| 10:45a-11:00a | *Panel speaker 2:*<br>Brittany Duncan<br>University of Nebraska, Lincoln<br>UAS and Robotics Human-Autonomy Interaction | " |
+| 11:00a-11:15a | *Panel speaker 3:*<br>Prof. Martijn IJtsma<br>Ohio State U | " |
+| 11:15a-11:40a | Panel discussion<br>Featured Panelists:<br>Amy Pritchett, PSU Professor and Aerospace Dept. Chair<br>Jack Elston, CEO Black Swift | " |
+| 11:40a-1:00p | Lunch + Open Mic Session | Aero Cafe / Lobby + AERO 120 |
+| 1:00p-3:00p | Networking Event;<br>Optional: Tour of CU Eng Ctr on Main Campus (via free Buff Bus) | --- |
+| 3:00p-3:20p | Coffee break | --- |
+| 3:20p-4:20p | Breakout sessions | AERO 111, AERO 232, AERO 120 |
+| 4:20p-4:30p | Concluding remarks | --- |
+| 4:30p-6:00p | Break | --- |
+| 6:00p-8:00p | Social | Avant F&B, 1401 Pearl St., Boulder, CO 80302 |
 
 * * *
 * * *

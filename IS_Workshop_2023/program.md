@@ -47,7 +47,7 @@ Detailed Program: Coming soon!
 | 8:00a-8:45a | Registration and continental breakfast | Aero Lobby |
 | 8:45a-9:00a | Welcome | AERO 120 |
 | 9:00a-10:00a | *Keynote:*<br>HP Schaub<br>AIAA/AAS Fellow and Department Chair<br>Aerospace Engineering<br>University of Colorado at Boulder | AERO 120 |
-| 10:00a-10:15a | Group Photo | Aero Patio, weatehr permitting |
+| 10:00a-10:15a | Group Photo | Aero Patio, weather permitting |
 | 10:15a-10:35a | Coffee Break | Aero Cafe / Lobby |
 | . | **Technical session 1: Space Autonomy** | AERO 120 |
 | 10:35a-11:15a | *Plenary speaker:*<br>Sean Phillips<br>Air Force Research Laboratory<br>Next-Generation Autonomous Satellite Systems | " |

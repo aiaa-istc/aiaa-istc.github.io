@@ -29,9 +29,9 @@ Site structure:
 -- <a href="{{ '/IS_Workshop_2023/program.html' | absolute_url }}">Program</a><br>
 -- <a href="{{ '/IS_Workshop_2023/venue.html' | absolute_url }}">Venue</a><br>
 -- <a href="{{ '/IS_Workshop_2023/accommodation.html' | absolute_url }}">Accommodation</a><br>
--- <a href="{{ '/IS_Workshop_2023/tours.html' | absolute_url }}">Tours</a> (info coming soon!)<br>
+-- <a href="{{ '/IS_Workshop_2023/tours.html' | absolute_url }}">Tours</a><br>
 -- <a href="{{ '/IS_Workshop_2023/student_competitions.html' | absolute_url }}">Student competitions</a><br>
--- <a href="{{ '/IS_Workshop_2023/open_mic_session.html' | absolute_url }}">Open mic session</a> (info coming soon!)<br>
+-- <a href="{{ '/IS_Workshop_2023/open_mic_session.html' | absolute_url }}">Open mic session</a><br>
 -- <a href="{{ '/IS_Workshop_2023/about.html' | absolute_url }}">About</a><br>
 
 * * *

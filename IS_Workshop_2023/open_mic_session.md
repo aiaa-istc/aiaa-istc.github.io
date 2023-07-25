@@ -8,7 +8,7 @@ layout: default2023ws
 
 ## Open mic session
 
-We will continue the tradition of the open-mic session at the IS workshop! About 5-10 speakers will have the chance to present for ~5-7 minutes over lunch on Tues July 25. This is a great opportunity to present your work or just give your opinion on a relevant topic. If you would like to present, please email your name and topic by July 17 to Nisar Ahmed with subject line "2023 IS Workshop Open Mic Topic" (nisar.ahmed@colorado.edu).
+We will continue the tradition of the open-mic session at the IS workshop! About 5-10 speakers will have the chance to present for ~5-7 minutes over lunch on Tues July 25. This is a great opportunity to present your work or just give your opinion on a relevant topic. If you would like to present, please email your name and topic <b>no later than July 24</b> to Dani Selva (dselva@tamu.edu) and Nisar Ahmed (nisar.ahmed@colorado.edu) with subject line "2023 IS Workshop Open Mic Topic"
 
 * * *
 * * *

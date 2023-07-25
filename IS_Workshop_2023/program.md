@@ -9,7 +9,7 @@ layout: default2023ws
 
 ## Program
 
-The draft agenda is below.
+The final agenda is below.
 
 <!-- [Intro paragraph introducing the workshop theme] -->
 

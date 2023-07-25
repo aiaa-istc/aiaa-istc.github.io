@@ -63,6 +63,7 @@ Detailed Program: Coming soon!
 | 6:00p-8:00p | TC Meeting | AERO 111? (TBC) |
 
 <br>
+
 **Tuesday, 25 July 2023:**
 
 | ***Start-End*** | ***Event*** | ***Location*** |

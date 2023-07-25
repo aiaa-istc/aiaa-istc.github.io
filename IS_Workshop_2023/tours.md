@@ -15,7 +15,7 @@ We will be touring the following 3 research labs in the Aerospace building on Da
 
 We will also tour other classroom, teaching labs, other research facilities and spaces in the Aerospace Engineering Sciences building (https://www.colorado.edu/aerospace/about-us/visit-us). 
 
-The tours will start at 1:40 pm in the Aerospace Building Lobby and will wrap up no later than 3 pm. We will have multiple tour groups of 20-25 people.  
+The tours will start at 1:40 pm July 25 (after lunch) in the Aerospace Building Lobby and will wrap up no later than 3 pm. We will have multiple tour groups of 20-25 people.
 
 * * *
 * * *

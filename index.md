@@ -33,6 +33,31 @@ For more information, see: [https://aiaa-istc.github.io/2023_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2023 Sept 19, 10:57pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Dr. Kerianne Hobbs's seminar tomorrow (this Wednesday) at 3:00pm EDT on Zoom!
+
+**Speaker:** Kerianne Hobbs, Ph.D.<br>
+Safe Autonomy and Space Lead<br>
+Autonomy Capability Team (ACT3)<br>
+Air Force Research Laboratory
+
+**Date/time:** Wednesday, Sept 20th, 2023 -- 3:00pm-4:00pm Eastern time
+
+**Title:** Safe Autonomy
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** How do you know an autonomous system will do what you want? How do you know an autonomous system won’t do what you don’t want? What if the autonomous system is based on Machine Learning? This talk introduces the machine learning autonomy projects at the AFRL ACT3 Research Team, and the research by the AFRL Safe Autonomy Research Team over the last four years to analyze and assure safety of learning-based autonomous systems.
+
+**Bio:** Dr. Kerianne Hobbs is the Safe Autonomy and Space Lead on the Autonomy Capability Team (ACT3) at the Air Force Research Laboratory. There she investigates rigorous specification, analysis, bounding, and intervention techniques to enable safe, trusted, ethical, and certifiable autonomous and learning controllers for aircraft and spacecraft applications. Her previous experience includes work in automatic collision avoidance and autonomy verification and validation research. Dr. Hobbs was selected for the 2020 AFCEA 40 Under 40 award and was a member of the team that won the 2018 Collier Trophy (Automatic Ground Collision Avoidance System Team), as well as numerous AFRL Awards. She serves on the AIAA Intelligent Systems Technical Committee, the NASA Formal Methods Program Committee, the IEEE Aerospace Conference Committee, and the IEEE Space Mission Challenges for Information Technology - IEEE Space Computing Conference Program Committee. Dr. Hobbs has a BS in Aerospace Engineering from Embry-Riddle Aeronautical University, an MS in Astronautical Engineering from the Air Force Institute of Technology, and a Ph.D. in Aerospace Engineering from the Georgia Institute of Technology.
+
 ### <i>News: 2023 June 12, 2:30pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series
 

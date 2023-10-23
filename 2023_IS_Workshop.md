@@ -19,10 +19,10 @@ Confirmed keynote speakers include Prof. Hanspeter Schaub (AIAA/AAS Fellow, Univ
 Program: the final agenda is now available <a href="{{ '/IS_Workshop_2023/program.html' | absolute_url }}">here</a>!
 
 <!-- Abstract submission is coming soon! -->
-<i><b>Abstract submission is open now through July 10, 2023 (8PM EST) for the student poster and lightning talk competitions at the IS workshop!</b> See the [student competitions](/IS_Workshop_2023/student_competitions.html) page for more details.</i>
+<i><b>Abstract submission is closed.</b></i> <!-- open now through July 10, 2023 (8PM EST) for the student poster and lightning talk competitions at the IS workshop!</b> See the [student competitions](/IS_Workshop_2023/student_competitions.html) page for more details.</i> -->
 
 <!-- Registration is coming soon! -->
-<i><b>Registration: is closed!</b> We hope you all enjoy attending!<i>
+<i><b>Registration: is closed!</b> We hope you all enjoyed attending!<i>
 <!-- <b>Registration: is open!</b> ($150 for regular attendees and $25 for students) Register <a href="https://www.cvent.com/d/90qscr">here</a>!</i> -->
 <!-- Pre-registration (optional, until May 15) - reserve a ticket now, pay later!: [link to form](https://forms.gle/NKstaexoEqPjMqki7) -->
 

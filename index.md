@@ -22,8 +22,8 @@ The 8th annual Intelligent Systems Workshop will take place on July 24-25, 2023 
 <!-- Pre-registration (optional, until May 15) - reserve a ticket now, pay later!: [link to form](https://forms.gle/NKstaexoEqPjMqki7)
 
 Registration link (with payment): coming mid-May! ($150 for regular attendees and $25 for students) -->
-<!-- <i><b>Registration is closed! We hope you enjoyed attending! :)</b></i> -->
-<i><b>Registration is now open <a href="https://www.cvent.com/d/90qscr">here</a>!</b> ($150 for regular attendees and $25 for students)</i> <!-- and the program is available <a href="">here</a>!</i> -->
+<!-- <i><b>Registration is now open <a href="https://www.cvent.com/d/90qscr">here</a>!</b> ($150 for regular attendees and $25 for students)</i> <!-- and the program is available <a href="">here</a>!</i> --> -->
+<i><b>Registration is closed! We hope you enjoyed attending! :)</b></i>
 
 For more information, see: [https://aiaa-istc.github.io/2023_IS_Workshop.html](https://aiaa-istc.github.io/2023_IS_Workshop.html)
 
@@ -32,6 +32,32 @@ For more information, see: [https://aiaa-istc.github.io/2023_IS_Workshop.html](h
 
 
 ## Announcements:
+
+### <i>News: 2023 Oct 23, 2:00pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Dr. Justin Bradley's seminar tomorrow (this Tuesday) at 3:00pm EDT on Zoom!
+
+**Speaker:** Dr. Justin Bradley<br>
+Richard L. and Carol S. McNeel Associate Professor<br>
+School of Computing<br>
+University of Nebraska-Lincoln
+
+**Date/time:** Tuesday, Oct 24th, 2023 -- 3:00pm-4:00pm Eastern time
+
+**Title:** Preparing for AIAA Associate Fellow Nomination and Selection
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** In this talk I will discuss how you can assess your preparation for nomination to AIAA Associate Fellow. The talk will focus on evaluating your career readiness, what is required for a nomination packet, who to ask for what, and how to helpfully provide information to your nominator and references. I will also present the timeline of the nomination and selection process, and what the ISTC can do to help you.
+
+**Bio:** Justin Bradley is a Richard L. and Carol S. McNeel Associate Professor in the School of Computing at the University of Nebraska-Lincoln. He holds a B.S. in computer engineering (2005) and M.S. in electrical engineering (2007) from Brigham Young University, and M.S. (2012) and Ph.D. (2014) degrees in aerospace engineering from the University of Michigan. He has worked with Unmanned Aircraft Systems (UAS) for over 17 years, starting at the Multi-AGent Intelligent Coordination and Control (MAGICC) lab at BYU, the A2Sys lab at the University of Michigan, and most recently as a co-director of the Nebraska Intelligent MoBile Unmanned System (NIMBUS) lab since 2015. He is a recipient of a 2021 NSF CAREER award, an AIAA Associate Fellow, and chair-elect of the AIAA ISTC. Justin's research lies at the intersection of computing, control, and aerospace disciplines.
+
 
 ### <i>News: 2023 Sept 19, 10:57pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series

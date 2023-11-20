@@ -33,6 +33,34 @@ For more information, see: [https://aiaa-istc.github.io/2023_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2023 Nov 20, 1:06pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Dr. John Valasek's seminar today at 4:00pm EDT on Zoom!
+
+**Speaker:** Dr. John Valasek<br>
+Texas A&M University<br>
+
+**Date/time:** Monday, Nov 20th, 2023 -- 4:00pm-4:50pm Eastern time
+
+**Title:** Preparing for AIAA Fellow Nomination and Selection
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** In this talk I will discuss how you can assess your preparation for nomination to AIAA Fellow. The talk will focus on evaluating your career readiness, what is required for a nomination packet, who to ask for what, and how to helpfully provide information to your nominator and references. I will also present the timeline of the nomination and selection process, and what the ISTC can do to help you.
+
+**Bio:** John Valasek is Director, Vehicle Systems & Control Laboratory (https://vscl.tamu.edu), Thaman Professor of Undergraduate Teaching Excellence, Professor of Aerospace Engineering, and member of the Honors Faculty at Texas A&M University (TAMU), which he joined in 1997.  He has been actively conducting autonomy and flight controls research of Unmanned Air Systems (UAS) in both Industry and Academia for 36 years.  He began his career as a Flight Control Engineer for the Northrop Corporation, Aircraft Division where he worked in the Flight Controls Research Group, and on the AGM-137 Tri-Services Standoff Attack Missile (TSSAM) program.   He is co-inventor on a patent for Autonomous Air Refueling (AAR) of UAS and a patent for the design of a UAS.   John is the TAMU Site Director for the NSF Center for Autonomous Air Mobility and Sensing (CAAMS), and the TAMU Site Director for the FAA Partnership to Enhance General Aviation Safety, Accessibility and Sustainability (PEGASAS).  He has conducted more than 600 fixed-wing and rotorcraft UAS test flights on 33 funded research programs over a 23 year period at TAMU.  
+
+John is co-author of the book Nonlinear Multiple Time Scale Systems in Standard and Non-Standard Forms: Analysis and Control, (SIAM, 2014), and editor of the books Morphing Aerospace Vehicles and Structures (Wiley, 2012), Advances in Intelligent and Autonomous Aerospace Systems (AIAA, 2012), and Advances in Computational Intelligence and Autonomy for Aerospace Systems (AIAA, 2018).  
+
+John is a Fellow of AIAA, member of the AIAA Autonomy Task Force, Chair of the AIAA Intelligent Systems Technical Committee, and Associate Editor of the Journal of Guidance, Control, and Dynamics.
+
+
 ### <i>News: 2023 Oct 23, 2:00pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series
 

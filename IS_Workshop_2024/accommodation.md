@@ -9,7 +9,9 @@ layout: default2024ws
 ## Travel
 
 Coming soon!
-<!--### Traveling to Boulder:
+
+<!--
+### Traveling to Boulder:
 **From ?? Airport (recommended):** about ??-?? min drive from ??:
 []() (use to check North/South Security status, among other things; TSA Pre is usually located at one end or the other to speed things up - check before you go!)
 * Uber/Lyft/Taxi: ~$??-?? from ?? to ??

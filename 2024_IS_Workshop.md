@@ -1,5 +1,5 @@
 ---
-layout: default2023ws
+layout: default2024ws
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>

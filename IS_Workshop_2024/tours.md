@@ -9,7 +9,8 @@ layout: default2024ws
 ## Tours
 
 Coming soon!
-<!--We will be touring the following 3 research labs in the ?? building on Day ?? (about ??-?? mins each):
+<!--
+We will be touring the following 3 research labs in the ?? building on Day ?? (about ??-?? mins each):
 * ?? Lab ([??](??)),
 * ?? Observatory ([??](??)),
 * ?? ([??](??)). 

@@ -58,7 +58,7 @@ Contact Info: <a href="mailto:">Cody Fleming</a> (Chair), <a href="mailto:rajnik
 ### Membership
 Objective:  To maintain an active, balanced membership and steward membership upgrades within the TC.
 
-Contact Info: <a href="mailto:">John Valasek</a> (Chair), <a href="mailto:david.casbeer@live.com">David Casbeer</a> (Co-Chair)
+Contact Info: <a href="mailto:valasek@tamu.edu">John Valasek</a> (Chair), <a href="mailto:david.casbeer@live.com">David Casbeer</a> (Co-Chair)
 
 ### Procedures
 Objective:  To maintain and disseminate information on how the ISTC functions to current and new members.

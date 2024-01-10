@@ -111,7 +111,7 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair), <a href="
 | Dogan, Kadriye Merve | Embry-Riddle Aeronautical University | Member | PDE&O, Publications |
 | Fleming, Cody | Iowa State University | Associate Fellow | Conference Planning, Workshop |
 | Goh, Edwin | Jet Propulsion Lab | Senior Member | New TC Member |
-| Hobbs, Kerianne | Air Force Research Laboratory | Associate Fellow | ISTC Secertary, Publications, Workshop |
+| Hobbs, Kerianne | Air Force Research Laboratory | Associate Fellow | ISTC Secretary, Publications, Workshop |
 | Kolcio, Ksenia | Okean Solutions | Senior Member | Publications, Workshop |
 | Kulkarni, Chetan | NASA Ames / SGT | Associate Fellow | PDE&O |
 | Lacher, Andrew | NASA Langley Research Center | Associate Fellow | PDE&O |

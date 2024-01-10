@@ -6,6 +6,15 @@ layout: default
 
 The Intelligent Systems Workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
 
+### 2024 Intelligent Systems Workshop -- University of Nebraska, Late spring - Early Summer
+
+<a href="/2024_IS_Workshop.html">AIAA Intelligent Systems Workshop, Late spring - Early summer, 2024</a><br>
+University of Nebraska
+
+The 9th annual Intelligent Systems Workshop will take place in late spring - early summer 2024 at the University of Nebraska.
+
+More information will be available soon <a href="/2024_IS_Workshop.html">here</a>.
+
 ### 2023 Intelligent Systems Workshop -- University of Colorado Boulder, July 24-25
 
 <a href="/2023_IS_Workshop.html">AIAA Intelligent Systems Workshop, July 24-25, 2023</a><br>

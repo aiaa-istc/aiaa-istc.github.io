@@ -15,17 +15,12 @@ layout: default
 * * *
 * * *
 
-## 2023 Intelligent Systems Workshop -- University of Colorado Boulder, July 24-25
-The 8th annual Intelligent Systems Workshop will take place on July 24-25, 2023 at University of Colorado Boulder in Boulder, CO. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems. <!--(Please note that this workshop will be an in-person only event.)-->
+## 2024 Intelligent Systems Workshop -- University of Nebraska, Late spring - Early Summer
+The 9th annual Intelligent Systems Workshop will take place late spring - early summer 2024 at the University of Nebraska. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems. <!--(Please note that this workshop will be an in-person only event.)-->
 
-<!-- Registration is coming soon! -->
-<!-- Pre-registration (optional, until May 15) - reserve a ticket now, pay later!: [link to form](https://forms.gle/NKstaexoEqPjMqki7)
+Registration is coming soon!
 
-Registration link (with payment): coming mid-May! ($150 for regular attendees and $25 for students) -->
-<!-- <i><b>Registration is now open <a href="https://www.cvent.com/d/90qscr">here</a>!</b> ($150 for regular attendees and $25 for students)</i> <!-- and the program is available <a href="">here</a>!</i> --> -->
-<i><b>Registration is closed! We hope you enjoyed attending! :)</b></i>
-
-For more information, see: [https://aiaa-istc.github.io/2023_IS_Workshop.html](https://aiaa-istc.github.io/2023_IS_Workshop.html)
+For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](https://aiaa-istc.github.io/2024_IS_Workshop.html)
 
 * * *
 * * *

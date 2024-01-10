@@ -8,6 +8,7 @@ layout: default2024ws
 
 ## Student competitions
 Abstract submission is coming soon!
+
 <!--
 Abstract submission is open now through ?? ??, 2024 for the student poster and lightning talk competitions at the IS workshop!
 

@@ -96,50 +96,60 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 |:-------------------------|:-------------------------|:------------------------|:-----------------------|
 | Adhikari, Sam | Sysoft Corporation | Associate Fellow | Procedures, Public Policy |
 | Ahmed, Nisar | University of Colorado Boulder | Senior Member | Awards, Conference Planning |
-| Allen, Danette | NASA Langley | Fellow | Conference, Publications |
+| Allen, Danette | NASA Langley | Associate Fellow | Conference, Publications |
 | Ayoubi, Mohammad | Santa Clara University | Senior Member | Awards, Publications |
-| Bird, John | University of Colorado Boulder | . | Conference Planning, Publications |
-| Bradley, Justin | University of Nebraska | Senior Member | Conference Planning, Publications |
-| Carlone, Luca | MIT | Senior Member | Awards, PDE&O, Publications |
-| Casbeer, David | Air Force Research Laboratory | Associate Fellow | Membership |
-| Chakrabarty, Anjan | NASA Ames / SGT | Member | Awards, Public Policy |
-| Choi, Han-Lim | Korea Advanced Institute of Science & Technology | Senior Member | Awards, Publications |
-| Clauss, Jon | Lockheed Martin | Member | Public Policy, Awards |
-| Clement, Danielle | Lockheed Martin | . | New TC Member |
+| Bird, John | University of Texas at El Paso | Member | Conference Planning, Publications |
+| Bradley, Justin | University of Nebraska | Associate Fellow | ISTC Chair-Elect, Conference Planning, Publications |
+| Carlone, Luca | MIT | Associate Fellow | Awards, PDE&O, Publications |
+| Casbeer, David | Air Force Research Laboratory | Associate Fellow | Conference, Membership, Workshop |
+| Chakrabarty, Anjan | Supernal | Member | Awards, Public Policy |
+| Choi, Han-Lim | Korea Advanced Institute of Science & Technology | Associate Fellow | Awards, Publications |
+| Clauss, Jon | Lockheed Martin | Senior Member | Public Policy, Awards |
+| Clement, Danielle | Lockheed Martin | Senior Member | New TC Member |
 | Cook, Steve | Northrop Grumman Aerospace Systems, Office of Independent Airworthiness | Associate Fellow | Conference Planning, Public Policy |
 | De Visser, Coen | Delft University of Technology | Member | Awards, Publications |
 | Dogan, Kadriye Merve | Embry-Riddle Aeronautical University | Member | PDE&O, Publications |
-| Fleming, Cody | Iowa State University | Senior Member | Conference Planning, Workshop |
-| Goecks, Vinicius | Texas A&M University | Associate Member | Awards, Communications |
-| Harris, Joshua | Texas A&M University | Associate Member | Conference Planning, Communications |
-| Hobbs, Kerianne | Air Force Research Laboratory | Senior Member | Publications, Workshop |
-| Kolcio, Ksenia | Okean Solutions | . | Publications |
-| Kulkarni, Chetan | NASA Ames / SGT | Senior Member | PDE&O |
-| Lacher, Andrew | MITRE | Associate Fellow | Public Poliicy |
+| Fleming, Cody | Iowa State University | Associate Fellow | Conference Planning, Workshop |
+| Goh, Edwin | Jet Propulsion Lab | Senior Member | New TC Member |
+| Hobbs, Kerianne | Air Force Research Laboratory | Associate Fellow | ISTC Secertary, Publications, Workshop |
+| Kolcio, Ksenia | Okean Solutions | Senior Member | Publications, Workshop |
+| Kulkarni, Chetan | NASA Ames / SGT | Associate Fellow | PDE&O |
+| Lacher, Andrew | NASA Langley Research Center | Associate Fellow | PDE&O |
 | Lampton, Amanda | Systems Technology, Inc | Associate Fellow | Conference Planning, Workshop |
-| Lehman, Hannah | Texas A&M University | Student Member | New TC Member |
+| Lehman, Hannah | Texas A&M University | Student Member | PDE&O |
 | Lombaerts, Thomas | NASA Ames / SGT | Associate Fellow | Conference Planning, Procedures |
-| McGhan, Catharine | University of Cincinnati | Member | PDE&O, Communications |
+| McGhan, Catharine | University of Cincinnati | Senior Member | Communications, PDE&O |
 | McLain, Timothy | Brigham Young University | Associate Fellow | Awards, Workshop |
-| Moncayo, Hever | Embry-Riddle Aeronautical University | Senior Member | Conference Planning, Workshop |
-| Neogi, Natasha | NASA Langley | Associate Fellow | ISTC Chair-Elect, Publications |
-| Puranik, Tejas | Georgia Tech | . | Conference Planning, PDE&O |
-| Rafi, Melvin | Wichita State University | Student Member | Conference, Communications |
-| Rangavajhala, Sirisha | Draper Laboratory | . | Workshop |
-| Selva, Daniel | Texas A&M University | Senior Member | Conference |
+| Moncayo, Hever | Embry-Riddle Aeronautical University | Associate Fellow | Workshop |
+| Neogi, Natasha | NASA Langley | Associate Fellow | ISTC Chair, Publications |
+| Puranik, Tejas | NASA Ames / USRA | Senior Member | Conference Planning, PDE&O |
+| Rafi, Melvin | University of Colorado Boulder | Member | Communications, Conference Planning |
+| Saripalli, Srikanth | Texas A&M University | Associate Fellow | New TC Member |
+| Selva, Daniel | Texas A&M University | Associate Fellow | Conference Planning, Workshop |
 | Shah, Julie | MIT | Associate Fellow | Conference Planning |
-| Sharma, Raj | University of Cincinnati | Member | Conference Planning, Workshop |
-| Shrestha, Elena | Johns Hopkins Applied Physics Lab | Member | New TC Member |
-| Snyder, Steve | NASA Langley Research Center | . | New TC Member |
-| Stimpson, Alexander | Duke University | Member | Procedures, Communications |
-| Stringer, Mary | NASA Langley Research Center | . | New TC Member |
-| Sun, Liang | New Mexico State | Member | Conference, Procedures |
-| Valasek, John | Texas A&M | Fellow | ISTC Chair, Membership, Workshop |
-| Wan, Yan | University of North Texas | Member | Awards, PDE&O |
-| Weintraub, Isaac | Air Force Research Laboratory | Member | Awards |
-| Wilhelm, Jay | Ohio University | Member | ISTC Secretary, Awards, Workshop |
-| Wong, Edmond | NASA Glenn | Member | PDE&O, Communications |
-| Yucelen, Tansel | University of South Florida | Member | Conference Planning, Publications |
+| Sharma, Raj | University of Cincinnati | Senior Member | Conference Planning, Workshop |
+| Shrestha, Elena | University of Michigan | Senior Member | Workshop |
+| Snyder, Steve | NASA Langley Research Center | Member | Workshop |
+| Stimpson, Alexander | VTG | Member | Communications, Procedures |
+| Stringer, Mary | NASA Langley Research Center | Member | New TC Member |
+| Sun, Liang | New Mexico State University | Senior Member | Conference Planning, Procedures |
+| Sung, Woong Je | Georgia Institute of Technology | . | New TC Member |
+| Valasek, John | Texas A&M University | Fellow | ISTC Past-Chair, Membership, Workshop |
+| Wan, Yan | University of Texas at Arlington | Associate Fellow | Awards, PDE&O |
+| Weintraub, Isaac | Air Force Research Laboratory | Senior Member | Conference Planning |
+| Wilhelm, Jay | Ohio University | Senior Member | Awards, Workshop, Deputy Technical Discipline Chair |
+| Wong, Edmond | NASA Glenn Research Center | Member | Communications, PDE&O |
+| Xie, Junfei | San Diego State University | Senior Member | New TC Membeer |
+| Yum Huafeng | Department of Transportation | Member | New TC Member |
+| Yucelen, Tansel | University of South Florida | Associate Fellow | Conference Planning, Publications |
+
+
+**Friend of the TC:**
+
+| <b>Full Name</b>         | <b>Institution</b>       | <b> AIAA Membership</b> | <b>Year Started</b>    |
+|:-------------------------|:-------------------------|:------------------------|:-----------------------|
+| Goecks, Vinicius | Texas A&M University | Associate Member | 2018 |
+
 
 **Alumni:**
 
@@ -163,6 +173,8 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
 | Melcher, Kevin | NASA Glenn | Associate Fellow | 2011 | 2022 |
 | Nguyen, Nhan | NASA Ames | Associate Fellow | 2007 | 2022 |
 | Oyama, Akira | Japan Aerospace Exploration Agency (JAXA) | Senior Member | 2009 | 2022 |
+| Harris, Joshua | Texas A&M University | Associate Member | 2016 | 2023 |
+| Rangavajhala, Sirisha | Draper Laboratory | Member | 2020 | 2023 |
 
 <!--
 | Balas, Mark | Embry-Riddle Aeronautical University, FL | Emeritus Member | Awards, Conference Planning |

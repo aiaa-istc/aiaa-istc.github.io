@@ -48,22 +48,22 @@ The ISTC is divided into nine subcommittees:
 ### Awards
 Objective:  To honor outstand technical & non-technical accomplishments by AIAA members through an awards structure.
 
-Contact Info: <a href="mailto:">Jay Wilhelm</a> (Chair)
+Contact Info: <a href="mailto:">Jay Wilhelm</a> (Chair), <a href="mailto:">Andy Lacher</a> (Co-Chair)
 
 ### Conference Planning
 Objective:  To determine and organize the technical content at the major conferences where the TC meets.
 
-Contact Info: <a href="mailto:">Cody Fleming</a> (Chair), <a href="mailto:">TBD</a> (Deputy-Chair)
+Contact Info: <a href="mailto:">Cody Fleming</a> (Chair), <a href="mailto:rajnikant.sharma@uc.edu">Raj Sharma</a> (Co-Chair)
 
 ### Membership
 Objective:  To maintain an active, balanced membership and steward membership upgrades within the TC.
 
-Contact Info: <a href="mailto:david.casbeer@live.com">David Casbeer</a> (Chair), <a href="mailto:elad.kivelevitch@gmail.com">Elad Kivelvitch</a> (Co-Chair)
+Contact Info: <a href="mailto:">John Valasek</a> (Chair), <a href="mailto:david.casbeer@live.com">David Casbeer</a> (Co-Chair)
 
 ### Procedures
 Objective:  To maintain and disseminate information on how the ISTC functions to current and new members.
 
-Contact Info: <a href="mailto:">Liang Sun</a> (Chair), <a href="mailto:">Alex Stimpson</a> (Co-Chair)
+Contact Info: <a href="mailto:">Liang Sun</a> (Chair), <a href="mailto:justin.bradley@unl.edu">Justin Bradley</a> (Co-Chair)
 
 ### Professional Development, Education, and Outreach (PDE&O)
 Objective:  To increase the awareness of Intelligent System technologies among K-12 grade levels, university students, and professionals and to come up with innovative approaches to involve students.
@@ -73,22 +73,22 @@ Contact Info: <a href="mailto:yan.wan@uta.edu">Yan Wan</a> (Chair), <a href="mai
 ### Public Policy
 Objective:  To increase the awareness of the role of intelligent systems technologies in future aerospace systems among the public at large as well as the various decision making authorities such as lawmakers, senior management in related government agencies, etc.
 
-Contact Info: <a href="mailto:zigmond.v.leszczynski@aero.org">Zig Leszczynski</a> (Chair), <a href="mailto:">Andrew Lacher</a> (Co-Chair)
+Contact Info: <a href="mailto:">Andy Lachter</a> (Chair), <a href="mailto:">Saripalli Srikanth</a> (Co-Chair)
 
 ### Publications
 Objective:  To disseminate and publicize the activities of the AIAA Intelligent Systems and ISTC communities.
 
-Contact Info:  <a href="mailto:">Kerianne Hobbs</a> (Co-Chair), <a href="mailto:">Mohammad Ayoubi</a> (Co-Chair)
+Contact Info:  <a href="mailto:">Kerianne Hobbs</a> (Co-Chair), <a href="mailto:">John Bird</a> (Co-Chair)
 
-### Communications
+### Communications (formerly Website)
 Objective:  To maintain a web-page that contains procedural information, the ISTC roster, and other information about the ISTC's current interests and activities such as sub-committees and Working Groups, as well as manage the ISTC group on LinkedIn to provide updates and press releases on things pertaining to the TC such as members getting awards, workshops, special sessions at conferences, etc.
 
-Contact Info: <a href="mailto:mcghancl@ucmail.uc.edu">Catharine McGhan</a> (Chair), <a href="mailto:josh@joshharris.org">Josh Harris</a> (Co-Chair)
+Contact Info: <a href="mailto:mcghancl@ucmail.uc.edu">Catharine McGhan</a> (Chair), <a href="mailto:justin.bradley@unl.edu">Justin Bradley</a> (Co-Chair)
 
-### Workshop Planning (2022-2023)
+### Workshop Planning (2023-2024)
 Objective:  To determine and organize the technical content at the annual Intelligent Systems Workshop.
 
-Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair)
+Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair), <a href="mailto:nisar.ahmed@colorado.edu">Nisar Ahmed</a> (Co-Chair), <a href="mailto:justin.bradley@unl.edu">Justin Bradley</a> (Local Chair)
 
 ## Member Listing
 

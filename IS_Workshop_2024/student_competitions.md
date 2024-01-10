@@ -9,7 +9,7 @@ layout: default2024ws
 ## Student competitions
 Abstract submission is coming soon!
 <!--
-Abstract submission is open now through July 10, 2023 for the student poster and lightning talk competitions at the IS workshop!
+Abstract submission is open now through ?? ??, 2024 for the student poster and lightning talk competitions at the IS workshop!
 
 ### Call for Abstracts for the Student Talks and Poster Competition  
 

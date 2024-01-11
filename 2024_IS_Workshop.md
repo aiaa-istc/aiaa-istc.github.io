@@ -3,17 +3,18 @@ layout: default2024ws
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>
-<h3 align="center">Dates: Late spring - Early summer 2024</h3>
-<h3 align="center">University of Nebraska</h3>
+<h3 align="center">Dates: Week of June 24 in 2024 -- save the date!</h3>
+<h3 align="center">University of Nebraska-Lincoln, Lincoln, NE</h3>
 
-The 9th annual Intelligent Systems Workshop will take place in late spring - early summer 2024 at University of Nebraska. <!-- in Boulder, CO. -->
+The 9th annual Intelligent Systems Workshop will take place over two days on the week of June 24, in the June 25-27 timeframe, at the University of Nebraska-Lincoln in Lincoln, NE.
+
+<!-- **This year's workshop theme: *??*** -->
+
+Join us for two days of technical sessions covering a wide range of topics. Engage with top experts in the field through interactive topic panels, participate in exciting breakout sessions, hear from some of the nation’s brightest students in the student poster and lightning talk competitions, and tour local areas in the region. Please save the date!
 
 More information is coming soon!
 
-<!-- **This year's workshop theme: *??***
-
-Join us for two days of technical sessions covering a wide range of topics. Engage with top experts in the field through interactive topic panels, participate in exciting breakout sessions, hear from some of the nation’s brightest students in the student poster and lightning talk competitions, and tour ??
-
+<!--
 (Please note that this workshop will be an in-person only event.)
 
 Confirmed keynote speakers include ?? (??, ??) and ?? (??, ??).

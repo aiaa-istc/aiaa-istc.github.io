@@ -15,7 +15,7 @@ layout: default
 * * *
 * * *
 
-## 2024 Intelligent Systems Workshop -- University of Nebraska, Week of June 24 (save the date!)
+## 2024 Intelligent Systems Workshop -- University of Nebraska, Week of June 24 in 2024 (save the date!)
 The 9th annual Intelligent Systems Workshop will take place the week of June 24 at the University of Nebraska-Lincoln, Lincoln, NE. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems. <!--(Please note that this workshop will be an in-person only event.)-->
 
 This two-day workshop will take place the week of June 24, in the June 25-27 timeframe -- please save the date!

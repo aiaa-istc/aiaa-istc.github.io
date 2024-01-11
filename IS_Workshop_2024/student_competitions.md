@@ -3,8 +3,8 @@ layout: default2024ws
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>
-<h3 align="center">Dates: Late spring - Early summer, 2024</h3>
-<h3 align="center">University of Nebraska</h3>
+<h3 align="center">Dates: Week of June 24 in 2024 -- save the date!</h3>
+<h3 align="center">University of Nebraska-Lincoln, Lincoln, NE</h3>
 
 ## Student competitions
 Abstract submission is coming soon!

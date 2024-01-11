@@ -10,24 +10,26 @@ layout: default2024ws
 The Intelligent Systems workshop is organized by the AIAA Intelligent Systems Technical Committee.
 
 ### Workshop co-chairs:
-Coming soon!
-<!--Daniel Selva (Texas A&M University)  
-Nisar Ahmed (University of Colorado Boulder)  -->
+Daniel Selva (Texas A&M University)  
+Nisar Ahmed (University of Colorado Boulder)  
+Justin Bradley (University of Nebraska-Lincoln)  
 
 ### Workshop subcommittee:
-Coming soon!
-<!--David Casbeer (AFRL)  
-Cody Fleming (University of Virginia)  
+Steve Cook (Northrop Grumman Aerospace Systems, Office of Independent Airworthiness)  
+Cody Fleming (Iowa State University)  
 Kerianne Hobbs (AFRL)  
 Ksenia Kolcio (Okean Solutions)  
+Chetan Kulkarni (NASA Ames / SGT)  
 Amanda Lampton (Systems Technology, Inc.)  
 Hannah Lehman (Texas A&M University)  
+Tim McLain (Brigham Young University)  
 Hever Moncayo (Embry-Riddle Aeronautical University)  
-Sirisha Rangavajhala (Draper Laboratory)  
-Rajnikant Sharma (University of Cincinatti)  
-Elena Shrestha (Johns Hopkins Applied Physics Lab)  
 Steven Snyder (NASA Langley Research Center)  
-Jay Wilhelm (Ohio University)  -->
+Srikanth Saripalli (Texas A&M University)  
+Mary Stringer (NASA Langley Research Center)  
+John Valasek (Texas A&M University)  
+Jay Wilhelm (Ohio University)  
+
 
 * * *
 * * *

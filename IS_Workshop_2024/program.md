@@ -3,6 +3,11 @@ layout: default2024ws
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>
+<h3 align="center">Dates: Week of June 24 in 2024 -- save the date!</h3>
+<h3 align="center">University of Nebraska-Lincoln, Lincoln, NE</h3>
+
+The 9th annual Intelligent Systems Workshop will take place over two days on the week of June 24, in the June 25-27 timeframe, at the University of Nebraska-Lincoln in Lincoln, NE.
+
 <!--
 <h3 align="center" style="color:red;">Robust autonomy and human-machine teaming in harsh, unprecedented or unpredictable environments: lessons learned and a look to the future</h3>
 -->

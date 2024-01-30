@@ -30,6 +30,33 @@ For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](h
 
 ## Announcements:
 
+
+### <i>News: 2024 Jan 29, 7:19pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Dr. Yan Wan's seminar tomorrow (this Tuesday) at 3:00pm EDT on Zoom!
+
+**Speaker:** Yan Wan, Ph.D.<br>
+Distinguished University Professor<br>
+Electrical Engineering<br>
+University of Texas at Arlington<br>
+
+**Date/time:** Tuesday, Jan 30th, 2024 -- 3:00pm-4:00pm Eastern time
+
+**Title:** Uncertainty Modeling and Evaluation for Cyber-Physical Control Systems
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** Uncertainties often modulate modern cyber-physical system dynamics in a complicated fashion. They lead to challenges for real-time control, considering the significant computation load needed for uncertainty evaluation. We introduce scalable uncertainty models and uncertainty evaluation methods that break the curse of dimensionality for optimal control, learning control and differential games. Applications include UAV networking, UAV traffic management, air traffic management, and autonomous driving.
+
+**Bio:** Yan Wan is a Distinguished University Professor in the Electrical Engineering Department at the University of Texas at Arlington (UTA). She received her Ph.D. degree in Electrical and Computer Engineering from Washington State University and then did Postdoctoral training in the Institute for Collaborative Biotechnologies at the University of California Santa Barbara. Her research interests lie in the modelling, evaluation, and control of large-scale dynamical networks, cyber-physical systems, stochastic networks, decentralized control, learning control, networking, uncertainty analysis, algebraic graph theory, and their applications to urban aerial mobility, autonomous driving, robot networking, air traffic management, microgrids, and edge computing. She received research grants from federal agencies such as NSF, ONR, ARO, NIST, and DOE as well as industry support from Ford Motors, Toyota Motors, Lockheed Martin, Dell Technologies, and MITRE Corporation as subcontracts from the FAA. Her research has led to over 230 publications and technology transfer outcomes. For her work, she has been recognized with several prestigious awards, including the NSF CAREER Award, RTCA William E. Jackson Award, U.S. Ignite and GENI demonstration awards, IEEE WCNC and ICCA Best Paper Awards, UTA Outstanding Research Achievement or Creative Accomplishment Award, UNT Early Career Award for Research and Creativity, UTA STARS Award, Lockheed Martin Aeronautics Excellence in Teaching Award, and Tech Titan of the Future – University Level Award. She was a Board of Governors (BOG) member of the IEEE Control Systems Society and is currently a BOG member of the IEEE Systems, Man, and Cybernetics Society. She also serves in the Technical Committees of AIAA Intelligent Systems, IEEE CSS Nonlinear Systems and Control, and IEEE CSS Networks and Communication Systems. She is an Associate Fellow of AIAA and a Senior Member of IEEE.
+
+
 ### <i>News: 2023 Nov 20, 1:06pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series
 

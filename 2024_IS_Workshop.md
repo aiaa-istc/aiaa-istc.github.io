@@ -3,21 +3,21 @@ layout: default2024ws
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>
-<h3 align="center">Dates: Week of June 24 in 2024 -- save the date!</h3>
+<h3 align="center">Dates: June 25-26, 2024</h3>
 <h3 align="center">University of Nebraska-Lincoln, Lincoln, NE</h3>
 
-The 9th annual Intelligent Systems Workshop will take place over two days on the week of June 24, in the June 25-27 timeframe, at the University of Nebraska-Lincoln in Lincoln, NE.
+The 9th annual Intelligent Systems Workshop will take place June 25-26, 2024, at the University of Nebraska-Lincoln in Lincoln, NE.
 
-<!-- **This year's workshop theme: *??*** -->
+**This year's workshop theme: Safety in Intelligent Aerospace Systems**
 
-Join us for two days of technical sessions covering a wide range of topics. Engage with top experts in the field through interactive topic panels, participate in exciting breakout sessions, hear from some of the nation’s brightest students in the student poster and lightning talk competitions, and tour local areas in the region. Please save the date!
+Join us for two days of technical sessions covering a wide range of topics. Engage with top experts in the field through interactive topic panels, participate in exciting breakout sessions, hear from some of the nation’s brightest students in the student poster and lightning talk competitions, and tour local areas in the region.
+
+Confirmed keynote speakers include Dr. Jim Paunicka (Technical Fellow, Autonomy Capabilities Team, Boeing CTO Office) and Dr. Steve Chien (JPL Fellow, Supervisor of the Artificial Intelligence Group).
 
 More information is coming soon!
 
 <!--
 (Please note that this workshop will be an in-person only event.)
-
-Confirmed keynote speakers include ?? (??, ??) and ?? (??, ??).
 
 Program: the final agenda is now available <a href="{{ '/IS_Workshop_2024/program.html' | absolute_url }}">here</a>!
 -->

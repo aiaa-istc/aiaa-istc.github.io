@@ -32,6 +32,31 @@ For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2024 Apr 9, 7:40pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Dr. Naira Hovakimyan's seminar Tuesday April 23 at 5:00pm ET on Zoom!
+
+**Speaker:** Naira Hovakimyan, Ph.D.<br>
+W. Grafton and Lillian B. Wilkins Professor<br>
+Mechanical Science and Engineering<br>
+University of Illinois Urbana-Champaign
+
+**Date/time:** Tuesday, Apr 23th, 2024 -- 5:00pm-6:00pm Eastern time
+
+**Title:** Safe Learning in Autonoous Systems
+
+**Meeting link:** [[https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=85452117558](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=85452117558)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** Learning-based control paradigms have seen many success stories with various robots and co-robots in recent years. However, as these robots prepare to enter the real world, operating safely in the presence of imperfect model knowledge and external disturbances is going to be vital to ensure mission success. We introduce a class of distributionally robust adaptive control architectures that ensure robustness to distribution shifts and enable the development of certificates for V&V of learning-enabled systems. An overview of different projects at our lab that build upon this framework will be demonstrated to show different applications.
+
+**Bio:** Naira Hovakimyan received her MS degree in Applied Mathematics from Yerevan State University in Armenia. She got her Ph.D. in Physics and Mathematics from the Institute of Applied Mathematics of Russian Academy of Sciences in Moscow. She is currently W. Grafton and Lillian B. Wilkins Professor of Mechanical Science and Engineering and the Director of AVIATE Center of UIUC. She has co-authored two books, eleven patents and more than 500 refereed publications. She is the 2011 recipient of AIAA Mechanics and Control of Flight Award, the 2015 recipient of SWE Achievement Award, the 2017 recipient of IEEE CSS Award for Technical Excellence in Aerospace Controls, and the 2019 recipient of AIAA Pendray Aerospace Literature Award. In 2014 she was awarded the Humboldt prize for her lifetime achievements. She is Fellow of AIAA, IEEE, ASME, and senior member of National Academy of Inventors. She is cofounder and chief scientist of Intelinair. Her work was featured in the New York Times, on Fox TV and CNBC.
+
 
 ### <i>News: 2024 Jan 29, 7:19pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series

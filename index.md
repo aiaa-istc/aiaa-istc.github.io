@@ -44,7 +44,7 @@ University of Illinois Urbana-Champaign
 
 **Date/time:** Tuesday, Apr 23th, 2024 -- 5:00pm-6:00pm Eastern time
 
-**Title:** Safe Learning in Autonoous Systems
+**Title:** Safe Learning in Autonomous Systems
 
 **Meeting link:** [[https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=85452117558](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=85452117558)<br>
 Dial by your location<br>

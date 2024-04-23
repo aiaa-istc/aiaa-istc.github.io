@@ -14,6 +14,12 @@ Confirmed keynote speakers include Dr. Jim Paunicka (Technical Fellow, Autonomy 
 
 ## Program
 
+Confirmed keynote speakers include Dr. Jim Paunicka (Technical Fellow, Autonomy Capabilities Team, Boeing CTO Office) and Dr. Steve Chien (JPL Fellow, Supervisor of the Artificial Intelligence Group).
+
+Registration is available here! [https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html](https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html)
+
+For more information, see: this set of pages or [https://nimbus.unl.edu/aiaa-istc-workshop](https://nimbus.unl.edu/aiaa-istc-workshop)
+
 More info is coming soon!
 
 <!-- The final agenda is below. -->

@@ -22,9 +22,9 @@ This year's workshop theme: Safety in Intelligent Aerospace Systems
 
 Confirmed keynote speakers include Dr. Jim Paunicka (Technical Fellow, Autonomy Capabilities Team, Boeing CTO Office) and Dr. Steve Chien (JPL Fellow, Supervisor of the Artificial Intelligence Group).
 
-Registration is coming soon!
+Registration is available here! [https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html](https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html)
 
-For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](https://aiaa-istc.github.io/2024_IS_Workshop.html)
+For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](https://aiaa-istc.github.io/2024_IS_Workshop.html) or [https://nimbus.unl.edu/aiaa-istc-workshop](https://nimbus.unl.edu/aiaa-istc-workshop)
 
 * * *
 * * *
@@ -46,7 +46,7 @@ University of Illinois Urbana-Champaign
 
 **Title:** Safe Learning in Autonomous Systems
 
-**Meeting link:** [[https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=85452117558](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=85452117558)<br>
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=85452117558](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=85452117558)<br>
 Dial by your location<br>
 877 853 5257 US Toll-free<br>
 888 475 4499 US Toll-free<br>

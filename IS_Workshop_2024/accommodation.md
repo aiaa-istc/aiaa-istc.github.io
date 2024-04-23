@@ -34,6 +34,15 @@ Downtown ?? hotels (fancier but pricier, next to downtown ??):
 * ??: [??](??)
 -->
 
+## Hotels
+There are multiple hotels a short distance from campus. Some examples include:
+* <a href="https://graduatehotels.com/lincoln/">Graduate Hotels, Lincoln</a>
+    * booking site, ISTC block: [https://www.graduatehotels.com/lincoln/#/booking/step-1?group=2823994&arrive=06%2F24%2F2024&depart=06%2F26%2F2024](https://www.graduatehotels.com/lincoln/#/booking/step-1?group=2823994&arrive=06%2F24%2F2024&depart=06%2F26%2F2024)
+    * directions to Kiewit Hall from hotel: <a href="https://www.google.com/maps/dir/Graduate+Lincoln,+North+9th+Street,+Lincoln,+NE/1700+Vine+St,+Lincoln,+NE+68508/@40.8201991,-96.7056867,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x8796bf1d2b908703:0xdd7903533302a9db!2m2!1d-96.7089724!2d40.8144831!1m5!1m1!1s0x8796bee618552995:0xf4fd779cd2b7aebe!2m2!1d-96.6963983!2d40.8212203!3e0?entry=ttu">Google Maps</a>
+* <a href="https://www.marriott.com/en-us/hotels/lnkcy-courtyard-lincoln-downtown-haymarket/overview/">Courtyard by Marriott, Courtyard Lincoln Downtwn/Haymarket</a>
+    * booking site, ISTC block: [https://www.marriott.com/event-reservations/reservation-link.mi?id=1712003322297&key=GRP&app=resvlink](https://www.marriott.com/event-reservations/reservation-link.mi?id=1712003322297&key=GRP&app=resvlink)
+    * directions to Kiewit Hall from hotel: <a href="https://www.google.com/maps/dir/Courtyard+by+Marriott+Lincoln+Downtown%2FHaymarket,+R+Street,+Lincoln,+NE/1700+Vine+St,+Lincoln,+NE+68508/@40.8215332,-96.7066934,16.24z/data=!4m14!4m13!1m5!1m1!1s0x8796bf1c568f0cf1:0x1a2d0026b1248f91!2m2!1d-96.7096691!2d40.8173047!1m5!1m1!1s0x8796bee618552995:0xf4fd779cd2b7aebe!2m2!1d-96.6963983!2d40.8212203!3e0?entry=ttu">Google Maps</a>
+
 * * *
 * * *
 

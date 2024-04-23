@@ -8,6 +8,8 @@ layout: default2024ws
 
 ## Venue
 The workshop will be held at University of Nebraska-Lincoln, in Lincoln, NE.
+
+Most of the workshop will take place in the new Kiewit Hall Engineering Building.
 <!-- Most of the workshop will take place in the Aerospace Engineering Sciences Building, [??](??) ??, ??, NE ?????</a>.-->
 
 More details are coming soon!

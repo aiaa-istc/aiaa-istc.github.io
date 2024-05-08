@@ -32,6 +32,31 @@ For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2024 May 8, 10:00am EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Dr. Jun Chen's seminar Tuesday May 14 at 4:00pm ET on Zoom!
+
+**Speaker:** Jun Chen, Ph.D.<br>
+Department of Aerospace Engineering<br>
+San Diego State University
+
+**Date/time:** Tuesday, May 14th, 2024 -- 4:00pm-5:00pm Eastern time
+
+**Title:** Safety-Assured Online Planning for Large-scale Autonomy under Uncertainty
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=82685514209](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=82685514209)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** With the booming of artificial intelligence and autonomy in a new era, the field of systems and control has recently been facing newly emerged research in the control and optimization of large-scale networked autonomous systems, most of which heavily rely on the fidelity of the models and efficient computational techniques to execute optimized control actions. Meanwhile, the physical autonomous systems are inherently subject to uncertainties and disturbances. This seminar will present a suite of modeling, optimization, and computation algorithms and tools that can efficiently support safety-assured real-time decision-making for large-scale autonomous systems, with a focus on Unmanned Aerial Vehicle (UAV) autonomy and Advanced Air Mobility (AAM) applications under dynamic and uncertain environments.
+
+**Bio:** Dr. Jun Chen is an Assistant Professor in the Department of Aerospace Engineering at San Diego State University. Dr. Chen's research area includes dynamics, control, machine learning, and artificial intelligence, particularly in data-driven modeling, control, and optimization for large-scale networked dynamical systems, with applications in mechanical and aerospace engineering such as air traffic control, traffic flow management, and autonomous air/ground vehicle systems. His research spans theory and practice, including both algorithm development and real-world field tests. Dr. Chen’s research has been supported by NSF, FAA, and NASA. Dr. Chen earned his Ph.D. and M.S. degrees in Aerospace Engineering from Purdue University and a B.S. degree in Aeronautics Engineering from Beihang University. He is a recipient of the Purdue College of Engineering Outstanding Research Award in 2018.
+
+
 ### <i>News: 2024 Apr 9, 7:40pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series
 

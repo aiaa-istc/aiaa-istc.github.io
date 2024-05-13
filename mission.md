@@ -16,8 +16,8 @@ If you are interested in joining the ISTC, please complete a Technical Committee
     <td><b>ISTC Officers:</b></td>
   </tr>
   <tr>
-    <td><a href="mailto:natasha.a.neogi@nasa.gov">Natasha Neogi</a></td>
-    <td>* Co-chair: John Valasek, <a href="mailto:valasek@tamu.edu">valasek@tamu.edu</a><br>
+    <td>Natasha Neogi, <a href="mailto:natasha.a.neogi@nasa.gov">natasha.a.neogi@nasa.gov</a></td>
+    <td>* Co-chair: <a href="mailto:valasek@tamu.edu">John Valasek</a><br>
 * Chair-elect: <a href="mailto:justin.bradley@unl.edu">Justin Bradley</a><br>
 * Secretary: <a href="mailto:kerianne.hobbs@afrl.af.mil">Kerianne Hobbs</a><br></td>
   </tr>

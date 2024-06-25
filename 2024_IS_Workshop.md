@@ -37,17 +37,17 @@ Program: the final agenda is now available <a href="https://nimbus.unl.edu/aiaa-
 | 9:50a-10:05a | Group Photo | Basement KH |
 | 10:05a-10:25a | Coffee Break | KH 2nd Floor |
 | . | **Technical session 1: Assured Navigation and Perception** | KH A203 |
-| 10:25a-11:05a | *Plenary:*<br>Carrick Detweiler<br>Drone Amplified | " |
-| 11:05a-11:20a | *Panelist:*<br>Issa Nesnas<br>California Institute of Technology Jet Propulsion Laboratory | " |
-| 11:20a-11:35a | *Panelist:*<br>Benjamin Bycroft<br>Aerospace Corporation | " |
-| 11:35a-11:50a | *Panelist :*<br>Joshua Mangelson<br>BYU | " |
+| 10:25a-11:05a | *Plenary:*<br>Carrick Detweiler, Drone Amplified | " |
+| 11:05a-11:20a | *Panelist:*<br>Issa Nesnas, California Institute of Technology Jet Propulsion Laboratory | " |
+| 11:20a-11:35a | *Panelist:*<br>Benjamin Bycroft, Aerospace Corporation | " |
+| 11:35a-11:50a | *Panelist :*<br>Joshua Mangelson, BYU | " |
 | 11:50a-12:20p | Panel discussion | " |
 | 12:20p-1:20p | Lunch | KH A203 |
-| 1:20p-2:40p | (1) NIMBUS Lab<br>(2) Center for Electro-Optics and Functionalized Surfaces (CEFS)<br>(3) Smart Materials and Robotics Laboratory | (1) 2nd floor Schorr Center<br>(2) ERC D027<br>(3) ERC D271C |
+| 1:20p-2:40p | (1) NIMBUS Lab,<br>(2) Center for Electro-Optics and Functionalized Surfaces (CEFS),<br>(3) Smart Materials and Robotics Laboratory | (1) 2nd floor Schorr Center<br>(2) ERC D027<br>(3) ERC D271C |
 | 2:40p-3:00p | Coffee break | KH 2nd Floor |
-| 3:00p-4:40p | (1) Student Lightning Talk Competition<br>(2) Student Poster Session | (1) KH A203<br>(2) KH A211 |
+| 3:00p-4:40p | (1) Student Lightning Talk Competition + (2) Student Poster Session | (1) KH A203<br>(2) KH A211 |
 | 4:40p-5:20p | Break | --- |
-| 5:20p-7:50p | TC Meeting (ISTC Picture 5:30,<br>Dinner acquisition 5:45,<br>TC meeting start 6:00) | KH A203 |
+| 5:20p-7:50p | TC Meeting (ISTC Picture 5:30, Dinner acquisition 5:45, TC meeting start 6:00) | KH A203 |
 
 <br>
 
@@ -56,18 +56,18 @@ Program: the final agenda is now available <a href="https://nimbus.unl.edu/aiaa-
 | ***Start-End*** | ***Event*** | ***Location*** |
 | :-------------- | :---------- | :------------- |
 | 8:00a-8:30a | Registration and continental breakfast | KH 2nd Floor |
-| 8:30a-9:30a | *Keynote:*<br>Dr. Steve Chien<br>JPL Fellow<br>Supervisor of the Artificial Intelligence Group | KH A203 |
+| 8:30a-9:30a | *Keynote:*<br>Dr. Steve Chien, JPL Fellow, Supervisor of the Artificial Intelligence Group | KH A203 |
 | 9:30a-9:50a | Coffee break | KH 2nd Floor |
 | . | **Technical session 2: Trustworthy Autonomous Decisions and Control** | KH A203 |
-| 9:50a-10:30a | *Plenary:*<br>Luca Carlone<br>MIT | " |
-| 10:30a-10:45a | *Panelist:*<br>Wes Ryan<br>Northop Grumman | " |
-| 10:45a-11:00a | *Panelist:*<br>Hoang-Dung Tran<br>University of Nebraska-Lincoln | " |
-| 11:00a-11:15a | *Panelist:*<br>Kerianne Hobbs<br>Air Force Research Laboratory | " |
+| 9:50a-10:30a | *Plenary:*<br>Luca Carlone, MIT | " |
+| 10:30a-10:45a | *Panelist:*<br>Wes Ryan, Northop Grumman | " |
+| 10:45a-11:00a | *Panelist:*<br>Hoang-Dung Tran, University of Nebraska-Lincoln | " |
+| 11:00a-11:15a | *Panelist:*<br>Kerianne Hobbs, Air Force Research Laboratory | " |
 | 11:15a-11:40a | Panel discussion | " |
 | 11:40a-1:00p | Lunch + Student Awards + Open Mic Session | KH A203 |
-| 1:00p-3:00p | Breakout sessions - (1) Assured Navigation and Perception (Luca Carlone)<br>(2) Trustworthy Autonomous Decisions and Control (Kerianne Hobbs, Chetan Kulkarni)<br>(3) Autonomy/AI in the Aerospace Curriculum (Dani Selva) | (1) KH A211<br>(2) KH A253<br>(3) KH A251 |
+| 1:00p-3:00p | Breakout sessions - (1) Assured Navigation and Perception (Luca Carlone), <br>(2) Trustworthy Autonomous Decisions and Control (Kerianne Hobbs, Chetan Kulkarni), <br>(3) Autonomy/AI in the Aerospace Curriculum (Dani Selva) | (1) KH A211<br>(2) KH A253<br>(3) KH A251 |
 | 3:00p-3:30p | Coffee break | KH 2nd Floor |
-| 3:30p-4:15p | Breakout Session Outbriefs;<br>outline towards a position paper from AIAA ISTC | KH A203 |
+| 3:30p-4:15p | Breakout Session Outbriefs; outline towards a position paper from AIAA ISTC | KH A203 |
 | 4:15p-4:25p | Concluding remarks | KH A203 |
 | 4:25p-4:45p | Break | --- |
 | 4:45p-5:15p | Travel to SAC | --- |

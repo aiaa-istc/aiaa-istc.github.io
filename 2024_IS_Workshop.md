@@ -8,7 +8,7 @@ layout: default2024ws
 
 The 9th annual Intelligent Systems Workshop will take place June 25-26, 2024, at the University of Nebraska-Lincoln in Lincoln, NE.
 
-*****Please see the UNL website for the agenda, workshop registration, and the most up-to-date information! [https://nimbus.unl.edu/aiaa-istc-workshop](https://nimbus.unl.edu/aiaa-istc-workshop)*****
+<p style="color:red;"><i><b>Please see the UNL website for the agenda, workshop registration, and the most up-to-date information! <a href="https://nimbus.unl.edu/aiaa-istc-workshop">https://nimbus.unl.edu/aiaa-istc-workshop</a></b></i></p>
 
 **This year's workshop theme: Safety in Intelligent Aerospace Systems**
 

@@ -6,6 +6,8 @@ layout: default2024ws
 <h3 align="center">Dates: June 25-26, 2024</h3>
 <h3 align="center">University of Nebraska-Lincoln, Lincoln, NE</h3>
 
+<p style="color:red;"><i><b>Please see the UNL website for the agenda, workshop registration, and the most up-to-date information! <a href="https://nimbus.unl.edu/aiaa-istc-workshop">https://nimbus.unl.edu/aiaa-istc-workshop</a></b></i></p>
+
 ## About
 The Intelligent Systems workshop is organized by the AIAA Intelligent Systems Technical Committee.
 

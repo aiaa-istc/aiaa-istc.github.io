@@ -24,7 +24,11 @@ Confirmed keynote speakers include Dr. Jim Paunicka (Technical Fellow, Autonomy 
 
 Registration is available here! [https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html](https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html)
 
+<p style="color:red;"><i><b>Please see the UNL website for the agenda, workshop registration, and the most up-to-date information! <a href="https://nimbus.unl.edu/aiaa-istc-workshop">https://nimbus.unl.edu/aiaa-istc-workshop</a></b></i></p>
+
+<!--
 For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](https://aiaa-istc.github.io/2024_IS_Workshop.html) or [https://nimbus.unl.edu/aiaa-istc-workshop](https://nimbus.unl.edu/aiaa-istc-workshop)
+-->
 
 * * *
 * * *

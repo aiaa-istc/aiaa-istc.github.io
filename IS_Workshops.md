@@ -13,7 +13,7 @@ University of Nebraska-Lincoln
 
 The 9th annual Intelligent Systems Workshop will take place on June 25-26, 2024 at the University of Nebraska-Lincoln in Lincoln, NE.
 
-More information will be available soon <a href="/2024_IS_Workshop.html">here</a>.
+See the UNL website for the most up-to-date agenda and registration: <a href="https://nimbus.unl.edu/aiaa-istc-workshop">https://nimbus.unl.edu/aiaa-istc-workshop</a>.
 
 ### 2023 Intelligent Systems Workshop -- University of Colorado Boulder, July 24-25
 

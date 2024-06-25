@@ -6,9 +6,12 @@ layout: default2024ws
 <h3 align="center">Dates: June 25-26, 2024</h3>
 <h3 align="center">University of Nebraska-Lincoln, Lincoln, NE</h3>
 
+<p style="color:red;"><i><b>Please see the UNL website for the agenda, workshop registration, and the most up-to-date information! <a href="https://nimbus.unl.edu/aiaa-istc-workshop">https://nimbus.unl.edu/aiaa-istc-workshop</a></b></i></p>
+
 ## Tours
 
-Coming soon!
+Please see the UNL website for the agenda and the tour information: [https://nimbus.unl.edu/aiaa-istc-workshop](https://nimbus.unl.edu/aiaa-istc-workshop)
+<!-- Coming soon! -->
 
 <!--
 We will be touring the following 3 research labs in the ?? building on Day ?? (about ??-?? mins each):

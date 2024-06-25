@@ -12,15 +12,17 @@ Confirmed keynote speakers include Dr. Jim Paunicka (Technical Fellow, Autonomy 
 
 <h3 align="center" style="color:red;">This year's workshop theme: Safety in Intelligent Aerospace Systems</h3>
 
+<p style="color:red;"><i><b>Please see the UNL website for the agenda, workshop registration, and the most up-to-date information! <a href="https://nimbus.unl.edu/aiaa-istc-workshop">https://nimbus.unl.edu/aiaa-istc-workshop</a></b></i></p>
+
 ## Program
 
 Confirmed keynote speakers include Dr. Jim Paunicka (Technical Fellow, Autonomy Capabilities Team, Boeing CTO Office) and Dr. Steve Chien (JPL Fellow, Supervisor of the Artificial Intelligence Group).
 
 Registration is available here! [https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html](https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html)
 
-For more information, see: this set of pages or [https://nimbus.unl.edu/aiaa-istc-workshop](https://nimbus.unl.edu/aiaa-istc-workshop)
+The final agenda is available here: [https://nimbus.unl.edu/aiaa-istc-workshop](https://nimbus.unl.edu/aiaa-istc-workshop)
 
-More info is coming soon!
+<!-- More info is coming soon! -->
 
 <!-- The final agenda is below. -->
 

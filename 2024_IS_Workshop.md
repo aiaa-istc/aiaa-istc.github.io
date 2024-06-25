@@ -33,17 +33,17 @@ Program: the final agenda is now available <a href="https://nimbus.unl.edu/aiaa-
 | :-------------- | :---------- | :------------- |
 | 8:00a-8:35a | Registration | KH 2nd Floor |
 | 8:35a-8:50a | Welcome | KH A203 |
-| 8:50a-9:50a | *Keynote:*<br>Dr. Jim Paunicka, Technical Fellow<br>Autonomy Capabilities Team, Boeing CTO Office | KH A203 |
+| 8:50a-9:50a | *Keynote:*<br>Dr. Jim Paunicka, Technical Fellow,<br>Autonomy Capabilities Team, Boeing CTO Office | KH A203 |
 | 9:50a-10:05a | Group Photo | Basement KH |
 | 10:05a-10:25a | Coffee Break | KH 2nd Floor |
-| . | **Technical session 1: Assurred Navigation and Perception** | KH A203 |
+| . | **Technical session 1: Assured Navigation and Perception** | KH A203 |
 | 10:25a-11:05a | *Plenary:*<br>Carrick Detweiler<br>Drone Amplified | " |
-| 11:05a-11:20a | *Panelist:*<br>Issa Nesnas<br>California Institute of Technology<br>Jet Propulsion Laboratory | " |
+| 11:05a-11:20a | *Panelist:*<br>Issa Nesnas<br>California Institute of Technology Jet Propulsion Laboratory | " |
 | 11:20a-11:35a | *Panelist:*<br>Benjamin Bycroft<br>Aerospace Corporation | " |
 | 11:35a-11:50a | *Panelist :*<br>Joshua Mangelson<br>BYU | " |
 | 11:50a-12:20p | Panel discussion | " |
 | 12:20p-1:20p | Lunch | KH A203 |
-| 1:20p-2:40p | (1) NIMBUS Lab<br>(2) Center for Electro-Optics<br>and Functionalized Surfaces (CEFS)<br>(3) Smart Materials and Robotics Laboratory | (1) 2nd floor Schorr Center<br>(2) ERC D027<br>(3) ERC D271C |
+| 1:20p-2:40p | (1) NIMBUS Lab<br>(2) Center for Electro-Optics and Functionalized Surfaces (CEFS)<br>(3) Smart Materials and Robotics Laboratory | (1) 2nd floor Schorr Center<br>(2) ERC D027<br>(3) ERC D271C |
 | 2:40p-3:00p | Coffee break | KH 2nd Floor |
 | 3:00p-4:40p | (1) Student Lightning Talk Competition<br>(2) Student Poster Session | (1) KH A203<br>(2) KH A211 |
 | 4:40p-5:20p | Break | --- |
@@ -65,9 +65,9 @@ Program: the final agenda is now available <a href="https://nimbus.unl.edu/aiaa-
 | 11:00a-11:15a | *Panelist:*<br>Kerianne Hobbs<br>Air Force Research Laboratory | " |
 | 11:15a-11:40a | Panel discussion | " |
 | 11:40a-1:00p | Lunch + Student Awards + Open Mic Session | KH A203 |
-| 1:00p-3:00p | Breakout sessions - (1) Assurred Navigation and Perception (Luca Carlone)<br>(2) Trustworthy Autonomous Decisions and Control (Kerianne Hobbs, Chetan Kulkarni)<br>(3) Autonomy/AI in the Aerospace Curriculum (Dani Selva) | (1) KH A211<br>(2) KH A253<br>(3) KH A251 |
+| 1:00p-3:00p | Breakout sessions - (1) Assured Navigation and Perception (Luca Carlone)<br>(2) Trustworthy Autonomous Decisions and Control (Kerianne Hobbs, Chetan Kulkarni)<br>(3) Autonomy/AI in the Aerospace Curriculum (Dani Selva) | (1) KH A211<br>(2) KH A253<br>(3) KH A251 |
 | 3:00p-3:30p | Coffee break | KH 2nd Floor |
-| 3:30p-4:15p | Breakout Session Outbriefs; outline towards a<br>position paper from AIAA ISTC | KH A203 |
+| 3:30p-4:15p | Breakout Session Outbriefs;<br>outline towards a position paper from AIAA ISTC | KH A203 |
 | 4:15p-4:25p | Concluding remarks | KH A203 |
 | 4:25p-4:45p | Break | --- |
 | 4:45p-5:15p | Travel to SAC | --- |

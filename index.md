@@ -22,7 +22,10 @@ This year's workshop theme: Safety in Intelligent Aerospace Systems
 
 Confirmed keynote speakers include Dr. Jim Paunicka (Technical Fellow, Autonomy Capabilities Team, Boeing CTO Office) and Dr. Steve Chien (JPL Fellow, Supervisor of the Artificial Intelligence Group).
 
-Registration is available here! [https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html](https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html)
+Registration is closed -- we hope you all enjoyed the workshop!
+
+<!-- Registration is available here! [https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html](https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html)
+-->
 
 <p style="color:red;"><i><b>Please see the UNL website for the agenda, workshop registration, and the most up-to-date information! <a href="https://nimbus.unl.edu/aiaa-istc-workshop">https://nimbus.unl.edu/aiaa-istc-workshop</a></b></i></p>
 
@@ -35,6 +38,31 @@ For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](h
 
 
 ## Announcements:
+
+### <i>News: 2024 July 21, 8:18pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Dr. Melkior Ornik's seminar Tuesday July 23 at 2:00pm ET on Zoom!
+
+**Speaker:** Melkior Ornik, Ph.D.<br>
+Department of Aerospace Engineering<br>
+University of Illinois Urbana-Champaign
+
+**Date/time:** Tuesday, July 23rd, 2024 -- 2:00pm-3:00pm Eastern time
+
+**Title:** Control of Unknown Systems in Unlearnable Environments: Fundamental Limits of Knowledge
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=89524782672](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=89524782672)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** High-level autonomy in previously unseen or abruptly changed conditions faces a critical conceptual challenge: if the controller has no comprehensive system model and no prior opportunity to collect data and train its strategy, how can we form guarantees about system safety or performance? In fact, how do we know whether the system's task is even feasible? Indeed, standard approaches of learning-based control require a wealth of available data, while classical methods of robust and adaptive control respond to highly structured uncertainties. Additionally, attempting to determine a control strategy to complete a predetermined task does not reflect the limits of the system's capabilities: the system might be unable to perform the old task in novel conditions. Instead, an intelligent planner should understand which tasks can certifiably be completed given the current knowledge, and then formulate appropriate control laws. To move towards that goal, in this talk I will present an emergent twin efforts of design-time guaranteed resilience and mission-time guaranteed performance. Combining methods of optimal control, reachability analysis, and differential geometry, these approaches compute a set of tasks completable under all system dynamics consistent with the planner’s partial knowledge, and synthesize appropriate control laws using online learning and adaptation. In describing this framework, this talk will briefly present several applications to aerial and space vehicles, identifying promising future directions of research such as safety-assured reachability, verifiable performance with faulty sensing, and data-driven incremental certification.
+
+**Bio:** Melkior Ornik is an assistant professor in the Department of Aerospace Engineering at the University of Illinois Urbana-Champaign, also affiliated with the Coordinated Science Laboratory, as well as the Discovery Partners Institute in Chicago. He received his Ph.D. degree from the University of Toronto in 2017. His research focuses on developing theory and algorithms for control, learning and task planning in autonomous systems that operate in uncertain, changing, or adversarial environments, as well as in scenarios where only limited knowledge of the system is available. He is a senior member of AIAA and IEEE, his recent work has been extensively funded by NASA grants and Department of Defense programs, and he has been awarded the 2023 Air Force Young Investigator Program grant.
+
 
 ### <i>News: 2024 May 8, 10:00am EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series

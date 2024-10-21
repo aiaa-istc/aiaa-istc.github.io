@@ -39,6 +39,33 @@ For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2024 Oct 21, 3:22pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Dr. Dimitra Panagou's seminar Tuesday October 29 at 12:00pm ET on Zoom!
+
+**Speaker:** Dimitra Panagou, Ph.D.<br>
+Associate Professor<br>
+Department of Robotics<br>
+Department of Aerospace Engineering<br>
+University of Michigan<br>
+
+**Date/time:** Tuesday, October 29th, 2024 -- 12:00pm-1:00pm Eastern time
+
+**Title:** Towards safe and resilient autonomy using synergistic control, observation and learning
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&amp;omn=89153417424](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&amp;omn=89153417424)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** Enabling autonomy for robotic and cyber-physical systems with provable safety and resilience guarantees has been an ongoing area of research. Despite significant progress over the years, there are still open challenges due to constraints (e.g., safety and time specifications; sensing, computation and communication limitations), and environmental uncertainty. This talk will present some of our recent results and ongoing work on a framework that interconnects control, planning and learning methods towards provably-correct safety-critical systems under constraints and uncertainty.
+
+**Bio:** Dimitra Panagou received the Diploma and PhD degrees in Mechanical Engineering from the National Technical University of Athens, Greece, in 2006 and 2012, respectively. In September 2014 she joined the Department of Aerospace Engineering, University of Michigan as an Assistant Professor. Since July 2022 she is an Associate Professor with the newly established Department of Robotics, with a courtesy appointment with the Department of Aerospace Engineering, University of Michigan. Prior to joining the University of Michigan, she was a postdoctoral research associate with the Coordinated Science Laboratory, University of Illinois, Urbana-Champaign (2012-2014), a visiting research scholar with the GRASP Lab, University of Pennsylvania (June 2013, Fall 2010) and a visiting research scholar with the University of Delaware, Mechanical Engineering Department (Spring 2009). Her research program spans the areas of nonlinear systems and control; multi-agent systems, autonomy and control; and aerospace robotics. She is particularly interested in the development of provably-correct methods for the safe and secure (resilient) operation of autonomous systems in complex missions, with applications in robot/sensor networks and multi-vehicle systems (ground, marine, aerial, space) under uncertainty. She is a recipient of the NASA Early Career Faculty Award, the AFOSR Young Investigator Award, the NSF CAREER Award, the George J. Huebner, Jr. Research Excellence Award, and a Senior Member of the IEEE and the AIAA.
+
+
 ### <i>News: 2024 July 21, 8:18pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series
 

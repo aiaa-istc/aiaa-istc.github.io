@@ -1,4 +1,4 @@
-/* copied from https://github.com/pages-themes/architect/blob/master/_sass/jekyll-theme-architect.scss on 2019-01-08 */
+/* copied from https://github.com/pages-themes/architect/blob/master/_sass/jekyll-theme-architect.scss on 2019-01-08, modified extensively */
 @import "normalize";
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
@@ -80,13 +80,15 @@ header h2 {
 
 #main-content {
   float: left;
-  width: 690px;
+/*  width: 690px; REMOVED, ASIDE FIX */
+  width: 940px; /* ADDED, ASIDE FIX -- note, 93% of 940px is 875px */
 }
 
 #main-content img {
   max-width: 100%;
 }
 
+/* REMOVING ASIDE...
 aside#sidebar {
   float: right;
   width: 200px;
@@ -99,6 +101,12 @@ aside#sidebar {
 
 aside#sidebar p.repo-owner,
 aside#sidebar p.repo-owner a {
+  font-weight: bold;
+}
+*/
+/* swapped over from aside */
+#main-content p.repo-owner,
+#main-content p.repo-owner a {
   font-weight: bold;
 }
 
@@ -128,6 +136,7 @@ header a.button {
   /*background: transparent url(../images/github-button.png) 0 0 no-repeat;*/
   /*background: transparent url(../../images/ISTC_logo_small.gif) 0 0 no-repeat;*/
 }
+/* REMOVING ASIDE...
 aside a.button {
   display: block;
   width: 138px;
@@ -135,7 +144,7 @@ aside a.button {
   margin-bottom: 20px;
   font-size: 21px;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
-}
+} */
 
 code, pre {
   margin-bottom: 30px;
@@ -361,6 +370,113 @@ footer a:hover {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+/* MORE MISC -- reference used for dropdown button was: https://www.w3schools.com/howto/howto_css_more_button.asp on 2024-09-09 */
+
+.inner2 { /* getting things to line up properly with grey bar &etc. */
+/*  position: relative; */ /* we need inner2 not inner because of the position argument below in submenu-content */
+  width: 940px;
+  margin: 0 auto;
+}
+
+/* Horizontal site navigation bar */
+.site-navigation {
+  overflow: hidden;
+  background-color: #666;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+/* font size as 15px and 13px? */
+
+.site-navigation a {
+  float: left;
+  font-size: 20px; /* was 16px */
+  color: #aaa;
+  text-align: center;
+  padding: 12px 14px;
+  /* padding: 12px 20px 12px 0px; /* top right bottom left */
+  text-decoration: none;
+}
+
+/* Vertical dropdown submenus for site navigation bar */
+.submenu {
+  float: left;
+  overflow: hidden;
+}
+
+/* Submenu stuff */
+.submenu .subbox {
+  font-size: 20px; /* was 16px */
+  border: none;
+  outline: none;
+  color: #aaa;
+  padding: 12px 14px; /* padding: 12px 20px 12px 0px; /* top right bottom left */
+  background-color: inherit;
+  /* The following is necessary for proper vertical alignment on phones? */
+  font-family: inherit;
+  margin: 0;
+}
+
+/* Add a colored box in the background to horizontal site navigation bar links on hover */
+.site-navigation a:hover, .submenu:hover .subbox {
+  background-color: #2e7bcf;
+}
+
+.submenu-content {
+  display: none; /* makes submenu hidden until mouseover */
+  position: absolute;
+  background-color: #666; /* #f9f9f9; */
+  min-width: 160px;
+  box-shadow: 20px 8px 16px 0px rgba(0,0,0,0.2);
+  /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+  z-index: 1;
+}
+
+.submenu-content a {
+  float: none;
+  font-size: 15px; /* added */
+  color: #aaa;
+  padding: 10px 14px; /* 12px 16px; */
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a colored box in the background to submenu links on hover */
+.submenu-content a:hover {
+  background-color: #444;
+}
+
+/* Show the submenu links on hover */
+.submenu:hover .submenu-content {
+  display: block;
+}
+
+/* reference used for caret was: https://www.labnol.org/code/20086-css-arrow-caret-symbol/ */
+.caret {
+  position: relative;
+}
+
+.caret:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-top: 10px solid #ffffff;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+}
+
+.caret:after {
+  content: '';
+  position: absolute;
+  left: 1px;
+  top: 0;
+  border-top: 9px solid #ffffff;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+}
+
+
 /* #Media Queries
 ================================================== */
 
@@ -370,7 +486,12 @@ footer a:hover {
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   .inner {
-    width: 740px;
+/*    width: 740px; */
+    width: 93%; /* ADDED, ASIDE FIX */
+  }
+  .inner2 {
+/*    width: 740px; */
+    width: 93%; /* ADDED, ASIDE FIX */
   }
   header h1, header h2 {
     /*width: 340px;*/
@@ -384,8 +505,42 @@ footer a:hover {
 /*    font-size: 30px;*/
     font-size: 18px;
   }
+  
+  header { /* ADDED, ASIDE FIX */
+    padding: 20px 0;
+  }
+  header .inner { /* ADDED, ASIDE FIX */
+    position: relative;
+  }
+  header h1, header h2 { /* ADDED, ASIDE FIX */
+    width: 100%;
+  }
+  header a.button { /* ADDED, ASIDE FIX */
+    position: relative;
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 5px 10px;
+    margin-top: 15px;
+    font-size: 13px;
+    line-height: 1;
+    color: #2879d0;
+    text-align: center;
+    background-color: #9ddcff;
+    background-image: none;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+  }
+  header a.button small { /* ADDED, ASIDE FIX */
+    display: inline;
+    font-size: 13px;
+  }
+  
   #main-content {
-    width: 490px;
+/*    width: 490px; */
+    float: none; /* ADDED, ASIDE FIX */
+    width: 100% ! important; /* ADDED, ASIDE FIX */
   }
   #main-content h1:before,
   #main-content h2:before,
@@ -402,6 +557,9 @@ footer a:hover {
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   .inner {
+    width: 93%;
+  }
+  .inner2 {
     width: 93%;
   }
   header {
@@ -442,6 +600,7 @@ footer a:hover {
     display: inline;
     font-size: 13px;
   }
+  /* REMOVING ASIDE...
   #main-content,
   aside#sidebar {
     float: none;
@@ -456,6 +615,11 @@ footer a:hover {
   }
   aside#sidebar a.button {
     display: none;
+  }
+  */
+  #main-content {
+    float: none;
+    width: 100% ! important;
   }
   #main-content h1:before,
   #main-content h2:before,

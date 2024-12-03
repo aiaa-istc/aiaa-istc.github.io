@@ -39,6 +39,31 @@ For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2024 Dec 2, 8:08pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Dr. Isaac Weintraub's seminar Friday December 6 at 1:00pm ET on Zoom!
+
+**Speaker:** Isaac E. Weintraub, PhD<br>
+Aerospace Systems Directorate<br>
+Air Force Research Laboratory<br>
+
+**Date/time:** Friday, December 6th, 2024 -- 12:00pm-1:00pm Eastern time
+
+**Title:** Mission Driven Autonomy
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=83071345164](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=83071345164)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** In the midst of growing near peer adversary threats, it is clear the United States will leverage autonomous assets to establish and maintain air superiority. Toward this end, this seminar focuses on enabling techniques for posing and solving critical aspects for future engagements. Methods such as differential game theory and optimal control theory can and have been used to obtain strategies for weapon engagement zone denial, optimize killing, mutual support, and vehicle control and coordination. This seminar demonstrates some of the recent advances in these relevant problems and highlights first-principles based approaches for posing and solving them.
+
+**Bio:** Dr. Isaac Weintraub is a senior electronics engineer at The Air Force Research Laboratory. He received his PhD in Electrical Engineering from the Air Force Institute of Technology in 2021, MS in Electrical Engineering from the University of Texas at Arlington in 2011, and BS in Mechanical Engineering from Rose-Hulman Institute of Technology in 2009. He is a senior member in the American Institute of Aeronautics and Astronautics (AIAA) and a senior member of the Institute of Electrical and Electronics Engineers (IEEE). He is currently serving as the Technical Discipline Chair and Local Workshop Chair for the AIAA Intelligent Systems Technical Committee.
+
+
 ### <i>News: 2024 Oct 21, 3:22pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series
 

@@ -48,7 +48,7 @@ Don't miss Dr. Isaac Weintraub's seminar Friday December 6 at 1:00pm ET on Zoom!
 Aerospace Systems Directorate<br>
 Air Force Research Laboratory<br>
 
-**Date/time:** Friday, December 6th, 2024 -- 12:00pm-1:00pm Eastern time
+**Date/time:** Friday, December 6th, 2024 -- 1:00pm-2:00pm Eastern time
 
 **Title:** Mission Driven Autonomy
 

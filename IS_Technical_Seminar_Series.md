@@ -8,6 +8,13 @@ The Intelligent Systems Technical Seminar Series has been opened up to the gener
 
 Keep an eye out on our LinkedIn / Facebook / AIAA Engage pages for announcements of the next seminars, or watch our public Google Calendar!
 
+* * *
+
+* TOC
+{:toc}
+
+* * *
+
 ### Srikanth Saripalli -- Wednesday, June 14, 2023
 **Speaker:** Professor Srikanth Saripalli<br>
 Mechanical Engineering department<br>

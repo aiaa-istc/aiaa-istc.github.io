@@ -15,23 +15,18 @@ layout: default
 * * *
 * * *
 
-## 2024 Intelligent Systems Workshop -- University of Nebraska, June 25-26, 2024 (save the date!)
-The 9th annual Intelligent Systems Workshop will take place on June 25-26, 2024 at the University of Nebraska-Lincoln, in Lincoln, NE. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems. <!--(Please note that this workshop will be an in-person only event.)-->
+## 2025 Intelligent Systems Workshop -- Holiday Inn Fairborn, June 3-4, 2025 (save the date!)
+The 10th annual Intelligent Systems Workshop will take place on June 3-4, 2025 at the Holiday Inn Fairborn, in Dayton, OH. The workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems. <!--(Please note that this workshop will be an in-person only event.)-->
 
-This year's workshop theme: Safety in Intelligent Aerospace Systems
+This year's workshop theme: Misson-Centric Autonomy
 
-Confirmed keynote speakers include Dr. Jim Paunicka (Technical Fellow, Autonomy Capabilities Team, Boeing CTO Office) and Dr. Steve Chien (JPL Fellow, Supervisor of the Artificial Intelligence Group).
+<!-- Confirmed keynote speakers include Dr. ? ? (?, ? Team, ?) and Dr. ? (?, ?). -->
 
-Registration is closed -- we hope you all enjoyed the workshop!
+<!-- Registration is closed -- we hope you all enjoyed the workshop! -->
+<!-- Registration is available here! [https://???/???.html](https://???/.html) -->
+Registration is coming soon!
 
-<!-- Registration is available here! [https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html](https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html)
--->
-
-<p style="color:red;"><i><b>Please see the UNL website for the agenda, workshop registration, and the most up-to-date information! <a href="https://nimbus.unl.edu/aiaa-istc-workshop">https://nimbus.unl.edu/aiaa-istc-workshop</a></b></i></p>
-
-<!--
-For more information, see: [https://aiaa-istc.github.io/2024_IS_Workshop.html](https://aiaa-istc.github.io/2024_IS_Workshop.html) or [https://nimbus.unl.edu/aiaa-istc-workshop](https://nimbus.unl.edu/aiaa-istc-workshop)
--->
+For more information, see: [https://aiaa-istc.github.io/2025_IS_Workshop.html](https://aiaa-istc.github.io/2025_IS_Workshop.html)
 
 * * *
 * * *

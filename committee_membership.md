@@ -90,7 +90,11 @@ Objective:  To determine and organize the technical content at the annual Intell
 
 Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair), <a href="mailto:nisar.ahmed@colorado.edu">Nisar Ahmed</a> (Co-Chair), <a href="mailto:justin.bradley@unl.edu">Justin Bradley</a> (Local Chair)
 
+---
+
 ## Member Listing
+
+**Current Members:**
 
 | <b>Full Name</b>         | <b>Institution</b>       | <b>AIAA Membership</b>  | <b>Position</b>        |
 |:-------------------------|:-------------------------|:------------------------|:-----------------------|
@@ -143,6 +147,7 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair), <a href="
 | Yum Huafeng | Department of Transportation | Member | New TC Member |
 | Yucelen, Tansel | University of South Florida | Associate Fellow | Conference Planning, Publications |
 
+---
 
 **Friend of the TC:**
 
@@ -150,6 +155,7 @@ Contact Info: <a href="mailto:dselva@tamu.edu">Dani Selva</a> (Chair), <a href="
 |:-------------------------|:-------------------------|:------------------------|:-----------------------|
 | Goecks, Vinicius | Texas A&M University | Associate Member | 2018 |
 
+---
 
 **Alumni:**
 

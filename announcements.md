@@ -13,6 +13,8 @@ These are announcements originally posted to [the main page](https://aiaa-istc.g
 
 * * *
 
+## 2022 Announcements:
+
 ### <i>News: 2022 December 13, 9:30pm EST (by Cat McGhan)</i>
 #### ISTC Technical Seminar Series -- Chetan S. Kulkarni, on Zoom
 ISTC Technical Seminar Series                                                                 
@@ -96,6 +98,12 @@ A specific list of topics is as follows:
 **More details:**
 https://aiforspace.github.io/2022/
 
+
+* * *
+
+
+## 2021 Announcements:
+
 ### <i>News: 2021 December 20, 9:50pm EST (by Cat McGhan)</i>
 #### Jon How's keynote at SciTech 2022
 Jon How's keynote at SciTech 2022
@@ -145,6 +153,12 @@ Paper deadline: extended to 11:59pm 20 Mar 2021 (PST)
 
 Submission details: [https://aiforspace.github.io/2021/#cfp](https://aiforspace.github.io/2021/#cfp)
 
+
+* * *
+
+
+## 2020 Announcements:
+
 ### <i>News: 2020 August 19, 9:35pm EST (by Cat McGhan)</i>
 #### Two of our TC members were featured in a news article recently!
 Two of our TC members were featured in a news article recently!
@@ -162,11 +176,23 @@ The call for abstracts for the student talks and poster competition for the 2020
 
 Pdf flyer is available <a href=""><b>here</b></a>!
 
+
+* * *
+
+
+## 2019 Announcements:
+
 ### <i>News: 2019 January 08, 4:40pm EST (by Cat McGhan)</i>
 #### 2018 IS Workshop presentation links are online
 Presentations from the 2018 IS Workshop are online and available at [this location](https://drive.google.com/drive/folders/138iWtCOfJi4zUTtg_1If8hshjnTZXC9G?usp=sharing).
 
 The 2019 IS Workshop page is also online! View it at: [https://istcws2019.org/](https://istcws2019.org/)
+
+
+* * *
+
+
+## 2018 Announcements:
 
 ### <i>News: 2018 September 13, 1:39am EST (by Cat McGhan)</i>
 #### 2018 IS Workshop presentation links coming soon!
@@ -176,7 +202,95 @@ Links to the presentations from the 2018 IS Workshop will be made available at t
 #### AIAA Sharepoint site issues
 The AIAA Sharepoint site seems to have been having issues for a couple of weeks now. Not sure what's going on, but it's sped up our move to another webhost for public dissemination of ISTC-related information.
 
+
+* * *
+
+
+## Wayback Machine site:
+
+### Wayback Machine Version of Old Website -- January 2, 2018 version
+
 If you want to see the old site as of January 2, 2018 (prior to recent updates), you can visit it via the Internet Archive's Wayback Machine at [this location](https://web.archive.org/web/20180102071918/https://info.aiaa.org/tac/isg/ISTC/default.aspx).
+
+
+* * *
+
+
+## Stubs for old announcements (2011-2017):
+
+These are old announcements from the previous website, and will be filled in soon!
+
+### 2017 Intelligent Systems Workshop -- University of Michigan, July 26-27
+#### 7/3/2017 4:56 PM (by ?)
+
+### ISTC Members Selected for AIAA Fellow, Associate Fellow	
+#### 2/3/2017 11:27 AM (by ?)
+
+### Roadmap for Intelligent Systems in Aerospace Released
+#### 1/14/2017 2:02 PM (by ?)
+
+### 2016 Intelligent Systems Workshop -- NASA Langley, Aug. 3-5
+#### 10/11/2016 5:38 PM (by ?)
+
+### ISTC 2015 Workshop: Intelligent Systems - Enabling Future Autonomy
+#### 10/11/2016 5:38 PM (by ?)
+
+### Kristin Rozier on NASA TV
+#### 8/12/2014 2:31 PM (by Nicholas D. Ernest)
+Our own Kristin Rozier has been aired on NASA TV presenting her work on Formal Methods V&V.  Her presentation is titled "No More Helicopter Parenting: Intelligent Autonomous UAS's". <a href="https://web.archive.org/web/20150920075343/http://youtu.be/FTxT-fbCleA?t=1s">Watch the video on Youtube here.</a>
+
+### 2014 Intelligent Systems Workshop	
+#### 7/14/2014 9:45 AM (by ?)
+
+### Two AIAA JAIS special issues:	
+#### 12/5/2013 8:18 AM (by ?)
+
+### Juddges needed for the 2013-2014 Spirit of Innovation Challenge
+#### 10/28/2013 7:37 AM (by ?)
+Attachment
+
+### ISTC Meeting Aug 19th 7pm EST
+#### 8/18/2013 10:17 AM (by ?)
+
+### NASA ARMD Research Opportunities in Aeronautics (ROA) 2013
+#### 7/15/2013 1:26 PM (by ?)
+
+### AIAA Joins with S&E Societies to Ask Congress to Modify Government Travel Rules
+#### 6/26/2013 3:26 PM (by ?)
+
+### Position Opening: Chair or Senior Lecturer in Computational Biology
+#### 6/26/2013 3:25 PM (by ?)
+
+### NASA Call for Proposals for Leading Edge Aeronautics
+#### 6/3/2013 8:40 AM (by ?)
+
+### Inspiring words from Lotfi A Zadeh - father of fuzzy logic
+#### 6/3/2013 7:36 AM (by ?)
+
+### ISTC member Missy Cummings on The Daily Show
+#### 1/28/2013 11:11 PM (by ?)
+
+### Lotfi Zadeh, inventor of fuzzy logic, wins the BBVA Foundation Frontiers of Knowledge Award for enabling computers and machines to behave and decide like human beings
+#### 1/17/2013 10:55 AM (by ?)
+
+### Reminder Call for Highlights: Aerospace America Intelligent
+#### 1/17/2013 10:51 AM (by ?)
+
+### 2012 Spring Newsletter is out!
+#### 5/14/2012 12:53 PM (by ?)
+
+### Video Contest - What is an IS?
+#### 4/5/2012 1:14 PM (by ?)
+
+### 2011 Infotech@Aerospace Awards
+#### 4/15/2011 7:54 AM (by ?)
+
+### Webpage Working Group Meeting at Infotech@Aerospace 2011
+#### 3/3/2011 11:54 AM (by ?)
+
+### SharePoint Conversion
+#### 3/3/2011 11:53 AM (by ?)
+
 
 * * *
 * * *

@@ -34,6 +34,32 @@ For more information, see: [https://aiaa-istc.github.io/2025_IS_Workshop.html](h
 
 ## Announcements:
 
+### <i>News: 2025 Feb 4, 3:38pm EDT (by Cat McGhan)</i>
+ISTC Technical Seminar Series
+
+Don't miss Dr. Nathaniel Hamilton's seminar Friday February 7 at 1:00pm ET on Zoom!
+
+**Speaker:** Nathaniel Hamilton, PhD<br>
+Safe Reinforcement Learning Lead<br>
+Autonomy Capability Team (ACT3)<br>
+Air Force Research Laboratory<br>
+
+**Date/time:** Friday, February 7th, 2025 -- 1:00pm-2:00pm Eastern time
+
+**Title:** Safe and Robust Autonomy
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=88346108786](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=88346108786)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** Autonomous systems that are capable of operating self-sufficiently and independent of external control are crucial for the space domain. The biggest advancements in autonomy have been limited to simulated systems, but recent work has demonstrated promise in the real world. However, there are still issues with ensuring the autonomy acts safely and in a trustworthy manner. To this end, we must ensure the safe and robust transfer of high- performing autonomy from the simulated environments they are trained in, to the real-world, physical systems. In this talk, we overview our recent work in training and deploying safe Neural Network Controllers (NNCs) and bringing the solutions from simulation to the real world.
+
+**Bio:** Nathaniel "Nate" Hamilton is the Safe Reinforcement Learning Lead on the Safe Autonomy Team at the Air Force Research Laboratory' Autonomy Capability Team (ACT3). There he investigates Safe Reinforcement Learning (SafeRL) approaches and how we can better integrate safety into the learning process to enable safe, trusted, and certifiable autonomous and learning-enabled controllers for aircraft and spacecraft applications. His previous experience includes studying how Run Time Assurance (RTA) impacts the learning and performance of SafeRL agents, and work in simulation to real-world (sim2real) transfer for learning-enabled controllers. In 2019, Dr. Hamilton was awarded the National Defense Science and Engineering Graduate (NDSEG) Fellowship. Dr. Hamilton has a BS in Electrical and Computer Engineering from Lipscomb University, and an MS and Ph.D. in Electrical Engineering from Vanderbilt University.
+
+
 ### <i>News: 2024 Dec 2, 8:08pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series
 

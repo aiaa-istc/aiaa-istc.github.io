@@ -18,9 +18,9 @@ Keynote speakers are coming soon! <!-- Confirmed keynote speakers include Dr. Ji
 (Please note that this workshop will be an in-person only event.)
 -->
 
-Registration is coming soon!
+<!-- Registration is coming soon! -->
 <!-- Pre-registration (optional, until May 15) - reserve a ticket now, pay later!: [link to form]() -->
-<!-- Registration is open! Click here: [https://???/???.html](https://???/???.html) -->
+Registration is open! Click here: [https://commerce.cashnet.com/ohioemkt10](https://commerce.cashnet.com/ohioemkt10) (May take some time to load.)
 <!-- <b>Registration: is open!</b> ($?? for regular attendees and $?? for students) Register <a href="">here</a>!</i> -->
 <!--<i><b>Registration: is closed!</b> We hope you all enjoyed attending!<i>-->
 

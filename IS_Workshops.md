@@ -8,7 +8,7 @@ The Intelligent Systems Workshop is an important part of the AIAA Intelligent Sy
 
 ### 2025 Intelligent Systems Workshop -- Holiday Inn Fairborn, June 3-4
 
-<a href="/2024_IS_Workshop.html">AIAA Intelligent Systems Workshop, June 3-4, 2025</a><br>
+<a href="/2025_IS_Workshop.html">AIAA Intelligent Systems Workshop, June 3-4, 2025</a><br>
 Holiday Inn Fairborn
 
 The 10th annual Intelligent Systems Workshop will take place on June 3-4, 2024 at the Hliday Inn Fairborn in Dayton, OH.

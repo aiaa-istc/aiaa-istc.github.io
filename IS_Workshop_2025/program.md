@@ -3,21 +3,23 @@ layout: default2025ws
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>
-<h3 align="center">Dates: June 3-4, 2025</h3>
-<h3 align="center">Holiday Inn Fairborn, Dayton, OH</h3>
+<h3 align="center">POSTPONED UNTIL 2026</h3> <!-- Dates: June 3-4, 2025 -->
+<!-- <h3 align="center">Holiday Inn Fairborn, Dayton, OH</h3> -->
 
-The 10th annual Intelligent Systems Workshop will take place June 3-4, 2025, at the Holiday Inn Fairborn in Dayton, OH.
+Due to the restrictions on government travel and training, we made the call to officially cancel the AIAA Intelligent Systems Workshop on 3-4 June, yesterday (as of March 20, 2025). It’s sad especially given our all-star lineup of speakers! Hopefully things will settle down soon and we can plan something for next year.
+
+<!-- The 10th annual Intelligent Systems Workshop will take place June 3-4, 2025, at the Holiday Inn Fairborn in Dayton, OH. -->
 
 <h3 align="center" style="color:red;">This year's workshop theme: Misson-Centric Autonomy</h3>
 
 ## Program
 
-Keynote speakers are coming soon!
+<!-- Keynote speakers are coming soon! -->
 <!-- Confirmed keynote speakers include Dr. ? ? (?, ?, ?) and Dr. ? ? (?, ?). -->
 
 <!-- Registration is available here! [https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html](https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html) -->
 
-More info is coming soon!
+<!-- More info is coming soon! -->
 
 <!-- The final agenda is available here: [https://???/???.html](https://???/???.html) -->
 <!-- The final agenda is below. -->

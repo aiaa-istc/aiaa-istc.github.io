@@ -3,11 +3,11 @@ layout: default2025ws
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>
-<h3 align="center">Dates: June 3-4, 2025</h3>
-<h3 align="center">Holiday Inn Fairborn, Dayton, OH</h3>
+<h3 align="center">POSTPONED UNTIL 2026</h3> <!-- Dates: June 3-4, 2025 -->
+<!-- <h3 align="center">Holiday Inn Fairborn, Dayton, OH</h3> -->
 
 ## Student competitions
-More information is coming soon!
+<!-- More information is coming soon! -->
 <!-- Abstract submission is coming soon! -->
 
 <!--

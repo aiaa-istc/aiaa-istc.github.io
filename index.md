@@ -36,6 +36,34 @@ Due to the restrictions on government travel and training, we made the call to o
 
 ## Announcements:
 
+### <i>News: 2025 Apr 26, 5:21pm EDT (by Cat McGhan)</i>
+
+ISTC Technical Seminar Series
+
+Don't miss Dr. Saptarshi Bandyopadhyay's seminar Tuesday April 29 at 12:00pm ET on Zoom!
+
+**Speaker:** Saptarshi Bandyopadhyay, PhD<br>
+NASA Jet Propulsion Laboratory<br>
+California Institute of Technology<br>
+
+**Date/time:** Tuesday, April 29th, 2025 -- 12:00pm-1:00pm Eastern time
+
+**Title:** Multi-Spacecraft Concept and Autonomy Tool (MuSCAT): An open-source low-fidelity simulator to develop and test spacecraft autonomy
+
+**Meeting link:** [https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=86832525066](https://aiaa.zoom.us/j/2481320441?pwd=djhZZVJITi9ja0UzRGZJM0tRN3ptZz09&omn=86832525066)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 248 132 0441<br>
+Passcode: 013418
+
+**Abstract:** Autonomy is the ability of a system (e.g. spacecraft) to achieve goals while operating independently of external control (e.g. ground operations).  This talk focuses on autonomy for JPL’s cruising and orbiting spacecraft missions; the needs, the challenges, and the future directions. I will present an open-source low-fidelity simulator called Multi-Spacecraft Concept and Autonomy Tool (MuSCAT, link: https://github.com/nasa/muscat); which provides an integrated platform for low-fidelity simulations of single/multiple cruising/orbiting spacecraft’s navigation, attitude determination and control, power, communication (both direct-to-Earth and inter-spacecraft), science instruments and testing autonomy algorithms. I will discuss the evolution of the open-source MuSCAT simulator across various projects, its current state-of-the-art capabilities, and various challenges that lie ahead.
+
+**Bio:** Dr. Saptarshi Bandyopadhyay is a robotics technologist at the NASA Jet Propulsion Laboratory, California Institute of Technology, where he develops novel algorithms for future autonomous and multi-agent missions. In 2020, he was named a NASA NIAC fellow for his work on the Lunar Crater Radio Telescope on the far side of the Moon. He received his Ph.D. in Aerospace Engineering in 2016 from the University of Illinois at Urbana-Champaign, USA, where he specialized in probabilistic swarm guidance and distributed estimation. He earned his bachelor's and master's degrees in Aerospace Engineering in 2010 from the Indian Institute of Technology Bombay, India, where as an undergraduate, he co-founded and led the institute's student satellite project, Pratham, which was launched into low Earth orbit in September 2016. His engineering expertise stems from a long-standing interest in the science underlying space missions, since winning the gold medal for India at the 9th International Astronomy Olympiad held in Ukraine in 2004.
+
+Currently, Saptarshi is focused on conceptualizing space missions that can leverage the unique capabilities of multiple spacecraft. His research interests include studying the evolution of the Solar System by probing the interiors of small bodies, using interferometry to image exoplanets, and gaining insights into the origin of life and our place in the Universe. He has published more than 70 papers in journals and refereed conferences.
+
+
 ### <i>News: 2025 Feb 4, 3:38pm EDT (by Cat McGhan)</i>
 ISTC Technical Seminar Series
 

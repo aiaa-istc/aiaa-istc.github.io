@@ -121,6 +121,7 @@ Contact Info: <a href="mailto:">Jay Wilhelm</a> (Chair), <a href="mailto:">Luca 
 | Lacher, Andrew | NASA Langley Research Center | Associate Fellow | Awards |
 | Lampton, Amanda | Systems Technology, Inc | Associate Fellow | Conference, Workshop |
 | Lombaerts, Thomas | NASA Ames / SGT | Associate Fellow | Conference, PDE&O |
+| McGhan, Catharine | . | Senior Member | PDE&O, Communications |
 | McLain, Timothy | Brigham Young University | Associate Fellow | Awards, Workshop |
 | McQuinn, Cassie-Kay | Texas A&M University | Student | Conference, PDE&O |
 | Moncayo, Hever | Embry-Riddle Aeronautical University | Associate Fellow | Conference, Workshop |
@@ -171,7 +172,6 @@ Contact Info: <a href="mailto:">Jay Wilhelm</a> (Chair), <a href="mailto:">Luca 
 | Hays, Chris | . | . | . | . |
 | Hobbs, Kerianne | Air Force Research Laboratory | Associate Fellow | 2017 | Publications, Workshop |
 | Lehman, Hannah | Texas A&M University | Student Member | 2021 | PDE&O, Workshop |
-| McGhan, Catharine | . | Senior Member | 2009 | PDE&O, Communications |
 | Muvva, Krishna | . | . | . | . |
 | Nagarajan, Pranav | . | . | . | . |
 | Rozier, Kristin | Iowa State University | Associate Fellow | 2008 | . |

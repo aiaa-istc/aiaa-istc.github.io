@@ -36,6 +36,31 @@ Due to the restrictions on government travel and training, we made the call to o
 
 ## Announcements:
 
+### <i>News: 2026 Feb 9, 11:00pm EDT (by Cat McGhan)</i>
+
+ISTC Technical Seminar Series
+
+Don't miss Dr. Donald Haryford Costello's seminar Thursday February 19 at 1:00pm ET on Zoom!
+
+**Speaker:** Donald Haryford Costello, PhD<br>
+University of Maryland<br>
+
+**Date/time:** Thursday, February 19th, 2026 -- 1:00pm-2:00pm Eastern time
+
+**Title:** Enabling Autonomous Aerial Systems
+
+**Meeting link:** [https://aiaa.zoom.us/j/86789421638?pwd=YvXzS5YPooBAwG3a79NGozzfF7WopB.1](https://aiaa.zoom.us/j/86789421638?pwd=YvXzS5YPooBAwG3a79NGozzfF7WopB.1)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 867 8942 1638<br>
+Passcode: 575322
+
+**Abstract:** The future of transportation is uncrewed, and ultimately autonomous. However, current standards and methods of compliance are not designed for certifying systems without a human in or on the loop. This talk will focus on ongoing efforts at the UMD MATRIX Lab dedicated to defining standards, metrics, and methods of compliance for an autonomous system to take actions currently reserved for fully qualified humans. In particular, the talk will focus on enabling autonomous aerial refueling and autonomous drone integration onto naval vessels in support of United States Naval Aviation and NAWCAD. Additionally, the talk will highlight collaboration opportunities with the UMD MATRIX Lab.
+
+**Bio:** Dr. "Bucket" Costello received the B.S. degree in systems engineering from the United States Naval Academy in 2000, the M.A.S in aeronautical science from Embry-Riddle Aeronautical University, Daytona Beach in 2005, the M.S. in aeronautical engineering from the Air Force Institute of Technology in 2009, the M.S. in systems engineering from the Naval Post Graduate School, Monterey 2011, and the Ph.D. in mechanical engineering from the University of Maryland, College Park, MD, USA in 2020. He served as a Naval Aviator, Test Pilot, and Permanent Military Professor in the United States Navy from 2000-2025. His academic positions have included Adjunct Associate Professor at Embry-Riddle Aeronautical University and Assistant Professor in the Weapons, Robotics, and Control Engineering Department at the United States Naval Academy. Currently, he is an Associate Research Professor at the MATRIX Lab, University of Maryland Clark School of Engineering at USMSM. His work focuses on the test and evaluation of unmanned and autonomous systems for practical use. Dr. Costello’s awards and honors include two Assistant Secretary of the Navy (Research, Development, and Acquisition) Dr. Delores M. Etter Top Scientists and Engineers of the Year (Group Award 2024, individual engineering 2021), and the International Test and Evaluation Association 2021 Publication Award. He is a member of the Tailhook Association, IEEE, AIAA, the International Test and Evaluation Association.
+
+
 ### <i>News: 2025 Apr 26, 5:21pm EDT (by Cat McGhan)</i>
 
 ISTC Technical Seminar Series

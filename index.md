@@ -36,6 +36,31 @@ Due to the restrictions on government travel and training, we made the call to o
 
 ## Announcements:
 
+### <i>News: 2026 Mar 16, 4:23pm EDT (by Cat McGhan)</i>
+
+ISTC Technical Seminar Series
+
+Don't miss Dr. Jueming Hu's seminar Wednesday March 18 at 1:00pm ET on Zoom!
+
+**Speaker:** Jueming Hu, PhD<br>
+University of North Dakota<br>
+
+**Date/time:** Wednesday, March 18th, 2026 -- 1:00pm-2:00pm Eastern time
+
+**Title:** AI-Assisted UAV Operations for Safe, Resilient, and Efficient Autonomy
+
+**Meeting link:** [https://aiaa.zoom.us/j/85324780221?pwd=s9EnOoBzK9dinf4awUPygDtEMDajHP.1](https://aiaa.zoom.us/j/85324780221?pwd=s9EnOoBzK9dinf4awUPygDtEMDajHP.1)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 853 2478 0221<br>
+Passcode: 151529
+
+**Abstract:** As Artificial Intelligence (AI) continues to advance, autonomous systems such as unmanned aerial vehicles (UAVs) and robotics are rapidly gaining capabilities in complex, safety-critical environments. This talk will present a three-level view of AI-assisted UAV operations, spanning vehicle control, mission-level resilience, and multi-agent coordination. At the vehicle level, I combine reinforcement learning and optimization to achieve safe and steady autonomous landing for fixed-wing aircraft. At the mission level, I develop learning-based methods to detect and mitigate GPS spoofing, with an emphasis on mission continuity under cyber attacks. At the multi-agent level, I integrate reinforcement learning with formal methods to improve learning efficiency for temporally extended missions and team behaviors. Building on these results, this talk will outline ongoing research directions toward trustworthy autonomous systems, including data-driven dynamics modeling and state estimation, control and planning in unseen environments, and runtime monitoring and mitigation.
+
+**Bio:** Dr. Jueming Hu is an assistant professor in the Department of Mechanical Engineering at the University of North Dakota (UND). She received her Ph.D. and M.S. degrees in Mechanical Engineering from Arizona State University, as well as a B.S. degree in Mechanical Engineering from Southeast University, China. Before joining UND, she was a postdoctoral researcher at Texas A&M University and Arizona State University. Dr. Hu's research interests include AI, optimization, and formal methods and their applications in cyber-physical systems.
+
+
 ### <i>News: 2026 Feb 9, 11:00pm EDT (by Cat McGhan)</i>
 
 ISTC Technical Seminar Series

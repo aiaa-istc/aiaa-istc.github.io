@@ -36,6 +36,31 @@ Due to the restrictions on government travel and training, we made the call to o
 
 ## Announcements:
 
+### <i>News: 2026 May 26, 2:50pm EDT (by Cat McGhan)</i>
+
+ISTC Technical Seminar Series
+
+Don't miss Dr. Peng Jiang's seminar this Wednesday May 27 at 1:00pm ET on Zoom!
+
+**Speaker:** Peng Jiang, PhD<br>
+University of Nebraska at Omaha<br>
+
+**Date/time:** Wednesday, May 27th, 2026 -- 1:00pm-2:00pm Eastern time
+
+**Title:** Enhancing UAV Localization and Security in GPS-Challenged Environments
+
+**Meeting link:** [https://aiaa.zoom.us/j/87451066169?pwd=hUOobrtu6979KIN2hgntVPKJsO8LZ8.1](https://aiaa.zoom.us/j/87451066169?pwd=hUOobrtu6979KIN2hgntVPKJsO8LZ8.1)<br>
+Dial by your location<br>
+877 853 5257 US Toll-free<br>
+888 475 4499 US Toll-free<br>
+Meeting ID: 874 5106 6169<br>
+Passcode: 174159
+
+**Abstract:** Unmanned aerial vehicles (UAVs) rely on GPS and wireless communications for navigation and coordination, making them vulnerable to spoofing, signal manipulation, and other attacks. This talk presents a multi-modal approach to UAV security, fusing data from cameras, LiDAR, IMUs, geospatial maps, and wireless signals to detect compromised positioning and communication channels. The research highlights emerging UAV attack surfaces and demonstrates how integrated sensing and AI-driven analysis can enhance resilience, operational safety, and trustworthiness in adversarial or GPS-challenged environments.
+
+**Bio:** Dr. Peng Jiang is an Assistant Professor of Cybersecurity at the University of Nebraska at Omaha. His research focuses on securing UAVs, autonomous vehicles, and other cyber–physical systems by developing intelligent, multi-modal methods for detecting and mitigating emerging threats in navigation, wireless communications, and perception. He holds a B.S. in Communication Engineering (Chongqing University of Posts and Telecommunications) and an M.E. and Ph.D. in Electrical and Computer Engineering (Old Dominion University). He has received the NSF CRII Award, the UNO Research and Creative Activity Award, and the PEARC 2025 Best Paper Award.
+
+
 ### <i>News: 2026 Mar 16, 4:23pm EDT (by Cat McGhan)</i>
 
 ISTC Technical Seminar Series

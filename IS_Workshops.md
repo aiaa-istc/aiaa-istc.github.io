@@ -6,14 +6,20 @@ layout: default
 
 The Intelligent Systems Workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
 
-### 2025 Intelligent Systems Workshop -- Holiday Inn Fairborn, June 3-4</strike> -- POSTPONED UNTIL 2026
+### 2026 Intelligent Systems Workshop -- Holiday Inn Fairborn, June 3-4
 
-<a href="">AIAA Intelligent Systems Workshop, <strike>June 3-4, 2025</a></strike> -- POSTPONED UNTIL 2026 <br>
+
+
+More information is available <a href="/2026_IS_Workshop.html">here</a>.
+
+### 2025 Intelligent Systems Workshop -- <strike>Holiday Inn Fairborn, June 3-4</strike> -- POSTPONED UNTIL 2026
+
+<a href="2025_IS_Workshop.html">AIAA Intelligent Systems Workshop, <strike>June 3-4, 2025</strike></a> -- POSTPONED UNTIL 2026 <br>
 <strike>Holiday Inn Fairborn</strike>
 
-The 10th annual Intelligent Systems Workshop <strike>will take place on June 3-4, 2024 at the Hliday Inn Fairborn in Dayton, OH.</strike> -- is POSTPONED UNTIL 2026.
+The 10th annual Intelligent Systems Workshop <strike>will take place on June 3-4, 2024 at the Holiday Inn Fairborn in Dayton, OH.</strike> -- is POSTPONED UNTIL 2026.
 
-Due to the restrictions on government travel and training, we made the call to officially cancel the AIAA Intelligent Systems Workshop on 3-4 June, yesterday (as of March 20, 2025). It’s sad especially given our all-star lineup of speakers! Hopefully things will settle down soon and we can plan something for next year.
+Due to the restrictions on government travel and training, we made the call to officially cancel the AIAA Intelligent Systems Workshop on 3-4 June (as of March 20, 2025). It’s sad especially given our all-star lineup of speakers! Hopefully things will settle down soon and we can plan something for next year.
 
 <!-- More information is available <a href="/2025_IS_Workshop.html">here</a>. -->
 

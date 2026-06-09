@@ -6,7 +6,7 @@ layout: default2025ws
 <h3 align="center">POSTPONED UNTIL 2026</h3> <!-- Dates: June 3-4, 2025 -->
 <!-- <h3 align="center">Holiday Inn Fairborn, Dayton, OH</h3> -->
 
-Due to the restrictions on government travel and training, we made the call to officially cancel the AIAA Intelligent Systems Workshop on 3-4 June, yesterday (as of March 20, 2025). It’s sad especially given our all-star lineup of speakers! Hopefully things will settle down soon and we can plan something for next year.
+Due to the restrictions on government travel and training, we made the call to officially cancel the AIAA Intelligent Systems Workshop on 3-4 June (as of March 20, 2025). It’s sad especially given our all-star lineup of speakers! Hopefully things will settle down soon and we can plan something for next year.
 
 <!--The 10th annual Intelligent Systems Workshop will take place June 3-4, 2025, at the Holiday Inn Fairborn in Dayton, OH.
 

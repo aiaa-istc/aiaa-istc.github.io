@@ -1,6 +1,7 @@
-# To test locally on Ubuntu 22.04, install the following:
+# To test locally on Ubuntu 24.04 or 26.04, install the following:
 sudo apt install ruby-all-dev
-sudo apt install python3-is-python-dev build-essential dos2unix
+# sudo apt install python3-is-python-dev # not needed for Ubuntu 26.04, needed for Ubuntu 22.04 / 24.04
+sudo apt build-essential dos2unix
 sudo apt install zlib1g-dev
 sudo apt install ruby-bundler
 sudo apt install libyaml-dev # required for psych gem to install without errors (needed for architect gem)
@@ -18,8 +19,8 @@ sudo gem install bundler
 sudo gem install rake
 # architect seems to require rake now, via architect -> coffee-rails -> railities -> rake
 # you may also need to change the config path for bundler if you run into issues with 'bundle install' complaining about write access, a la something like:
-#mkdir ~/Documents/bundleconfig
-#bundle config set --local path '~/Documents/bundleconfig'
+mkdir ~/Documents/bundleconfig
+bundle config set --local path '~/Documents/bundleconfig'
 
 # To test locally once dependencies are meet, run the following:
 git clone https://github.com/aiaa-istc/aiaa-istc.github.io.git
@@ -33,7 +34,7 @@ firefox &
 # and browse to: localhost:4000
 # in order to see the page
 # could do it as:
-#firefox https://localhost:4000 &
+#firefox http://localhost:4000 &
 # use Ctrl-C in the jekyll server window to stop
 
 # note that if you delete the original git clone pulldown of the repo,

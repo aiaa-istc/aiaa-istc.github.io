@@ -6,9 +6,12 @@ layout: default
 
 The Intelligent Systems Workshop is an important part of the AIAA Intelligent Systems Technical Committee (ISTC) annual activities and provides an informal, unclassified, international forum for the exchange of ideas and information on intelligent systems.
 
-### 2026 Intelligent Systems Workshop -- Holiday Inn Fairborn, June 3-4
+### 2026 Intelligent Systems Workshop -- Digital Transformation Center, August 12-13
 
+<a href="/2026_IS_Workshop.html">AIAA Intelligent Systems Workshop, August 12-13, 2026</a><br>
+Digital Transformation Center, Dayton, OH
 
+The 10th annual Intelligent Systems Workshop will take place August 12-13, 2026, at the Digital Transformation Center in Dayton, OH.
 
 More information is available <a href="/2026_IS_Workshop.html">here</a>.
 

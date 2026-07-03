@@ -8,7 +8,7 @@ layout: default2026ws
 
 The 10th annual Intelligent Systems Workshop will take place August 12-13, 2026, at the Digital Transformation Center in Dayton, OH.
 
-<p style="color:red;"><i><b>Please see this website for the agenda, workshop registration, and the most up-to-date information! [https://jaywilhelm.github.io/istcworkshop2026/](https://jaywilhelm.github.io/istcworkshop2026/)</b></i></p>
+<p style="color:red;"><i><b>Please see this website for the agenda, workshop registration, and the most up-to-date information! <a href="https://jaywilhelm.github.io/istcworkshop2026/">https://jaywilhelm.github.io/istcworkshop2026/</b></i></p>
 
 **This year's workshop themes:**  
 **1.  Autonomy at Scale**  
@@ -31,7 +31,7 @@ Join us for two days of technical sessions covering a wide range of topics. Enga
 <!-- OLD: <i><b>Registration: is closed!</b> We hope you all enjoyed attending!<i> -->
 
 <!--Program is coming soon!-->
-Program: the final agenda is now available <a href="https://jaywilhelm.github.io/istcworkshop2026/#schedule">here</a>! -->
+Program: the final agenda is now available <a href="https://jaywilhelm.github.io/istcworkshop2026/#schedule">here</a>!
 
 ### Agenda (last updated 2026-07-02, see main website for most recent version): ###
 

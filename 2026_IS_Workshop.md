@@ -25,7 +25,7 @@ Join us for two days of technical sessions covering a wide range of topics. Enga
 (Please note that this workshop will be an in-person only event.)
 
 <!-- Registration is coming soon! ($74 for lunch days 1 & 2) -->
-<b>Registration is open!</b> ($20 Landing Fee until August 1st, then $75) Register <a href="https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html">here</a>!  
+<b>Registration is open!</b> ($20 Landing Fee until August 1st, then $75) Register <a href="https://commerce.cashnet.com/ohioemkt15">here</a>!  
 (Includes lunch on Day 1. No fee for student posters.)
 
 <!-- OLD: <i><b>Registration: is closed!</b> We hope you all enjoyed attending!<i> -->

@@ -13,7 +13,8 @@ Digital Transformation Center, Dayton, OH
 
 The 10th annual Intelligent Systems Workshop will take place August 12-13, 2026, at the Digital Transformation Center in Dayton, OH.
 
-More information is available <a href="/2026_IS_Workshop.html">here</a>.
+<!-- More information is available <a href="/2026_IS_Workshop.html">here</a>. -->
+See this website for the most up-to-date agenda and registration: [https://jaywilhelm.github.io/istcworkshop2026/](https://jaywilhelm.github.io/istcworkshop2026/)
 
 ### 2025 Intelligent Systems Workshop -- <strike>Holiday Inn Fairborn, June 3-4</strike> -- POSTPONED UNTIL 2026
 

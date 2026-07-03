@@ -38,7 +38,7 @@ The 10th annual Intelligent Systems Workshop will take place August 12-13, 2026,
 
 <!-- For more information, see: [https://aiaa-istc.github.io/2026_IS_Workshop.html](https://aiaa-istc.github.io/2026_IS_Workshop.html) -->
 
-<p style="color:red;"><i><b>Please see this website for the agenda, workshop registration, and the most up-to-date information! [https://jaywilhelm.github.io/istcworkshop2026/](https://jaywilhelm.github.io/istcworkshop2026/)</b></i></p>
+<p style="color:red;"><i><b>Please see this website for the agenda, workshop registration, and the most up-to-date information! <a href="https://jaywilhelm.github.io/istcworkshop2026/">https://jaywilhelm.github.io/istcworkshop2026/</b></i></p>
 
 * * *
 * * *

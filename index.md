@@ -30,7 +30,7 @@ The 10th annual Intelligent Systems Workshop will take place August 12-13, 2026,
 <!-- Confirmed keynote speakers include Dr. ? ? (?, ? Team, ?) and Dr. ? (?, ?). -->
 
 <!-- Registration is coming soon! -->
-<b>Registration is open!</b> ($20 Landing Fee until August 1st, then $75) Register <a href="https://marketplace.unl.edu/engineering/aiaa-istc-workshop-2024.html">here</a>!  
+<b>Registration is open!</b> ($20 Landing Fee until August 1st, then $75) Register <a href="https://commerce.cashnet.com/ohioemkt15">here</a>!  
 (Includes lunch on Day 1. No fee for student posters.)
 
 <!-- OLD: Registration is closed -- we hope you all enjoyed the workshop! -->

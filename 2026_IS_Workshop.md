@@ -33,7 +33,7 @@ Join us for two days of technical sessions covering a wide range of topics. Enga
 <!--Program is coming soon!-->
 Program: the final agenda is now available <a href="https://jaywilhelm.github.io/istcworkshop2026/#schedule">here</a>!
 
-### Agenda (last updated 2026-07-02, see main website for most recent version): ###
+### Agenda (last revised 2026-08-13, see main website for full final version): ###
 
 **Wednesday, 12 August 2026:**
 
@@ -42,18 +42,17 @@ Program: the final agenda is now available <a href="https://jaywilhelm.github.io
 | 8:00a-8:30a | ISTC Update & Workshop Overview | Opening remarks, breaout previews, and committeee introductions |
 | 8:30a-10:30a | Member Briefs | 3-minute rapid briefs - 1-2 slides per presenter - Drop-off breakout choice |
 | 10:30a-10:40a | Networking Break | -- |
-| 10:40a-11:45a | AFRL / SpaceWERX Brief | Status update - 1-3 year research plan |
-| 11:45a-12:45p | Lunch & Student Poster Session | -- |
-| 12:45p-1:00p | Student Poster Awards | Gather breakout topic selections |
-| 1:00p-2:00p | NASA Brief | Natasha / NASA Glenn / Saptarshi |
-| 2:00p-3:00p | AFRL SBIR / STTR Office Brief | -- |
-| 3:00p-3:15p | Networking Break | -- |
+| 10:40a-11:40a | AFRL SBIR/STTR Office Panel | Marcus Bracey andNestor Levin |
+| 11:40a-12:45p | Lunch & Student Poster Session | -- |
+| 12:45p-1:15p | Student Poster Awards | Gather breakout topic selections |
+| 1:15p-2:15p | NASA AI Panel | Laura Humphrey and SaptarshiBandyopadhyay |
+| 2:15p-2:45p | Networking Break | -- |
+| 2:45p-4:00p | Industry AI panel | John Raquet, Wes Ryan, and JimPaunicka |
+| 4:00p-4:15p | Day 1 Workshop wrapup and picture | -- |
 | 3:15p-4:15p | Industry Panel | IS4S - Northrop Grumman - Boeing - Lockheed Martin |
-| 4:15p-5:00p | Student Poster Viewing | -- |
-| 4:30p-6:30p | ISTC Member Meeting | -- |
+| 4:15p-6:30p | ISTC Member Meeting | -- |
 | 6:30p-6:45p | Transit to Social Event | -- |
 | 6:45p-8:30 | Social Dinner, location TBA | -- |
-| 8:30p-10:00p | Century Bar | -- |
 
 <br>
 
@@ -61,11 +60,12 @@ Program: the final agenda is now available <a href="https://jaywilhelm.github.io
 
 | ***Start-End*** | ***Event*** | ***Notes*** |
 | :-------------- | :---------- | :------------- |
+| 8:00a-9:00a | AFRL AI Panel | Joshua Deaton, Rachel Oliver, andGreg Roth |
 | 9:00a-9:15a | Intro & Breakout Grouping | -- |
-| 9:15a-10:30a | Breakout Sessions | Theme 1: Autonomy at Scale <br> Theme 2: Human Interaction & Tasking <br> Theme 3: Anti-Autonomy / Counter-UAS <br> Theme 4: Precision Navigation & PNT <br> Theme 5: LLM / GAI & Workforce <br> Open: Other IS / Autonomy Topics|
-| 10:30a-10:45a | Networking Break | -- |
-| 10:45a-11:45a | Breakout Reporting | Each group presents findings and key takeaways to the full audience |
-| 11:45a-12:30p | ISTC Discussion Items & Closing | -- |
+| 9:15a-9:30a | Break | -- |
+| 9:30a-11:30a | Breakout Sessions | Theme 1: Autonomy at Scale <br> Theme 2: Human Interaction & Tasking <br> Theme 3: Anti-Autonomy / Counter-UAS <br> Theme 4: Precision Navigation & PNT <br> Theme 5: LLM / GAI & Workforce <br> Open: Other IS / Autonomy Topics|
+| 11:30a-12:00p | Breakout Reporting | Each group presents findings and key takeaways to the full audience |
+| 12:00p-12:30p | ISTC Discussion Items & Closing | -- |
 | 12:30p | End of Workshop | -- |
 
 <!-- OLD: Abstract submission is coming soon! -->

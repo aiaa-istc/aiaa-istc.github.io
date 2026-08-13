@@ -1,5 +1,6 @@
 ---
-layout: default2025ws
+layout: default
+workshop_menu_item: 2025ws.html
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>

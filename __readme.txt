@@ -59,4 +59,76 @@ git branch --list # list branches and shows current branch
 git checkout master # swaps over to a branch that currently exists
 git checkout -b new_branch # creates and swaps over to a new branch called new_branch
 
+#
+#
+#
+# other references for html, css, etc.:
+#
+#
+#
+
+# some really excellent jekykll ref.s on layouts, includes, data/var send from (.md) page front matter:
+# https://jekyllrb.com/docs/step-by-step/05-includes/
+# https://jekyllrb.com/docs/step-by-step/06-data-files/
+# https://jekyllrb.com/docs/includes/
+
+# note: the first ## on a .md page seems to turn into the page title if a 'title: ' isn't given in the
+# front page matter of the .md file
+#
+# note: a * * * all on a single line is a <hr> in the html
+# 
+# current front page matter includes are:
+# (default --> default.html as _layout template, no variable name given prior, just give on first line)
+# workshop_menu_item: (give 2022ws.html under _includes subdir or similar; for none just don't set var)
+# bkmk: (give bkmrk-home.html under _includes subdir or similar; for none just don't set var)
+# 
+# NOTE: bkmk requires interior to .md file "<div class="anchor" id="..."></div>" setups to work!!
+#       it also requires the bkmrk file to exist!!
+#
+# note that you can access these variables in the _layouts/default.html and similar by:
+# page.workshop_menu_item
+# e.g.
+# {% if page.workshop_menu_item %}
+#   {% include {{ page.workshop_menu_item }} %}
+# {% endif %}
+
+#
+# THE FOLLOWING DOES NOT SEEM TO WORK RIGHT NOW FOR SEPARATING THINGS IN THE SAME FILE...
+# https://stackoverflow.com/questions/26395044/jekyll-how-to-split-content-defined-in-md-file-into-separate-elements
+# excerpt_separator can apparently be used to spkit up pieces of a .md file?
+# in _config.yml put:
+# excerpt_separator: "<!--more-->"
+# and use this in your .md file
+# then call something like:
+# <article class=""> // mod as need be
+# {% assign.contentArray = page.content | markdownify | split: site.excerpt_separator %}
+# {{contentArray.last }}
+# </article>
+# <aside>
+# {{ contentArray.first }}
+# </aside>
+# ...
+#
+
+#
+# THE FOLLOWING *DOES* SEEM TO WORK FOR NOW, FOR STITCHING SEPARATE MD FILES TOGETHER! :)
+# https://stackoverflow.com/questions/41966638/jekyll-on-github-pages-include-markdown-in-another-markdown-file
+# example is:
+# {% capture my_include %}{% include name_of_md_file.md %}{% endcapture %}
+# {{ my_include | markdownify }}
+#
+# note that for this to work the .md file being included needs to be in the _includes directory
+#
+# might also need to do it as {{ my_include | liquify | markdownify }} if there are more things in there
+# as per https://unidata.github.io/unidata-jekyll-theme/sharing_content.html
+#
+
+#
+# putting a {% include ... %} inside a .md file doesn't seem to work currently (too many levels deep)
+# probably need to create a different _layout for committee_membership.md and mission.md
+#
+
+# good ref. for getting div blocks on the same line:
+# https://stackoverflow.com/questions/10540446/how-do-i-keep-two-divs-on-the-same-line
+
 # --eof--

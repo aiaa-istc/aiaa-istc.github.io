@@ -3,14 +3,45 @@
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 
+@import url('https://fonts.googleapis.com/css2?family=Orbitron'); // new
+@import url('https://fonts.googleapis.com/css2?family=Inter'); // new
+
+// note that the newer "NEW" things below were taken or worked off of from the 2026 IS workshop website,
+// see: https://jaywilhelm.github.io/istcworkshop2026/#schedule
+// a similar website, CSS-wise:
+//   https://github.com/chennaisoccersportsschool/css-academy
+//   https://chennaisoccersportsschool.github.io/css-academy/
+
+/* NEW */
+:root {
+  --navy:    #0A1628;
+  --navy2:   #0F2040;
+  --blue:    #1E3A5F;
+  --cyan:    #00C8FF;
+  --cyan2:   #0096CC;
+  --gold:    #FFD700;
+  --white:   #F0F4FF;
+  --whitewhite: #FFFFFF;
+  --muted:   #8BA4C0;
+  --card-bg: rgba(255,255,255,0.04);
+  --card-border: rgba(0,200,255,0.15);
+  --green: #00C853;
+  --red: #FF1744;
+}
+
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  //font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Inter', sans-serif; // NEW
   font-size: 15px;
   font-weight: 400;
-  line-height: 1.5;
-  color: #666;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  //line-height: 1.5;
+  line-height: 1.6; // NEW
+  //color: #666;
+  color: var(--white); // NEW
+  //background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  background: var(--navy); // NEW
+  overflow-x: hidden; // NEW -- 'GETS RID OF' TITLE AT TOP IF GETS TOO NARROW??? CHECK THIS!!
 }
 
 p {
@@ -18,53 +49,169 @@ p {
 }
 
 a {
-  color: #2879d0;
+  //color: #2879d0;
+  color: var(--cyan); //NEW -- added
 }
 a:hover {
-  color: #2268b2;
+  //color: #2268b2;
+  color: var(--white); //NEW -- added
 }
 
+// .header acts the same way .hero does for some things, basically? when comparing to the 2026 workshop site
 header {
-  padding-top: 40px;
+  //padding-top: 40px;
   /* padding-bottom: 40px; */
-  padding-bottom: 5px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
-  color: #ddd
+  //padding-bottom: 5px;
+  //font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  //background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  //border-bottom: solid 1px #275da1;
+  //color: #ddd
+
+  //min-height: 100vh; // NEW
+  display: flex; // NEW
+  align-items: center; // NEW
+  justify-content: center;  // NEW
+  position: relative; // NEW
+  overflow: hidden; // NEW
+  padding: 6rem 2rem 4rem; // NEW
+  background: radial-gradient(ellipse at 60% 40%, #0F2A50 0%, var(--navy) 65%); // NEW
+  
+  //position: relative; // NEW
+  z-index: 2; // NEW
+  //max-width: 680px; // NEW
+
+/*  font-family: 'Orbitron', sans-serif; // NEW
+  font-size: 0.7rem; // NEW
+  font-weight: 600; // NEW
+  letter-spacing: 0.25em; // NEW
+  color: var(--cyan); // NEW
+  text-transform: uppercase; // NEW
+  margin-bottom: 1.2rem; // NEW
+  display: flex; // NEW
+  align-items: center; // NEW
+  gap: 0.75rem; // NEW
+*/
 }
+
 
 header a {
-  color: #000000;
+  //color: #000000;
+  color: var(--cyan); //NEW -- added
 }
 
 header a:hover {
-  color: #2268b2;
+  //color: #2268b2;
+  color: var(--white); //NEW -- added
+}
+
+header h1::before { // NEW
+  content: '';
+  display: block;
+  width: 32px;
+  height: 1px;
+  background: var(--cyan);
 }
 
 header h1 {
 /*  width: 540px;*/
-  width: 740px;
-  margin-top: 0;
+  //width: 740px; // REMOVING BUTTON...
+  //margin-top: 0;
+  margin-top: 60px; // NEW -- adding the 60 to 40 padding to get the 100px for the navbar above it
   margin-bottom: 0.2em;
 /*  font-size: 72px;*/
-  font-size: 36px;
-  font-weight: normal;
-  line-height: 1;
-  color: #fff;
-  letter-spacing: -1px;
+  //font-size: 36px;
+  //font-weight: normal;
+  //line-height: 1;
+  //color: #fff;
+  //letter-spacing: -1px;
+
+  font-family: 'Orbitron', sans-serif; // NEW
+  font-size: 0.7rem; // NEW
+  font-weight: 600; // NEW
+  letter-spacing: 0.25em; // NEW
+  color: var(--cyan); // NEW
+  text-transform: uppercase; // NEW
+  margin-bottom: 1.2rem; // NEW
+  display: flex; // NEW
+  align-items: center; // NEW
+  gap: 0.75rem; // NEW
+}
+
+header h2 span { // new
+  color: var(--cyan);
 }
 
 header h2 {
 /*  width: 540px;*/
-  width: 740px;
+  //width: 740px; // REMOVING BUTTON...
   margin-top: 0;
-  margin-bottom: 0;
-  font-size: 26px;
-  font-weight: normal;
-  line-height: 1.3;
-  color: #9ddcff;
-  letter-spacing: 0;
+  //margin-bottom: 0;
+  //font-size: 26px;
+  //font-weight: normal;
+  //line-height: 1.3;
+  //color: #9ddcff;
+  //letter-spacing: 0;
+  
+  color: var(--white); // NEW -- added because is inside an 'a href' element and is black otherwise currently
+  font-family: 'Orbitron', sans-serif; // NEW
+  font-size: clamp(2rem, 5vw, 3.4rem); // NEW
+  font-weight: 900;  // NEW
+  line-height: 1.15; // NEW
+  letter-spacing: -0.01em; // NEW
+  margin-bottom: 1.5rem; // NEW
+  //font-size: 1.05rem; // NEW
+  //color: var(--muted); // NEW
+  //font-weight: 300; // NEW
+  //max-width: 520px; // NEW
+  //margin-bottom: 2.5rem; // NEW
+  //line-height: 1.7; // NEW
+}
+
+header h2 span { // NEW
+  color: var(--cyan);
+}
+
+.header-sub { // NEW
+  font-size: 1.05rem;
+  color: var(--muted);
+  font-weight: 300;
+  //max-width: 520px;
+  margin-bottom: 2.5rem;
+  line-height: 1.7;
+}
+
+.header-contact { // NEW
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.contact-rectangle { // NEW
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(0,200,255,0.08);
+  border: 1px solid var(--card-border);
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.istc-rectangle { // NEW, modded from .contact-rectangle
+  //display: flex;
+  display: inline; // added to get two divs on the same line (header-img-icon, istc-rectangle)
+  float: left; // added to get two divs on the same line (header-img-icon, istc-rectangle)
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--whitewhite);
+  //border: 1px solid var(--card-border);
+  border-radius: 6px;
+  padding: 0.25rem 0.25rem;
+  width: 180px; // ADDED
+  //font-size: 0.85rem;
+  //font-weight: 500;
 }
 
 .inner {
@@ -73,15 +220,136 @@ header h2 {
   margin: 0 auto;
 }
 
+.subpage-bookmarks-group { // NEW
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.bkmrk-outline { // NEW
+  background: transparent;
+  color: var(--cyan);
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 600;
+  //font-weight: 700; // alt.
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 0.85rem 2rem;
+  border: 1px solid var(--cyan);
+  //border: none; // alt.
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 0.2s;
+  //transition: background 0.2s, transform 0.15s; // alt.
+  display: inline-block;
+  
+  /* alt. color schemes:
+  
+  //background: var(--cyan);
+  //color: var(--navy);
+  
+  //background: var(--green);
+  //color: var(--navy);
+  
+  //background: transparent;
+  //color: var(--red);
+  */
+}
+.bkmrk-outline:hover { // NEW
+  background: rgba(0,200,255,0.08);
+  //background: #33d4ff; //alt.
+  //transform: translateY(-1px); // alt.
+}
+
+// reference used for anchor class is: https://stackoverflow.com/a/74834242
+.anchor { // need to have the spacing jump be 100px higher than the section label due to the navbar on top
+  position: relative;
+  top: -100px;
+}
+
+.header_img_icon img { // NEW-ISH, using icon size of workshp icons to force down size of social media icons
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  background: rgba(0,200,255,0.1);
+  //display: flex; // uncommenting this line forces things down one line for some reason...
+  //align-items: center;
+  //justify-content: center;
+  //margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+header-short { // copied fro header above, but shorter height
+  //padding-top: 40px;
+  /* padding-bottom: 40px; */
+  //padding-bottom: 5px;
+  //font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  //background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  //border-bottom: solid 1px #275da1;
+  //color: #ddd
+
+  //min-height: 100vh; // NEW
+  display: flex; // NEW
+  align-items: center; // NEW
+  justify-content: center;  // NEW
+  position: relative; // NEW
+  overflow: hidden; // NEW
+  //padding: 6rem 2rem 4rem; // NEW // removed padding
+  padding: 6rem 2rem 0rem; // NEW // removed lower padding
+  background: radial-gradient(ellipse at 60% 40%, #0F2A50 0%, var(--navy) 65%); // NEW
+  
+  //position: relative; // NEW
+  z-index: 2; // NEW
+  //max-width: 680px; // NEW
+
+/*  font-family: 'Orbitron', sans-serif; // NEW
+  font-size: 0.7rem; // NEW
+  font-weight: 600; // NEW
+  letter-spacing: 0.25em; // NEW
+  color: var(--cyan); // NEW
+  text-transform: uppercase; // NEW
+  margin-bottom: 1.2rem; // NEW
+  display: flex; // NEW
+  align-items: center; // NEW
+  gap: 0.75rem; // NEW
+*/
+}
+
+
+// .inner / div class="inner" gets used to restrict width in various sections / parts here,
+// works like .container / div class="container" for workshop website
+//
+// section id gets used in workshop website outside 'div class'es,
+// while here (in default.html) we currently use 'div class'es to wrap 'section id'
+//
+// .container / div class="container" in workshop website is used like inner (and clearfix?) here
+//
+// #content-wrapper gets used here in a similar way as #themes and similar on the workshop website
+//
+
+// #main-content / section id="main-content" is used here,
+// whereas things like #themes, #schedule, #student, #speaker, #location get used on the workshop website
+
 #content-wrapper {
   padding-top: 30px;
-  border-top: solid 1px #fff;
+  //border-top: solid 1px #fff; // getting rid of white top border with the new stuff, so looks more "modern"
+  background: var(--navy2); // NOTE: need to put this here for full-width of color -- adding different background color so more like the themes
 }
 
 #main-content {
   float: left;
 /*  width: 690px; REMOVED, ASIDE FIX */
   width: 940px; /* ADDED, ASIDE FIX -- note, 93% of 940px is 875px */
+  //background: var(--navy2); // NOTE: do NOT put this here, or stops at the short width! ...adding different background color so more like the themes
+}
+
+// copying over from main-content
+#end-content {
+  float: left;
+/*  width: 690px; REMOVED, ASIDE FIX */
+  width: 940px; /* ADDED, ASIDE FIX -- note, 93% of 940px is 875px */
+  //background: var(--navy2); // NOTE: do NOT put this here, or stops at the short width! ...adding different background color so more like the themes
 }
 
 #main-content img {
@@ -110,10 +378,17 @@ aside#sidebar p.repo-owner a {
   font-weight: bold;
 }
 
-#downloads {
+// copying over from main-content
+#end-content p.repo-owner,
+#end-content p.repo-owner a {
+  font-weight: bold;
+}
+
+#downloads { // currently unused
   margin-bottom: 40px;
 }
 
+/* REMOVING BUTTON...
 a.button {
   width: 134px;
   height: 58px;
@@ -135,7 +410,8 @@ header a.button {
   padding-right: 60px;
   /*background: transparent url(../images/github-button.png) 0 0 no-repeat;*/
   /*background: transparent url(../../images/ISTC_logo_small.gif) 0 0 no-repeat;*/
-}
+// REMOVING BUTTON... }
+
 /* REMOVING ASIDE...
 aside a.button {
   display: block;
@@ -180,13 +456,30 @@ ul, ol, dl {
 
 /* COMMON STYLES */
 
-hr {
+// hr { /* renaming old style */
+.white-rule {
   height: 0;
   margin-top: 1em;
   margin-bottom: 1em;
   border: 0;
   border-top: solid 1px #ddd;
 }
+/* new usage: <hr class="white-rule"> */
+
+/* NEW -- misc from workshop website, good for use inside themed 'card' sections */
+// original usage: <hr class="cyan-rule">
+// generally used on the line after an <h2> usage in a theme cards/section
+
+//.cyan-rule {
+hr {
+  border: none; height: 1px;
+  background: linear-gradient(90deg, transparent, var(--cyan), transparent);
+  opacity: 0.3;
+  //margin: 1rem 0 2.5rem;
+  margin: 1rem 0 2.5rem; // making margin smaller on this (hr) and for the padding below h2
+}
+
+// prior stuff below
 
 table {
   width: 100%;
@@ -212,6 +505,7 @@ form {
 
 /* GENERAL ELEMENT TYPE STYLES */
 
+/* OVERRIDE DUE TO STUFF ABOVE FROM WORKSHOP WEBSITE
 #main-content h1 {
   margin-top: 0;
   margin-bottom: 0;
@@ -229,7 +523,26 @@ form {
   color: #9ddcff;
   content: "/";
 }
+*/
 
+#main-content h1 { //.section-label { // NEW -- is first small-blue-text bit, meant to be similar to 'header h1'
+  font-family: 'Orbitron', sans-serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--cyan);
+  margin-bottom: 0.6rem;
+}
+#main-content h2 { // NEW -- is second larger white-text bit, meant to be similar to 'header h2'
+  font-family: 'Orbitron', sans-serif;
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  font-weight: 700;
+  //margin-bottom: 2.5rem; // making margin smaller on this (h2) and for the padding below hr
+  margin-bottom: 2rem; // making margin smaller on this (h2) and for the padding below hr
+  letter-spacing: -0.01em;
+}
+
+/* OVERRIDE DUE TO STUFF ABOVE FROM WORKSHOP WEBSITE
 #main-content h2 {
   margin-bottom: 8px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
@@ -244,67 +557,78 @@ form {
   content: "//";
   color: #9ddcff;
 }
+*/
 
 #main-content h3 {
   margin-top: 24px;
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  //font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Orbitron', sans-serif; // NEW
   font-size: 18px;
   font-weight: bold;
-  color: #474747;
-  text-indent: 3px;
+  //color: #474747;
+  //text-indent: 3px;
 }
-
+/* REMOVING DUE TO NEW STYLE-ING
 #main-content h3:before {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "///";
   color: #9ddcff;
 }
+*/
 
 #main-content h4 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  //font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Orbitron', sans-serif; // NEW
   font-size: 15px;
   font-weight: bold;
-  color: #474747;
-  text-indent: 3px;
+  //color: #474747;
+  //text-indent: 3px;
 }
-
-h4:before {
+/* REMOVING DUE TO NEW STYLE-ING
+#main-content h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
   content: "////";
   color: #9ddcff;
 }
+*/
 
 #main-content h5 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  //font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Orbitron', sans-serif; // NEW
   font-size: 14px;
-  color: #474747;
-  text-indent: 3px;
+  //color: #474747;
+  //text-indent: 3px;
 }
-h5:before {
+/* REMOVING DUE TO NEW STYLE-ING
+#main-content h5:before {
   padding-right: 0.3em;
   margin-left: -3.2em;
   content: "/////";
   color: #9ddcff;
 }
+*/
 
 #main-content h6 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  //font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Orbitron', sans-serif; // NEW
   font-size: .8em;
-  color: #474747;
-  text-indent: 3px;
+  //color: #474747;
+  //text-indent: 3px;
 }
-h6:before {
+/* REMOVING DUE TO NEW STYLE-ING
+#main-content h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
   content: "//////";
   color: #9ddcff;
 }
+*/
 
 p {
   margin-bottom: 20px;
@@ -342,7 +666,7 @@ dl dd {
   font-weight: 100;
 }
 
-footer {
+footer { // currently unused
   padding-top: 20px;
   padding-bottom: 30px;
   margin-top: 40px;
@@ -350,10 +674,10 @@ footer {
   color: #aaa;
 }
 
-footer a {
+footer a { // currenty unused
   color: #666;
 }
-footer a:hover {
+footer a:hover { // currently unused
   color: #444;
 }
 
@@ -369,32 +693,350 @@ footer a:hover {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
+html { scroll-behavior: smooth; } // NEW
+
+
+// going to set up teh content wrappers here like this, so can get the different background done
+// "properly" since we do the "div class=" and ".inner" stuff first and "section id=" stuff second,
+// rather than the other way around that the workshop website does it
+
+#content-wrapper2 { // goes with "small cards" theme ("theme") // SAME AS content-wrapper FOR NOW
+  padding-top: 30px;
+  //border-top: solid 1px #fff; // getting rid of white top border with the new stuff, so looks more "modern"
+  background: var(--navy2); // NOTE: need to put this here for full-width of color -- adding different background color so more like the themes
+}
+
+#content-wrapper3 { // goes with "tabs" theme ("schedule day tabs")
+  padding-top: 30px;
+  //border-top: solid 1px #fff; // getting rid of white top border with the new stuff, so looks more "modern"
+  background: var(--navy); // NOTE: need to put this here for full-width of color -- adding different background color so more like the themes
+}
+
+#content-wrapper4 { // goes with "yellow larger cards" theme ("student card")
+  padding-top: 30px;
+  //border-top: solid 1px #fff; // getting rid of white top border with the new stuff, so looks more "modern"
+  background: linear-gradient(135deg, var(--navy2) 0%, #0A1E3C 100%); // NOTE: need to put this here for full-width of color -- adding different background color so more like the themes
+}
+
+#content-wrapper5 { // goes with "larger less standout" theme ("speakers") -- SAME AS #2 FOR NOW
+  padding-top: 30px;
+  //border-top: solid 1px #fff; // getting rid of white top border with the new stuff, so looks more "modern"
+  background: var(--navy2); // NOTE: need to put this here for full-width of color -- adding different background color so more like the themes
+}
+
+#content-wrapper6 { // goes with "left pic right bullets info" theme ("location") // SAME AS #3 FOR NOW
+  padding-top: 30px;
+  //border-top: solid 1px #fff; // getting rid of white top border with the new stuff, so looks more "modern"
+  background: var(--navy); // NOTE: need to put this here for full-width of color -- adding different background color so more like the themes
+}
+
+/* NEW -- other section id type stuff ganked from workshop website */
+
+//
+// "small cards" theme ("theme")
+//
+themes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.25rem;
+}
+.theme-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: border-color 0.2s, transform 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+.theme-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--cyan), transparent);
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.theme-card:hover {
+  border-color: var(--cyan2);
+  transform: translateY(-3px);
+}
+.theme-card:hover::before {
+  opacity: 1;
+}
+.theme-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  background: rgba(0,200,255,0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+.theme-card h3 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: var(--white);
+  margin-bottom: 0.5rem;
+}
+.theme-card p {
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+//
+// "tabs" theme ("schedule day tabs")
+//
+.day-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--card-border);
+}
+.day-tab {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding: 0.75rem 1.75rem;
+  cursor: pointer;
+  border: none;
+  background: none;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  transition: color 0.2s, border-color 0.2s;
+}
+.day-tab.active {
+  color: var(--cyan);
+  border-bottom-color: var(--cyan);
+}
+.day-tab:hover:not(.active) {
+  color: var(--white);
+}
+.day-panel {
+  display: none;
+}
+.day-panel.active {
+  display: block;
+}
+
+//
+// "yellow larger cards" theme ("student card")
+//
+.lgtheme-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+.lgtheme-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.lgtheme-card h3 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--gold);
+}
+.lgtheme-card p {
+  font-size: 0.88rem;
+  color: var(--muted);
+  line-height: 1.65;
+}
+.badge {
+  display: inline-block;
+  background: rgba(255,215,0,0.1);
+  border: 1px solid rgba(255,215,0,0.3);
+  color: var(--gold);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  width: fit-content;
+}
+
+//
+// "larger less standout" theme ("speakers")
+//
+
+.lgblend-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.lgblend-block {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 1.25rem 1.75rem;
+  flex: 1;
+  min-width: 200px;
+}
+.lgblend-block h4 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--cyan);
+  margin-bottom: 0.75rem;
+}
+.lgblend-block ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.lgblend-block li {
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+.lgblend-block li span {
+  color: var(--white);
+  font-weight: 500;
+}
+
+//
+// "left pic right bullets info" theme ("location")
+//
+.lpic-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+}
+.lpic-placeholder {
+  background: var(--navy2);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  aspect-ratio: 4/3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+  position: relative;
+  overflow: hidden;
+}
+.lpic-svg {
+  width: 100%;
+  height: 100%;
+}
+.lpic-details {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.lpic-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+.lpic-icon {
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  background: rgba(0,200,255,0.1);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+}
+.lpic-text h4 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--cyan);
+  margin-bottom: 0.3rem;
+}
+.lpic-text p {
+  font-size: 0.9rem;
+  color: var(--white);
+}
+.lpic-text small {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+
+
+
+/* navigation bar stuff is here-following! */
 
 /* MORE MISC -- reference used for dropdown button was: https://www.w3schools.com/howto/howto_css_more_button.asp on 2024-09-09 */
 
 .inner2 { /* getting things to line up properly with grey bar &etc. */
 /*  position: relative; */ /* we need inner2 not inner because of the position argument below in submenu-content */
-  width: 940px;
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100; // NEW
+  //width: 940px; // commented out so stretches whole width when fully at top now
   margin: 0 auto;
+
+  display: flex; // NEW
+  justify-content: space-between; // NEW
+  align-items: center; // NEW
+  padding: 1rem 3rem; // NEW
+//  background: rgba(10,22,40,0.85); // NEW -- this needs to be in .site-navigation to work
+  backdrop-filter: blur(12px); // NEW -- this needs to be here not .site-nav to work
+  border-bottom: 1px solid var(--card-border); // NEW -- this needs to be here not .site-nav to work
 }
 
 /* Horizontal site navigation bar */
+
 .site-navigation {
   overflow: hidden;
-  background-color: #666;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  //background-color: #666;
+  background: rgba(10,22,40,0.85); // NEW
+  //font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Orbitron', sans-serif; // NEW
+  font-size: 0.85rem; // NEW
+  font-weight: 700; // NEW
+  letter-spacing: 0.15em; // NEW
+  color: var(--cyan); // NEW
+  text-transform: uppercase; // NEW
+  display: flex; // NEW
+  gap: 2rem; // NEW
+  list-style: none; // NEW
 }
 
 /* font size as 15px and 13px? */
 
 .site-navigation a {
   float: left;
-  font-size: 20px; /* was 16px */
-  color: #aaa;
+  //font-size: 20px; /* was 16px */
+  //color: #aaa;
+  color: var(--cyan); // NEW -- should only be first bit/piece
+  text-transform: uppercase; // NEW -- should only be first bit/piece, but seems to carry over to submenu
   text-align: center;
   padding: 12px 14px;
   /* padding: 12px 20px 12px 0px; /* top right bottom left */
-  text-decoration: none;
+  //text-decoration: none;
+
+  color: var(--muted); // NEW
+  text-decoration: none; // NEW
+  font-size: 0.8rem; // NEW
+  letter-spacing: 0.08em; // NEW
+  text-transform: uppercase; // NEW
+  transition: color 0.2s; // NEW
 }
 
 /* Vertical dropdown submenus for site navigation bar */
@@ -405,12 +1047,13 @@ footer a:hover {
 
 /* Submenu stuff */
 .submenu .subbox {
-  font-size: 20px; /* was 16px */
+  //font-size: 20px; /* was 16px */
   border: none;
   outline: none;
   color: #aaa;
   padding: 12px 14px; /* padding: 12px 20px 12px 0px; /* top right bottom left */
   background-color: inherit;
+  text-transform: uppercase; // NEW -- needed to make other main/top menu items show as uppercase
   /* The following is necessary for proper vertical alignment on phones? */
   font-family: inherit;
   margin: 0;
@@ -418,13 +1061,16 @@ footer a:hover {
 
 /* Add a colored box in the background to horizontal site navigation bar links on hover */
 .site-navigation a:hover, .submenu:hover .subbox {
-  background-color: #2e7bcf;
+  //background-color: #2e7bcf;
+  
+  color: var(--cyan); // NEW
 }
 
 .submenu-content {
   display: none; /* makes submenu hidden until mouseover */
   position: absolute;
-  background-color: #666; /* #f9f9f9; */
+  //background-color: #666; /* #f9f9f9; */
+  background-color: rgba(10,22,40,0.85);
   min-width: 160px;
   box-shadow: 20px 8px 16px 0px rgba(0,0,0,0.2);
   /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
@@ -433,7 +1079,7 @@ footer a:hover {
 
 .submenu-content a {
   float: none;
-  font-size: 15px; /* added */
+  //font-size: 15px; /* added */
   color: #aaa;
   padding: 10px 14px; /* 12px 16px; */
   text-decoration: none;
@@ -443,7 +1089,9 @@ footer a:hover {
 
 /* Add a colored box in the background to submenu links on hover */
 .submenu-content a:hover {
-  background-color: #444;
+  //background-color: #444;
+  
+  color: var(--cyan); // NEW
 }
 
 /* Show the submenu links on hover */
@@ -493,29 +1141,37 @@ footer a:hover {
 /*    width: 740px; */
     width: 93%; /* ADDED, ASIDE FIX */
   }
+/* REMOVING BUTTON...
   header h1, header h2 {
     /*width: 340px;*/
+/* REMOVING BUTTON...
     width: 600px
   }
   header h1 {
 /*    font-size: 60px;*/
+/* REMOVING BUTTON...
     font-size: 36px;
   }
   header h2 {
 /*    font-size: 30px;*/
+/* REMOVING BUTTON...
     font-size: 18px;
   }
   
   header { /* ADDED, ASIDE FIX */
+/* REMOVING BUTTON...
     padding: 20px 0;
   }
   header .inner { /* ADDED, ASIDE FIX */
+/* REMOVING BUTTON...
     position: relative;
   }
   header h1, header h2 { /* ADDED, ASIDE FIX */
+/* REMOVING BUTTON...
     width: 100%;
   }
   header a.button { /* ADDED, ASIDE FIX */
+/* REMOVING BUTTON...
     position: relative;
     display: inline-block;
     width: auto;
@@ -533,10 +1189,11 @@ footer a:hover {
     -webkit-border-radius: 5px;
   }
   header a.button small { /* ADDED, ASIDE FIX */
+/* REMOVING BUTTON...
     display: inline;
     font-size: 13px;
   }
-  
+*/  
   #main-content {
 /*    width: 490px; */
     float: none; /* ADDED, ASIDE FIX */
@@ -562,6 +1219,7 @@ footer a:hover {
   .inner2 {
     width: 93%;
   }
+/* REMOVING BUTTON...
   header {
     padding: 20px 0;
   }
@@ -573,10 +1231,12 @@ footer a:hover {
   }
   header h1 {
 /*    font-size: 48px;*/
+/* REMOVING BUTTON...
     font-size: 36px;
   }
   header h2 {
 /*    font-size: 24px;*/
+/* REMOVING BUTTON...
     font-size: 18px;
   }
   header a.button {
@@ -600,6 +1260,7 @@ footer a:hover {
     display: inline;
     font-size: 13px;
   }
+*/
   /* REMOVING ASIDE...
   #main-content,
   aside#sidebar {
@@ -638,4 +1299,3 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
-

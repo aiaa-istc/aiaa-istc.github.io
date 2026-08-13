@@ -1,5 +1,6 @@
 ---
-layout: default2022ws
+layout: default
+workshop_menu_item: 2022ws.html
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>

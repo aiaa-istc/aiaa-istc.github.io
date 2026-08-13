@@ -16,46 +16,58 @@
   </head>
 
   <body>
-    <header>
-      <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
-          <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
-          <h1>AIAA Intelligent Systems Technical Committee</h1>
-          <h2>AIAA ISTC Website on Github Pages</h2>
-        </a>
-        <!--<h2>{{ site.description | default: site.github.project_tagline }}</h2>-->
-        <!--
-        {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
-        {% endif %}
-        -->
-        <!-- apparently github thinks it's this
-        {% if site.github.is_user_page %}
-          <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
-        {% endif %}
-        -->
-          {% include headercontactinfo.html %}
-          <a href="https://linkedin.com/company/aiaaistc">LinkedIn Page</a><!-- | <a href="https://www.facebook.com/groups/1720654964877344/">Facebook Group</a>-->
-          <br>
-          <a href="{{ '/' | absolute_url }}" class="button"><img src="{{ '/images/ISTC_logo_small.gif' | relative_url }}" alt="ISTC logo"></a>
-      </div>
-    </header>
-
     <!-- reference used for dropdown button was: https://www.w3schools.com/howto/howto_css_more_button.asp on 2024-09-09 -->
     <div class="site-navigation">
         <div class="inner2"> <!-- do .inner2 after .site-navigation so grey bar goes all the way across the page -->
             
-            {% include sitenavbar.html %}
+            {% include sitenavbar_left.html %}
+            {% if page.workshop_menu_item %}
+              {% include {{ page.workshop_menu_item }} %}
+            {% endif %}
+            {% include sitenavbar_right.html %}
             
         </div>
     </div>
 
+    <header-short>
+      <div class="inner">
+        <!-- HAVE THIS AT TOP NAV SO OKAY TO REMOVE LINK <a href="{{ '/' | absolute_url }}"> -->
+          <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
+          <div class="istc-rectangle">{% include logo.html %}</div> <!-- need to use style to force correct width+height under this div to keep all these on the same line -->
+          <div class="header_img_icon">
+            &nbsp;&nbsp;{% include follow.html %}
+          </div>
+          <br> <!-- istc-rectangle is currently inline left so need br -->
+          {% include headercontactinfo.html %}
+          
+          {% if page.bkmrk %}
+          <br><br>
+          {% endif %}
+          <div class="subpage-bookmarks-group">
+            {% if page.bkmrk %}
+              {% include {{ page.bkmrk }} %} <!-- include bkmrk-home.html -->
+            {% endif %}
+          </div>
+          <!-- <a href="{{ '/' | absolute_url }}" class="button"><img src="{{ '/images/ISTC_logo_small.gif' | relative_url }}" alt="ISTC logo"></a> -->
+      </div>
+    </header-short>
+
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          <p>The AIAA Intelligent Systems Technical Committee (ISTC) is concerned with the application of Intelligent System (IS) technologies and methods to aerospace systems, the verification and validation of these systems, and the education of the AIAA membership in the use of IS technologies in aerospace and other technical disciplines.</p>
-          <hr>
+          <!-- <p>The AIAA Intelligent Systems Technical Committee (ISTC) is concerned with the application of Intelligent System (IS) technologies and methods to aerospace systems, the verification and validation of these systems, and the education of the AIAA membership in the use of IS technologies in aerospace and other technical disciplines.</p> -->
+          <!-- <hr> -->
           {{ content }}
+
+        </section>
+
+      </div>
+    </div>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <!-- section id="main-content" -->
+        <section id="end-content">
 
           {% if site.github.is_project_page %}
           <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
@@ -77,5 +89,6 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
   </body>
 </html>

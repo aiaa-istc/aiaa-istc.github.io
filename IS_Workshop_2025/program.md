@@ -1,5 +1,6 @@
 ---
-layout: default2025ws
+layout: default
+workshop_menu_item: 2025ws.html
 ---
 
 <h2 align="center">Intelligent Systems Workshop</h2>
@@ -42,9 +43,9 @@ The rest of the program includes 2 technical sessions with plenary speakers and 
 
 <!-- (old text)
 This year we will have three technical sessions on the following topics:
-1.	Robust autonomy for harsh, unpredictable environments
-2.	AI-Crew Collaboration in air and space
-3.	Integration of Autonomy into existing ecosystems
+1.  Robust autonomy for harsh, unpredictable environments
+2.  AI-Crew Collaboration in air and space
+3.  Integration of Autonomy into existing ecosystems
 
 The program will also feature two [tours](/IS_Workshop_2022/tours.html), an [open mic session](/IS_Workshop_2022/open_mic_session.html), and two [student competitions](/IS_Workshop_2022/student_competitions.html).  
 

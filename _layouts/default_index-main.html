@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<!-- copied from https://github.com/pages-themes/architect/blob/master/_layouts/default.html on 2018-09-13, modified extensively-->
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+{% seo %}
+  </head>
+
+  <body>
+    <!-- reference used for dropdown button was: https://www.w3schools.com/howto/howto_css_more_button.asp on 2024-09-09 -->
+    <div class="site-navigation">
+        <div class="inner2"> <!-- do .inner2 after .site-navigation so grey bar goes all the way across the page -->
+            
+            {% include sitenavbar_left.html %}
+            {% if page.workshop_menu_item %}
+              {% include {{ page.workshop_menu_item }} %}
+            {% endif %}
+            {% include sitenavbar_right.html %}
+            
+        </div>
+    </div>
+
+    <header>
+      <div class="inner">
+        <!-- HAVE THIS AT TOP NAV SO OKAY TO REMOVE LINK <a href="{{ '/' | absolute_url }}"> -->
+          <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
+          <!--<img src="{{ '/images/ISTC_logo_small.gif' | relative_url }}" alt="ISTC logo"> -->
+          <div class="istc-rectangle">{% include logo.html %}</div>
+          <br> <!-- istc-rectangle is currently inline left so need br -->
+          <h1>AIAA Intelligent Systems Technical Committee</h1>
+          <h2>AIAA ISTC Website on <span>Github Pages</span></h2>
+        <!-- </a> -->
+        <!--<h2>{{ site.description | default: site.github.project_tagline }}</h2>-->
+        <!--
+        {% if site.github.is_project_page %}
+          <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+        {% endif %}
+        -->
+        <!-- apparently github thinks it's this
+        {% if site.github.is_user_page %}
+          <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
+        {% endif %}
+        -->
+        
+          <p class="header-sub">The AIAA Intelligent Systems Technical Committee (ISTC) is concerned with the application of Intelligent System (IS) technologies and methods to aerospace systems, the verification and validation of these systems, and the education of the AIAA membership in the use of IS technologies in aerospace and other technical disciplines.</p>
+        
+          {% include headercontactinfo.html %}
+          
+          <div class="header_img_icon">
+            {% include follow.html %}
+            <!--Follow us on: <a href="https://linkedin.com/company/aiaaistc"><img src="https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:75d8a76e-08d9-4e84-9e10-e87f8d79149d/original/as/brand-inlogo-hero-fg-dsk-v01-2x.png" alt="LinkedIn"</img></a>
+            &nbsp;&nbsp;<a href="https://bsky.app/profile/aiaaistc.bsky.social"><img src="https://bsky.social/about/brand-assets/butterfly/bluesky_media_kit_logo_transparent_1.png" alt="Bluesky"</img></a>
+            &nbsp;&nbsp;<a href="https://x.com/aiaa_istc"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/X_%28formerly_Twitter%29_logo_late_2025.svg" alt="Twitter/X"</img></a>
+            --><!-- | <a href="https://www.facebook.com/groups/1720654964877344/">Facebook Group</a>-->
+          </div>
+          
+          {% if page.bkmrk %}
+          <br><br>
+          {% endif %}
+          <div class="subpage-bookmarks-group">
+            {% if page.bkmrk %}
+              {% include {{ page.bkmrk }} %} <!-- include bkmrk-home.html -->
+            {% endif %}
+          </div>
+          <!-- <a href="{{ '/' | absolute_url }}" class="button"><img src="{{ '/images/ISTC_logo_small.gif' | relative_url }}" alt="ISTC logo"></a> -->
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <!-- <p>The AIAA Intelligent Systems Technical Committee (ISTC) is concerned with the application of Intelligent System (IS) technologies and methods to aerospace systems, the verification and validation of these systems, and the education of the AIAA membership in the use of IS technologies in aerospace and other technical disciplines.</p> -->
+          <!-- <hr> -->
+          {{ content }}
+
+        </section>
+
+      </div>
+    </div>
+
+    {% if page.content2 %}
+    <div id="content-wrapper3"> <!-- for diff background, since content-wrapper == content-wrapper2 -->
+      <div class="inner clearfix">
+        <section id="main-content">
+          {% capture my_include2 %}{% include {{ page.content2 }} %}{% endcapture %}
+          {{ my_include2 | liquify | markdownify }}
+        </section>
+
+      </div>
+    </div>
+    {% endif %}
+    
+    {% if page.content3 %}
+    <div id="content-wrapper4">
+      <div class="inner clearfix">
+        <section id="main-content">
+          {% capture my_include3 %}{% include {{ page.content3 }} %}{% endcapture %}
+          {{ my_include3 | liquify | markdownify }}
+        </section>
+
+      </div>
+    </div>
+    {% endif %}
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <!-- section id="main-content" -->
+        <section id="end-content">
+
+          {% if site.github.is_project_page %}
+          <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+          {% endif %}
+          
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</p>
+        </section>
+
+      </div>
+    </div>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+    <script> // NEW from workshop website
+      // Day tab switching
+      function showDay(id, btn) {
+        document.querySelectorAll('.day-panel').forEach(p => p.classList.remove('active'));
+        document.querySelectorAll('.day-tab').forEach(b => b.classList.remove('active'));
+        document.getElementById(id).classList.add('active');
+        btn.classList.add('active');
+      }
+    </script>
+
+  </body>
+</html>
